@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Detail</name>
+   <tag></tag>
+   <elementGuidId>78951e98-1ca2-47b9-84da-7334e94910d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='section-lihat-program']/div/div/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.items-start.w-full.mt-auto</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>94b2d8fa-3e93-4af6-8c2b-c6346268f915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-start w-full mt-auto</value>
+      <webElementGuid>17718d3b-bf93-4055-905f-66b4cb26ecd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detail</value>
+      <webElementGuid>4b955ba9-314b-41f3-8a15-f04e3129c024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-lihat-program&quot;)/div[@class=&quot;scroll-smooth&quot;]/div[@class=&quot;p-8 bg-[#F4F7FF] lg:py-24 lg:px-[108px]&quot;]/div[@class=&quot;flex flex-col items-center justify-center w-full mx-auto&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 md:place-content-center items-start gap-2&quot;]/div[@class=&quot;flex flex-col p-6 items-start gap-3 rounded-lg bg-white w-full h-full lg:max-w-[300px]&quot;]/div[@class=&quot;flex items-start w-full mt-auto&quot;]</value>
+      <webElementGuid>f186dd2a-a51a-4268-b6f7-78c2d1904655</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='section-lihat-program']/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>7b3da49d-658a-441f-b01c-8ef1e5657bdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bergabung dengan program unggulan kami'])[1]/following::div[6]</value>
+      <webElementGuid>680be4ac-9e36-478c-bcf3-7bfcacc7c093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[2]/preceding::div[4]</value>
+      <webElementGuid>ebd3f7e3-1e67-4ffe-8c15-3c9170d4738a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>cd757e41-b69c-4e0e-b0a4-837218c76a45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Detail' or . = 'Detail')]</value>
+      <webElementGuid>11be66af-8099-4577-9add-a4388ec3d647</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
