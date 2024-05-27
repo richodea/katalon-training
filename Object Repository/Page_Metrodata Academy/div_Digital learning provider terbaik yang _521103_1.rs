@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Digital learning provider terbaik yang _521103_1</name>
+   <tag></tag>
+   <elementGuidId>9e23745e-79f6-45b8-8620-7d7bf90c4d29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/footer/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e5da0291-31fc-45f0-b9a3-ad0055f64627</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-8 lg:px-[108px]</value>
+      <webElementGuid>e0dc2cd7-0cd0-433a-859b-2c92920e4ec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Digital learning provider terbaik yang mampu meningkatkan potensi Anda serta menjembatani kesenjangan digital bagi profesional dan akademisi.FacebookInstagramLinkedinYouTubePerusahaanTerms &amp; ConditionTentang KamiArtikelForumProgramMetrodata InternshipMetrodata IT CampMetrodata TrainingMetrodata MengajarBantuanFAQKontak KamiHotline (Hari Kerja, Pukul 08.00 - 17.00)APL Tower Lt.37 Suite 1-8 Jl. Letjen S. Parman Kav.28, Kel. Tanjung Duren Selatan, Kec. Grogol Petamburan, Kota Administrasi Jakarta BaratOffice: +62 811 19 500900Support: contact@mii.co.idDapatkan penawaran menarik dan berita terbaruEmail addressSubscribe</value>
+      <webElementGuid>09737756-f9f0-4719-828f-da5673e52d58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/footer[@class=&quot;bg-cerulean-50&quot;]/div[@class=&quot;px-8 lg:px-[108px]&quot;]</value>
+      <webElementGuid>4e00cd9c-a494-4d69-a39e-db81fe4c438b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/footer/div</value>
+      <webElementGuid>638b18dc-7b87-4559-b563-df80a32f22e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/following::div[1]</value>
+      <webElementGuid>cdedf8a5-254d-4085-ba4c-9514d71f2ff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Academy'])[3]/following::div[30]</value>
+      <webElementGuid>f819f3b6-1ff2-4675-93c1-4e66500c9b7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div</value>
+      <webElementGuid>14f5d036-b84a-40b0-9dfc-045de0f95edb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Digital learning provider terbaik yang mampu meningkatkan potensi Anda serta menjembatani kesenjangan digital bagi profesional dan akademisi.FacebookInstagramLinkedinYouTubePerusahaanTerms &amp; ConditionTentang KamiArtikelForumProgramMetrodata InternshipMetrodata IT CampMetrodata TrainingMetrodata MengajarBantuanFAQKontak KamiHotline (Hari Kerja, Pukul 08.00 - 17.00)APL Tower Lt.37 Suite 1-8 Jl. Letjen S. Parman Kav.28, Kel. Tanjung Duren Selatan, Kec. Grogol Petamburan, Kota Administrasi Jakarta BaratOffice: +62 811 19 500900Support: contact@mii.co.idDapatkan penawaran menarik dan berita terbaruEmail addressSubscribe' or . = 'Digital learning provider terbaik yang mampu meningkatkan potensi Anda serta menjembatani kesenjangan digital bagi profesional dan akademisi.FacebookInstagramLinkedinYouTubePerusahaanTerms &amp; ConditionTentang KamiArtikelForumProgramMetrodata InternshipMetrodata IT CampMetrodata TrainingMetrodata MengajarBantuanFAQKontak KamiHotline (Hari Kerja, Pukul 08.00 - 17.00)APL Tower Lt.37 Suite 1-8 Jl. Letjen S. Parman Kav.28, Kel. Tanjung Duren Selatan, Kec. Grogol Petamburan, Kota Administrasi Jakarta BaratOffice: +62 811 19 500900Support: contact@mii.co.idDapatkan penawaran menarik dan berita terbaruEmail addressSubscribe')]</value>
+      <webElementGuid>9787761d-45bc-4fd0-bde0-673dfc357ea1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

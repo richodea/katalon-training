@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PT Sinergi Transformasi Digital (SINERG_7d455f</name>
+   <tag></tag>
+   <elementGuidId>6d4fa255-a7ec-4269-90e2-6a6556737ad2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[3]/div/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>72acc4b2-e439-4c3b-a8e6-c04659df936b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col lg:flex-row gap-8 lg:gap-16 items-center</value>
+      <webElementGuid>6a197785-7f7d-4794-9e1e-bb3813d9b41a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PT Sinergi Transformasi Digital (SINERGI)PT Sinergi Transformasi Digital (“SINERGI”) adalah bagian dari Indonesia. Sebagai perusahaan Teknologi Informasi, SINERGI terpanggil untuk berperan serta dalam pembangunan nasional dengan mengadopsi teknologi terbaik di dunia. SINERGI hadir dalam memberikan solusi, memiliki peran dan tanggung jawab, serta dinamika dalam keberagaman.</value>
+      <webElementGuid>a92a8ea6-b5d9-403d-849c-23119a325fdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;px-8 lg:px-[108px]&quot;]/div[@class=&quot;flex flex-col gap-10 justify-center items-center max-w-7xl mx-auto&quot;]/div[@class=&quot;flex flex-col gap-5&quot;]/div[@class=&quot;flex flex-col lg:flex-row gap-8 lg:gap-16 items-center&quot;]</value>
+      <webElementGuid>4c196843-2ece-4b08-b29b-177d9c1f3763</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]/div/div[2]/div[3]</value>
+      <webElementGuid>d7756b22-70e2-4a19-a62c-1241f11d3785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Academy'])[3]/following::div[11]</value>
+      <webElementGuid>5e9af3af-0de0-44a6-b202-bd105ac885a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::div[19]</value>
+      <webElementGuid>4aae3734-7641-4a28-80ac-99b2bf222901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::div[20]</value>
+      <webElementGuid>3dd4df34-b28f-4725-ab07-a340dd1d4c8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[3]</value>
+      <webElementGuid>9d4e3869-1d04-406f-8f3d-83ae6d1db1c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PT Sinergi Transformasi Digital (SINERGI)PT Sinergi Transformasi Digital (“SINERGI”) adalah bagian dari Indonesia. Sebagai perusahaan Teknologi Informasi, SINERGI terpanggil untuk berperan serta dalam pembangunan nasional dengan mengadopsi teknologi terbaik di dunia. SINERGI hadir dalam memberikan solusi, memiliki peran dan tanggung jawab, serta dinamika dalam keberagaman.' or . = 'PT Sinergi Transformasi Digital (SINERGI)PT Sinergi Transformasi Digital (“SINERGI”) adalah bagian dari Indonesia. Sebagai perusahaan Teknologi Informasi, SINERGI terpanggil untuk berperan serta dalam pembangunan nasional dengan mengadopsi teknologi terbaik di dunia. SINERGI hadir dalam memberikan solusi, memiliki peran dan tanggung jawab, serta dinamika dalam keberagaman.')]</value>
+      <webElementGuid>4066d34c-1911-49cb-885f-c41a75c91035</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

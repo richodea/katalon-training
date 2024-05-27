@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Metrodata Academy_lgw-500px lgh-400px r_dfe259_1</name>
+   <tag></tag>
+   <elementGuidId>4b38ff30-0e97-40f6-ab0b-98848caa478a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[3]/div/div[2]/div[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>588c70e5-c93a-45b7-968a-cfeafef57887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://metrodataacademy.s3.ap-southeast-1.amazonaws.com/static/Latar_Belakang_2.jpg</value>
+      <webElementGuid>cef28f48-80ec-4af8-8a35-ad920616a42d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Second Background Image Company Profile</value>
+      <webElementGuid>fe94bd27-211d-45e7-84a9-0a457011e5c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lg:w-[500px] lg:h-[400px] rounded-lg shadow-md object-cover</value>
+      <webElementGuid>8231687f-9130-4a5f-bfdc-30b4899378c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;px-8 lg:px-[108px]&quot;]/div[@class=&quot;flex flex-col gap-10 justify-center items-center max-w-7xl mx-auto&quot;]/div[@class=&quot;flex flex-col gap-5&quot;]/div[@class=&quot;flex flex-col-reverse lg:flex-row gap-8 lg:gap-16 items-center&quot;]/img[@class=&quot;lg:w-[500px] lg:h-[400px] rounded-lg shadow-md object-cover&quot;]</value>
+      <webElementGuid>e4862ebb-842a-4176-a3f2-a9b030a695f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]/div/div[2]/div[2]/img</value>
+      <webElementGuid>3954b9d6-8d26-49ce-b0cf-9457ab4ee48f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Second Background Image Company Profile']</value>
+      <webElementGuid>36edf104-5607-448e-b574-71287bcedd69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/img</value>
+      <webElementGuid>1631ade1-ff4e-4091-81c1-d2b394bfe8be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://metrodataacademy.s3.ap-southeast-1.amazonaws.com/static/Latar_Belakang_2.jpg' and @alt = 'Second Background Image Company Profile']</value>
+      <webElementGuid>0f9e41fd-f9e7-44e3-a3d0-c7247966446f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

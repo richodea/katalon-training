@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Latar Belakang Metrodata AcademyMetroda_9f4957</name>
+   <tag></tag>
+   <elementGuidId>e58cbf77-ca9a-4331-b37a-96a1f8590236</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-col.gap-10.justify-center.items-center.max-w-7xl.mx-auto</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a1be2242-2f92-4ec3-9cfd-8bd6a668196e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col gap-10 justify-center items-center max-w-7xl mx-auto</value>
+      <webElementGuid>677545ed-09f9-4115-b152-b0370512f33b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Latar Belakang Metrodata AcademyMetrodata Academy dibangun untuk ikut mencerdaskan kehidupan bangsa oleh:PT Metrodata Electronics TbkPT Metrodata Electronics Tbk (Perseroan) adalah perusahaan publik yang sahamnya tercatat di PT Bursa Efek Indonesia sejak tahun 1990 (IDX:MTDL) dan merupakan perusahaan Teknologi Informasi dan Komunikasi (TIK) terdepan di Indonesia yang telah bermitra dengan perusahaan-perusahaan TI kelas dunia sejak tahun 1975. Perseroan dikenal memiliki portofolio yang komprehensif dalam bidang distribusi perangkat keras dan peranti lunak TIK. Perseroan pada saat ini memiliki tiga bisnis utama yaitu Bisnis Distribusi yang menangani bidang usaha distribusi kepada dealer, perusahaan solusi TIK, dan e-commerce, Bisnis Solusi yang menyediakan solusi lengkap TIK mulai dari perancangan, implementasi, IT Managed Services, konsultasi dan pelatihan, Bisnis Konsultasi yang menawarkan solusi bisnis inovatif untuk transformasi bisnis.PT Mitra Integrasi Informatika (MII)PT Mitra Integrasi Informatika (MII) merupakan garda terdepan bisnis solusi teknologi informasi komunikasi kelompok usaha METRODATA. Sejak didirikan tanggal 1 Maret 1996, MII secara konsisten memfokuskan pelayanannya bagi pelanggan korporasi pasar enterprise di berbagai sektor industri maupun pasar UKM. MII telah berpartner dengan partner solusi TIK kelas dunia di area hardware, software dan services. MII menyediakan solusi kepada pelanggan mulai dari tahap desain dan blue print, konsultasi, implementasi, dukungan, pemeliharaan, managed services dan pelatihan.PT Sinergi Transformasi Digital (SINERGI)PT Sinergi Transformasi Digital (“SINERGI”) adalah bagian dari Indonesia. Sebagai perusahaan Teknologi Informasi, SINERGI terpanggil untuk berperan serta dalam pembangunan nasional dengan mengadopsi teknologi terbaik di dunia. SINERGI hadir dalam memberikan solusi, memiliki peran dan tanggung jawab, serta dinamika dalam keberagaman.</value>
+      <webElementGuid>0b71a354-d282-4ef3-b46a-dbbcfee2d64e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;px-8 lg:px-[108px]&quot;]/div[@class=&quot;flex flex-col gap-10 justify-center items-center max-w-7xl mx-auto&quot;]</value>
+      <webElementGuid>8c63d6ed-dfc0-4ab6-a4b9-0df76095feb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]/div</value>
+      <webElementGuid>db5c72ac-1083-451a-865a-a199917b581d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Academy'])[3]/following::div[4]</value>
+      <webElementGuid>45657e22-b96f-41ea-ac99-bd4bd1d42255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::div[26]</value>
+      <webElementGuid>13d21792-982f-4885-89e2-6c7d227245ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::div[27]</value>
+      <webElementGuid>5598969f-4643-4058-b3e3-1ec8b2e4b796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]/div</value>
+      <webElementGuid>d48bf054-f5cd-4a95-ac37-9fb6f9ca8e7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Latar Belakang Metrodata AcademyMetrodata Academy dibangun untuk ikut mencerdaskan kehidupan bangsa oleh:PT Metrodata Electronics TbkPT Metrodata Electronics Tbk (Perseroan) adalah perusahaan publik yang sahamnya tercatat di PT Bursa Efek Indonesia sejak tahun 1990 (IDX:MTDL) dan merupakan perusahaan Teknologi Informasi dan Komunikasi (TIK) terdepan di Indonesia yang telah bermitra dengan perusahaan-perusahaan TI kelas dunia sejak tahun 1975. Perseroan dikenal memiliki portofolio yang komprehensif dalam bidang distribusi perangkat keras dan peranti lunak TIK. Perseroan pada saat ini memiliki tiga bisnis utama yaitu Bisnis Distribusi yang menangani bidang usaha distribusi kepada dealer, perusahaan solusi TIK, dan e-commerce, Bisnis Solusi yang menyediakan solusi lengkap TIK mulai dari perancangan, implementasi, IT Managed Services, konsultasi dan pelatihan, Bisnis Konsultasi yang menawarkan solusi bisnis inovatif untuk transformasi bisnis.PT Mitra Integrasi Informatika (MII)PT Mitra Integrasi Informatika (MII) merupakan garda terdepan bisnis solusi teknologi informasi komunikasi kelompok usaha METRODATA. Sejak didirikan tanggal 1 Maret 1996, MII secara konsisten memfokuskan pelayanannya bagi pelanggan korporasi pasar enterprise di berbagai sektor industri maupun pasar UKM. MII telah berpartner dengan partner solusi TIK kelas dunia di area hardware, software dan services. MII menyediakan solusi kepada pelanggan mulai dari tahap desain dan blue print, konsultasi, implementasi, dukungan, pemeliharaan, managed services dan pelatihan.PT Sinergi Transformasi Digital (SINERGI)PT Sinergi Transformasi Digital (“SINERGI”) adalah bagian dari Indonesia. Sebagai perusahaan Teknologi Informasi, SINERGI terpanggil untuk berperan serta dalam pembangunan nasional dengan mengadopsi teknologi terbaik di dunia. SINERGI hadir dalam memberikan solusi, memiliki peran dan tanggung jawab, serta dinamika dalam keberagaman.' or . = 'Latar Belakang Metrodata AcademyMetrodata Academy dibangun untuk ikut mencerdaskan kehidupan bangsa oleh:PT Metrodata Electronics TbkPT Metrodata Electronics Tbk (Perseroan) adalah perusahaan publik yang sahamnya tercatat di PT Bursa Efek Indonesia sejak tahun 1990 (IDX:MTDL) dan merupakan perusahaan Teknologi Informasi dan Komunikasi (TIK) terdepan di Indonesia yang telah bermitra dengan perusahaan-perusahaan TI kelas dunia sejak tahun 1975. Perseroan dikenal memiliki portofolio yang komprehensif dalam bidang distribusi perangkat keras dan peranti lunak TIK. Perseroan pada saat ini memiliki tiga bisnis utama yaitu Bisnis Distribusi yang menangani bidang usaha distribusi kepada dealer, perusahaan solusi TIK, dan e-commerce, Bisnis Solusi yang menyediakan solusi lengkap TIK mulai dari perancangan, implementasi, IT Managed Services, konsultasi dan pelatihan, Bisnis Konsultasi yang menawarkan solusi bisnis inovatif untuk transformasi bisnis.PT Mitra Integrasi Informatika (MII)PT Mitra Integrasi Informatika (MII) merupakan garda terdepan bisnis solusi teknologi informasi komunikasi kelompok usaha METRODATA. Sejak didirikan tanggal 1 Maret 1996, MII secara konsisten memfokuskan pelayanannya bagi pelanggan korporasi pasar enterprise di berbagai sektor industri maupun pasar UKM. MII telah berpartner dengan partner solusi TIK kelas dunia di area hardware, software dan services. MII menyediakan solusi kepada pelanggan mulai dari tahap desain dan blue print, konsultasi, implementasi, dukungan, pemeliharaan, managed services dan pelatihan.PT Sinergi Transformasi Digital (SINERGI)PT Sinergi Transformasi Digital (“SINERGI”) adalah bagian dari Indonesia. Sebagai perusahaan Teknologi Informasi, SINERGI terpanggil untuk berperan serta dalam pembangunan nasional dengan mengadopsi teknologi terbaik di dunia. SINERGI hadir dalam memberikan solusi, memiliki peran dan tanggung jawab, serta dinamika dalam keberagaman.')]</value>
+      <webElementGuid>e6fd31ac-9f76-4322-a4a3-dfc5e835106c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Metrodata Academy_lgw-500px lgh-400px r_dfe259_1_2</name>
+   <tag></tag>
+   <elementGuidId>5d330b81-ee1a-45ea-ac44-f69ff3ccca43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[3]/div/div[2]/div[3]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2142900c-9557-48ff-b5c3-92c29885c1af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://metrodataacademy.s3.ap-southeast-1.amazonaws.com/static/Latar_Belakang_3.jpg</value>
+      <webElementGuid>49e2bce2-6ca1-4053-88e7-6f0590378130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Third Background Image Company Profile</value>
+      <webElementGuid>bbe7d961-1c8b-4cd3-bdab-7ef828e96b7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lg:w-[500px] lg:h-[400px] rounded-lg shadow-md object-cover</value>
+      <webElementGuid>4a1c7a87-aadf-430e-9fe9-8b7077de4ac3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;px-8 lg:px-[108px]&quot;]/div[@class=&quot;flex flex-col gap-10 justify-center items-center max-w-7xl mx-auto&quot;]/div[@class=&quot;flex flex-col gap-5&quot;]/div[@class=&quot;flex flex-col lg:flex-row gap-8 lg:gap-16 items-center&quot;]/img[@class=&quot;lg:w-[500px] lg:h-[400px] rounded-lg shadow-md object-cover&quot;]</value>
+      <webElementGuid>40ac4c48-a53f-4d08-b730-a9f1fd2838fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]/div/div[2]/div[3]/img</value>
+      <webElementGuid>3c7f2462-77c5-4d49-8dab-81e144b9feb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Third Background Image Company Profile']</value>
+      <webElementGuid>0388039f-86fb-4a7d-97a4-0b1e442c5c5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/img</value>
+      <webElementGuid>07246e7e-7c5e-4ceb-9b3b-f7d12f2d60f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://metrodataacademy.s3.ap-southeast-1.amazonaws.com/static/Latar_Belakang_3.jpg' and @alt = 'Third Background Image Company Profile']</value>
+      <webElementGuid>afc3eaae-c7fa-4286-9f8c-1f7c5194a7ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

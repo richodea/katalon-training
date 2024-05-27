@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1996199920152020PT Mitra Integrasi Info_9a3da7</name>
+   <tag></tag>
+   <elementGuidId>ad7af7ce-95e0-4d39-b71d-95e757313ab5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e1c54a1e-d869-45d4-8929-c26c7c841638</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-8 lg:py-24 xl:px-[108px]</value>
+      <webElementGuid>864306a2-545a-4f3f-a02b-00f7941ca039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1996199920152020PT Mitra Integrasi Informatika berdiri dan memberi layanan di berbagai sektor industri dan bekerja sama dengan solusi TIK kelas dunia.</value>
+      <webElementGuid>f1a3e4a2-d4bb-46f1-bfef-e327390340e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;p-8 lg:py-24 xl:px-[108px]&quot;]</value>
+      <webElementGuid>cfc48820-21ab-4bf6-86ee-a6d87042771d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[4]</value>
+      <webElementGuid>17636249-9cc8-4e8d-9819-796549f5d66a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Academy'])[3]/following::div[13]</value>
+      <webElementGuid>9b633e5c-80c4-40d4-b3cc-06f8968a2fe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::div[17]</value>
+      <webElementGuid>76f80ec4-982c-498e-b812-a16878108968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::div[18]</value>
+      <webElementGuid>1855bb59-2564-4b75-ba2f-9b2f11223d5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[4]</value>
+      <webElementGuid>dfd9a4c1-1b6c-4aa6-ae21-362006bb795c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1996199920152020PT Mitra Integrasi Informatika berdiri dan memberi layanan di berbagai sektor industri dan bekerja sama dengan solusi TIK kelas dunia.' or . = '1996199920152020PT Mitra Integrasi Informatika berdiri dan memberi layanan di berbagai sektor industri dan bekerja sama dengan solusi TIK kelas dunia.')]</value>
+      <webElementGuid>3091a29d-ecce-4457-abd8-de52e369b786</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

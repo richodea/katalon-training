@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PT Mitra Integrasi Informatika (MII)PT _d21817</name>
+   <tag></tag>
+   <elementGuidId>13d7e848-c22b-40ff-9996-f2c3b06bf975</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[3]/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c740035d-05f5-4be7-9f96-6b71ee39e083</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PT Mitra Integrasi Informatika (MII)PT Mitra Integrasi Informatika (MII) merupakan garda terdepan bisnis solusi teknologi informasi komunikasi kelompok usaha METRODATA. Sejak didirikan tanggal 1 Maret 1996, MII secara konsisten memfokuskan pelayanannya bagi pelanggan korporasi pasar enterprise di berbagai sektor industri maupun pasar UKM. MII telah berpartner dengan partner solusi TIK kelas dunia di area hardware, software dan services. MII menyediakan solusi kepada pelanggan mulai dari tahap desain dan blue print, konsultasi, implementasi, dukungan, pemeliharaan, managed services dan pelatihan.</value>
+      <webElementGuid>900d0320-9f79-458a-8be5-5d04b2deccdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;px-8 lg:px-[108px]&quot;]/div[@class=&quot;flex flex-col gap-10 justify-center items-center max-w-7xl mx-auto&quot;]/div[@class=&quot;flex flex-col gap-5&quot;]/div[@class=&quot;flex flex-col-reverse lg:flex-row gap-8 lg:gap-16 items-center&quot;]/div[1]</value>
+      <webElementGuid>da631a45-bf4b-48f7-80a8-dafe47a3dbbd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]/div/div[2]/div[2]/div</value>
+      <webElementGuid>c6d58ee9-44b6-40f2-909c-f99a9eb3f9aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Academy'])[3]/following::div[10]</value>
+      <webElementGuid>4e1abed7-8507-4976-ab1e-81ac38ea10c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::div[20]</value>
+      <webElementGuid>61486f88-0656-4d9c-b5bf-6bfc8483f1d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::div[21]</value>
+      <webElementGuid>ed048580-019f-41fd-96c1-abdfbeda4325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]/div</value>
+      <webElementGuid>41dcdd74-f6ed-4bdf-b40e-f5f7cccf55a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PT Mitra Integrasi Informatika (MII)PT Mitra Integrasi Informatika (MII) merupakan garda terdepan bisnis solusi teknologi informasi komunikasi kelompok usaha METRODATA. Sejak didirikan tanggal 1 Maret 1996, MII secara konsisten memfokuskan pelayanannya bagi pelanggan korporasi pasar enterprise di berbagai sektor industri maupun pasar UKM. MII telah berpartner dengan partner solusi TIK kelas dunia di area hardware, software dan services. MII menyediakan solusi kepada pelanggan mulai dari tahap desain dan blue print, konsultasi, implementasi, dukungan, pemeliharaan, managed services dan pelatihan.' or . = 'PT Mitra Integrasi Informatika (MII)PT Mitra Integrasi Informatika (MII) merupakan garda terdepan bisnis solusi teknologi informasi komunikasi kelompok usaha METRODATA. Sejak didirikan tanggal 1 Maret 1996, MII secara konsisten memfokuskan pelayanannya bagi pelanggan korporasi pasar enterprise di berbagai sektor industri maupun pasar UKM. MII telah berpartner dengan partner solusi TIK kelas dunia di area hardware, software dan services. MII menyediakan solusi kepada pelanggan mulai dari tahap desain dan blue print, konsultasi, implementasi, dukungan, pemeliharaan, managed services dan pelatihan.')]</value>
+      <webElementGuid>7402f100-440f-4eb7-b900-e0dddc04a0f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

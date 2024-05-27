@@ -41,9 +41,3 @@ WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/button_M Gi
 
 WebUI.takeScreenshot()
 
-WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/button_Keluar'))
-
-WebUI.takeScreenshot()
-
-WebUI.closeBrowser()
-

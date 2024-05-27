@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Metrodata Academy_w-9 h-9 lgw-10 lgh_30fcef</name>
+   <tag></tag>
+   <elementGuidId>9d0c69a8-78d5-4508-a38d-f88ed7d7f4e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[4]/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>eaa5dd44-7e2c-4a85-a9e4-bb7aa791c988</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-9 h-9 lg:w-10 lg:h-10 flex items-center justify-center relative bg-cerulean-600 rounded-full font-semibold text-white</value>
+      <webElementGuid>475993c9-2cb6-4a20-8f21-22a90692f90d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;p-8 lg:py-24 xl:px-[108px]&quot;]/div[@class=&quot;flex flex-col items-center justify-center gap-5 mx-auto max-w-7xl&quot;]/div[@class=&quot;flex justify-between w-full&quot;]/div[@class=&quot;relative flex flex-col justify-center items-center w-full false before:bg-cerulean-600&quot;]/button[@class=&quot;w-9 h-9 lg:w-10 lg:h-10 flex items-center justify-center relative bg-cerulean-600 rounded-full font-semibold text-white&quot;]</value>
+      <webElementGuid>fe54023d-3ce3-4a4f-b621-3a6fd8d49891</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[4]/div/div/div/button</value>
+      <webElementGuid>8bee0f12-c242-4d13-930a-4c49056f8f25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button</value>
+      <webElementGuid>8f16c02b-168d-481c-8b09-3281bb8f4049</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

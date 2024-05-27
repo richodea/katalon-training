@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Metrodata Academy_lgw-500px lgh-400px r_dfe259</name>
+   <tag></tag>
+   <elementGuidId>a2e56c6e-b53c-4a91-a484-491e3d8d19cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[3]/div/div[2]/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f902fefc-a42f-47fc-b213-af3327389eea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://metrodataacademy.s3.ap-southeast-1.amazonaws.com/static/Latar_Belakang_1.jpg</value>
+      <webElementGuid>0227a847-96ec-4876-8907-20d38e702e95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>First Background Image Company Profile</value>
+      <webElementGuid>38a7b9ea-cfab-4352-bf48-9ba44ccba7ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lg:w-[500px] lg:h-[400px] rounded-lg shadow-md object-cover</value>
+      <webElementGuid>1185fc48-b6b8-4fc8-9bc2-22ea108fc5a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;px-8 lg:px-[108px]&quot;]/div[@class=&quot;flex flex-col gap-10 justify-center items-center max-w-7xl mx-auto&quot;]/div[@class=&quot;flex flex-col gap-5&quot;]/div[@class=&quot;flex flex-col lg:flex-row gap-8 lg:gap-16 items-center&quot;]/img[@class=&quot;lg:w-[500px] lg:h-[400px] rounded-lg shadow-md object-cover&quot;]</value>
+      <webElementGuid>80295bd9-a83c-4cd9-976b-fc05d4b9fb61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]/div/div[2]/div/img</value>
+      <webElementGuid>06e311c4-402e-401b-ae98-1609ff6b96aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='First Background Image Company Profile']</value>
+      <webElementGuid>11f7814f-4259-4d3c-ba5f-8b76459e53a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img</value>
+      <webElementGuid>8332f2d5-cf36-46eb-887d-0d0a6f7535d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://metrodataacademy.s3.ap-southeast-1.amazonaws.com/static/Latar_Belakang_1.jpg' and @alt = 'First Background Image Company Profile']</value>
+      <webElementGuid>b4458398-a063-4d33-805f-2ee83537cc31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

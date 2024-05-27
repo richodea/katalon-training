@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Develop your IT  and digital potentialwi_81ae00</name>
+   <tag></tag>
+   <elementGuidId>8e70a3d2-184b-412d-a1f3-4a5ea5de18d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>da982f4b-8647-4c9a-b09d-ad1268b8a95e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> text-4xl lg:text-5xl lg:leading-[60px] text-white </value>
+      <webElementGuid>481d8785-e771-47d0-b29c-3e0827fb9b6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Develop your IT  and digital potentialwith Metrodata Academy</value>
+      <webElementGuid>c0c791aa-6cd8-4837-97ca-4c815989745c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;mx-auto pb-10 lg:pb-[108px] bg-opacity-50 mb-5&quot;]/div[@class=&quot;h-auto mx-auto&quot;]/div[@class=&quot;relative px-8 lg:px-[108px] pt-[138px] pb-6 sm:pb-[60px] lg:pt-[186px]&quot;]/div[@class=&quot;flex flex-col gap-[60px]&quot;]/div[@class=&quot;flex flex-col gap-5&quot;]/h2[@class=&quot;text-4xl lg:text-5xl lg:leading-[60px] text-white&quot;]</value>
+      <webElementGuid>06b2ab26-e493-4f6b-b9fb-c3dc3fc494c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/h2</value>
+      <webElementGuid>9bc88bf1-21d0-48c8-b741-63fbbade61ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::h2[1]</value>
+      <webElementGuid>614b5129-b93d-4679-99cf-fde45ba439c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::h2[1]</value>
+      <webElementGuid>d4b6d873-ff5d-4339-819e-2e581c75549b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>67e9478d-56da-4387-a031-6cc00d6c2070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Develop your IT  and digital potentialwith Metrodata Academy' or . = 'Develop your IT  and digital potentialwith Metrodata Academy')]</value>
+      <webElementGuid>7e87e7f0-5dbd-4e62-9bd0-5176d238bbf9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

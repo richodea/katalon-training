@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dapatkan penawaran menarik dan berita t_af1909</name>
+   <tag></tag>
+   <elementGuidId>de6e3993-4e10-415c-9762-76c6c4ae6c08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/footer/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>38f73ca8-3872-4dd0-a414-65da73a60e55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-4 px-4 sm:pr-3 bg-[#F9FAFB] sm:mt-20 lg:mt-24 lg:flex lg:items-center lg:justify-between lg:gap-x-3</value>
+      <webElementGuid>6b8c7166-2d2b-4d4c-ae5d-f9888904f960</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dapatkan penawaran menarik dan berita terbaruEmail addressSubscribe</value>
+      <webElementGuid>da89ff04-9cf1-41a2-a616-3e4a23a0acf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/footer[@class=&quot;bg-cerulean-50&quot;]/div[@class=&quot;px-8 lg:px-[108px]&quot;]/div[@class=&quot;pt-8 mt-16 sm:pt-0 sm:mt-0&quot;]/div[@class=&quot;px-0 xl:px-32&quot;]/div[@class=&quot;py-4 px-4 sm:pr-3 bg-[#F9FAFB] sm:mt-20 lg:mt-24 lg:flex lg:items-center lg:justify-between lg:gap-x-3&quot;]</value>
+      <webElementGuid>a7fe9c4e-e7fa-4547-83fc-ae0a95da441c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/footer/div/div[2]/div/div</value>
+      <webElementGuid>aba976dc-6c9c-4f04-a1e4-3135ad581372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Support: contact@mii.co.id'])[1]/following::div[3]</value>
+      <webElementGuid>a0154a53-befd-4b69-a3c6-4594a17a0119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Office: +62 811 19 500900'])[1]/following::div[3]</value>
+      <webElementGuid>454cf710-51ab-4bfa-8af9-c7145e136b89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div[2]/div/div</value>
+      <webElementGuid>0a57d1c3-3f77-49fb-b9e5-b01a6020987e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dapatkan penawaran menarik dan berita terbaruEmail addressSubscribe' or . = 'Dapatkan penawaran menarik dan berita terbaruEmail addressSubscribe')]</value>
+      <webElementGuid>7091096d-82b8-4853-9117-2c00afb66afb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

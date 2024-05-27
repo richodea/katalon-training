@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_2024 Metrodata Academy. All right reserve_5ae0fa</name>
+   <tag></tag>
+   <elementGuidId>973c9e6b-1575-4f52-b224-bee90d6d38f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/footer/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>16a95791-87ca-42ae-817f-40296c3323ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base font-normal leading-6 text-center text-[#888]</value>
+      <webElementGuid>65e881ab-c141-4b3d-84cb-0ea3f4de2451</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>© 2024 Metrodata Academy. All right reserved by PT Mitra Integrasi Informatika.</value>
+      <webElementGuid>c9b8e2b3-e260-4b84-a00a-029f83f3f3bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/footer[@class=&quot;bg-cerulean-50&quot;]/div[@class=&quot;py-8 pb-10 border-t border-gray-200&quot;]/p[@class=&quot;text-base font-normal leading-6 text-center text-[#888]&quot;]</value>
+      <webElementGuid>76a326b6-fb4d-4552-bfc9-a04907670d3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/footer/div[2]/p</value>
+      <webElementGuid>202d18e2-bdee-4db0-a0cb-1bec5ff2e0a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe'])[1]/following::p[1]</value>
+      <webElementGuid>dded043a-591d-4d76-9004-b20c5e55b218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address'])[1]/following::p[1]</value>
+      <webElementGuid>f5d52edc-d80b-41c3-87f0-ce0370ed6f25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='©']/parent::*</value>
+      <webElementGuid>0172ad11-930e-4c66-a86c-5e56776e7c26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div[2]/p</value>
+      <webElementGuid>0b76b3f0-14d7-45d0-b236-eeec0b9e7356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '© 2024 Metrodata Academy. All right reserved by PT Mitra Integrasi Informatika.' or . = '© 2024 Metrodata Academy. All right reserved by PT Mitra Integrasi Informatika.')]</value>
+      <webElementGuid>52b7e2d2-5467-45fe-832c-6419a3a5b665</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

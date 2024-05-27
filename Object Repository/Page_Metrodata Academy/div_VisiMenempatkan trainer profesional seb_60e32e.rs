@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_VisiMenempatkan trainer profesional seb_60e32e</name>
+   <tag></tag>
+   <elementGuidId>52b477e0-552c-4c8b-a1b8-be33eacb739c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[5]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f57b612f-610f-4235-8ed5-c1f81326fa1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col gap-4 items-center w-full xl:w-[580px]</value>
+      <webElementGuid>74707399-f4d9-4701-9d38-20d787ae4a58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VisiMenempatkan trainer profesional sebagai komitmen kami dalam memberikan layanan berkualitas kepada para mitra. Dengan standar pengujian internasional pula baik dalam kemampuan teknis maupun kemampuan mengajarnya oleh para principal.</value>
+      <webElementGuid>24946921-452a-4ff3-866a-ca6e219eea0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex items-center justify-center mx-auto pb-8 px-9 lg:pb-24 xl:px-[108px]&quot;]/div[@class=&quot;flex flex-col gap-4 lg:flex-row lg:gap-0&quot;]/div[@class=&quot;flex flex-col gap-4 items-center w-full xl:w-[580px]&quot;]</value>
+      <webElementGuid>fcf92239-5468-439f-a768-6ec5fa85a381</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[5]/div/div</value>
+      <webElementGuid>b5c0abbb-6e3c-4d07-993a-b39f3c9fd5ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Academy'])[3]/following::div[23]</value>
+      <webElementGuid>d567b2c3-2802-4ae3-9db4-81dc59351e84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::div[7]</value>
+      <webElementGuid>5f791fb4-6596-4ec3-ae78-53b625268aca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::div[8]</value>
+      <webElementGuid>4abb98ac-fe90-407b-837a-f759c757aa54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div</value>
+      <webElementGuid>b5194571-662b-4b60-9b1b-f10f001287b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'VisiMenempatkan trainer profesional sebagai komitmen kami dalam memberikan layanan berkualitas kepada para mitra. Dengan standar pengujian internasional pula baik dalam kemampuan teknis maupun kemampuan mengajarnya oleh para principal.' or . = 'VisiMenempatkan trainer profesional sebagai komitmen kami dalam memberikan layanan berkualitas kepada para mitra. Dengan standar pengujian internasional pula baik dalam kemampuan teknis maupun kemampuan mengajarnya oleh para principal.')]</value>
+      <webElementGuid>adeb1975-0f5a-4c4a-8648-e0d99366cd97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

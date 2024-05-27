@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Metrodata AcademySetelah lebih dari 40 _93b162</name>
+   <tag></tag>
+   <elementGuidId>c6058a35-e611-4180-8af1-a167997efe42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8d1b36be-746b-4d2d-82cf-642c72aad730</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col items-center gap-8 mx-auto py-8 px-9 lg:py-24 lg:px-[108px]</value>
+      <webElementGuid>15dabc26-792e-45fc-8194-92d8a52a879a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Metrodata AcademySetelah lebih dari 40 tahun menjadi bagian dari perkembangan teknologi di Indonesia, Metrodata, ikut mengembangkan potensi talenta digital Indonesia melalui Metrodata Academy yang berdiri sejak tahun 2020.</value>
+      <webElementGuid>317c466c-46b6-4766-8683-23796eef35ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex flex-col items-center gap-8 mx-auto py-8 px-9 lg:py-24 lg:px-[108px]&quot;]</value>
+      <webElementGuid>d4954021-5d8d-451d-b79b-06f61db607fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]</value>
+      <webElementGuid>bb45e28b-a7fb-4414-8e4d-7d4144a666ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::div[6]</value>
+      <webElementGuid>4636eb4e-6098-4dfe-a497-0386c8e8ba81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::div[31]</value>
+      <webElementGuid>92db05bc-0ba7-4028-b5e7-3cacfb1b576c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]</value>
+      <webElementGuid>9add3999-ed15-4903-b8e4-eafc8e549a9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Metrodata AcademySetelah lebih dari 40 tahun menjadi bagian dari perkembangan teknologi di Indonesia, Metrodata, ikut mengembangkan potensi talenta digital Indonesia melalui Metrodata Academy yang berdiri sejak tahun 2020.' or . = 'Metrodata AcademySetelah lebih dari 40 tahun menjadi bagian dari perkembangan teknologi di Indonesia, Metrodata, ikut mengembangkan potensi talenta digital Indonesia melalui Metrodata Academy yang berdiri sejak tahun 2020.')]</value>
+      <webElementGuid>49530e16-97f9-40bb-a0c4-31d12a617e14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
