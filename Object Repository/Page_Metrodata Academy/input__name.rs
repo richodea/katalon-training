@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7bb245e6-849d-4f99-a5e1-3c6a60ddd97e</webElementGuid>
+      <webElementGuid>a9137663-9519-4ec0-8991-643ff82089f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>name</value>
-      <webElementGuid>e6d34051-e6a0-4052-ac5e-28f9051ad9c9</webElementGuid>
+      <webElementGuid>51f4e1a3-60fa-4c63-b47d-23fa664e7b32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>name</value>
-      <webElementGuid>6d6300d3-f5ab-4eca-8239-cbec1db0e8bb</webElementGuid>
+      <webElementGuid>6b9f908c-d0bd-46f9-81cd-7fe5602bc781</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>name</value>
-      <webElementGuid>575184b3-dcd9-4851-b09a-d935a4a0916d</webElementGuid>
+      <webElementGuid>498e4b2f-c3a3-4faf-a2fd-b2494a79daaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukkan nama lengkap, ie: John Doe</value>
-      <webElementGuid>97586c1b-13a3-4ae7-9ecc-ed157fa44779</webElementGuid>
+      <webElementGuid>e768565d-b617-41ef-b1c4-3c2c4bfc2801</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>block w-full px-3 py-[14px] bg-gray-50 border rounded-lg active:outline-none focus:ring-none border-gray-300</value>
-      <webElementGuid>9462150f-3a87-4eb9-b7b3-c9ab5cf5998f</webElementGuid>
+      <webElementGuid>a35c556b-3aeb-4797-b5ee-c10bc0e0f5d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;name&quot;)</value>
-      <webElementGuid>ab157abc-9da7-4330-8fcf-1226880559da</webElementGuid>
+      <webElementGuid>24a17164-29b3-4c98-9755-de08b7efb94d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='name']</value>
-      <webElementGuid>747d482f-3f51-46f0-b2d4-7b8b5646d7e9</webElementGuid>
+      <webElementGuid>1a2a2913-ebd5-4946-9afb-524e4005a8d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/form/div/div/div/div/input</value>
-      <webElementGuid>215ad5d7-61b5-4b4f-8b5e-5330d4bfa802</webElementGuid>
+      <webElementGuid>e4ce1aac-9bda-4561-af15-e007e3db7afc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>98eeaede-df80-492a-8a79-6c56e181faea</webElementGuid>
+      <webElementGuid>b906db57-d4e7-405a-ac73-686cde5a8486</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'name' and @name = 'name' and @id = 'name' and @placeholder = 'Masukkan nama lengkap, ie: John Doe']</value>
-      <webElementGuid>b542468d-78c4-4379-a31d-1dace99f47c6</webElementGuid>
+      <webElementGuid>e03aa4d2-75d8-4234-b2e9-4d50105c775c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

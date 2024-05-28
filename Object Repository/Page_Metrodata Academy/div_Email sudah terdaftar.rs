@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>0ac7cbb9-37cb-49e8-be35-1d777b834a01</webElementGuid>
+      <webElementGuid>ef255556-9484-4c02-b23f-b87eb8610b2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Email sudah terdaftar</value>
-      <webElementGuid>9aa9acd9-88c4-49e5-964b-deea70e8c4a9</webElementGuid>
+      <webElementGuid>b5a0b02d-4f26-4763-8c31-3e57f503e186</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/section[1]/ol[1]/li[1]/div[2]/div[1]</value>
-      <webElementGuid>f22de283-ca89-4e93-bbf2-34667465cfa8</webElementGuid>
+      <webElementGuid>4c5fc622-3079-4956-9a1a-1e38f40efb1f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/section/ol/li/div[2]/div</value>
-      <webElementGuid>0d35291b-93f7-448a-b052-0c6b1031e890</webElementGuid>
+      <webElementGuid>7fad3b6a-234b-4dbb-b785-7f3fa1eda89c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Akun Baru'])[1]/preceding::div[1]</value>
-      <webElementGuid>8a78e6f9-6f97-4525-8173-da6aac71cb01</webElementGuid>
+      <webElementGuid>4d0810e1-7f15-440c-a110-e8edd8b3c206</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Email sudah terdaftar']/parent::*</value>
-      <webElementGuid>72bcd4db-d9f5-4831-8a8c-ce5ff1987ca6</webElementGuid>
+      <webElementGuid>5fcba176-1ae0-4be9-9374-f2ee3c51158c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/div[2]/div</value>
-      <webElementGuid>c6be4cd8-d524-4d2d-88f2-174e77087246</webElementGuid>
+      <webElementGuid>f5c88265-0165-42b2-972f-faeb0236f092</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Email sudah terdaftar' or . = 'Email sudah terdaftar')]</value>
-      <webElementGuid>81e5008e-7ef7-4db6-a8b2-79d4286a2df0</webElementGuid>
+      <webElementGuid>19937e9f-1e4f-4de7-becb-714c14a24a13</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

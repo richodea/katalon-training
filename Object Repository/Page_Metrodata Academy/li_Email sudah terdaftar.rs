@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>84f3ba18-13b2-408b-94d7-dbd1dde88dde</webElementGuid>
+      <webElementGuid>99104369-d056-403e-ada9-ad9e272b26b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-live</name>
       <type>Main</type>
       <value>polite</value>
-      <webElementGuid>b0113721-d9f1-4859-ae44-ddb672f0fce2</webElementGuid>
+      <webElementGuid>ec8f76ed-adc2-40a3-a382-734a575a22f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-atomic</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>35ce0493-3d71-4e23-9b34-086356020a30</webElementGuid>
+      <webElementGuid>16153cfe-17c8-47c6-85f3-6c149d52f8b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>status</value>
-      <webElementGuid>553ab3da-d404-4b16-9428-94bc522769e4</webElementGuid>
+      <webElementGuid>c954df04-0250-4493-9910-c682c006e474</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>167dea77-276c-4be3-9aae-09e1bbbf71cc</webElementGuid>
+      <webElementGuid>b919c408-d3ac-4752-b979-2b5ab57ba458</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-styled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>29675ed0-cf6d-47c5-97bd-a30b4873e49a</webElementGuid>
+      <webElementGuid>5e748396-dade-4de5-9847-c4d3696c268a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-mounted</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>f7d3a643-e825-4235-8239-beb343f08b37</webElementGuid>
+      <webElementGuid>3c916866-0ac3-4f94-ac2f-a65842ee1906</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>data-promise</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>30e5d3c9-cb6b-4518-8b4a-2be7fcbc1563</webElementGuid>
+      <webElementGuid>42aeca1c-195b-48ed-a33f-3653fc55edbe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>data-removed</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f6a01624-789b-4ded-94b8-ca03ff821286</webElementGuid>
+      <webElementGuid>ac5bf23c-5f66-4cb2-91cd-52e9d4863c0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>data-visible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>74b5145f-8b54-4abf-a396-a6d1dfc0406b</webElementGuid>
+      <webElementGuid>ae10eddc-999c-493f-9629-0c525b82b79c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>data-y-position</name>
       <type>Main</type>
       <value>bottom</value>
-      <webElementGuid>a6b6f627-f3cb-4655-a335-795fd5792ae9</webElementGuid>
+      <webElementGuid>e419be41-2b71-4a0c-ad36-6a4e35206dd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>data-x-position</name>
       <type>Main</type>
       <value>right</value>
-      <webElementGuid>3a481734-b6c8-4b3c-b41c-dc79346cefc1</webElementGuid>
+      <webElementGuid>be54ffdd-b98f-4da9-99ee-ff7a7fad5af5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>data-index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>a79e04d2-f8f0-45d2-8b8f-e2b996428b0f</webElementGuid>
+      <webElementGuid>60a7adff-805c-4dad-b177-65eb8a7ad336</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>data-front</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>84839b55-87c1-4387-bfd5-260fbf345ca7</webElementGuid>
+      <webElementGuid>187d01ea-98cb-4256-8cc1-84703971cb1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>data-swiping</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>7390a683-6020-41dd-ab36-8608e983e149</webElementGuid>
+      <webElementGuid>e33a4d9d-6d84-4b3d-a34b-3e97272e0f10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>data-dismissible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>98936eae-5b0a-425c-ae77-6deb8170f5c8</webElementGuid>
+      <webElementGuid>d12a259a-0f70-4ffa-b0c0-4254e91284fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>data-type</name>
       <type>Main</type>
       <value>error</value>
-      <webElementGuid>3d72d20a-f1cc-4526-bbeb-997b66462da8</webElementGuid>
+      <webElementGuid>6788251f-6fb1-49fd-acb3-cf3ea6dba39e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>data-swipe-out</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>40b2787f-7210-49ad-984d-42cb26efc0b1</webElementGuid>
+      <webElementGuid>655c6b54-ebf1-487f-8835-26f1be6acb8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -166,7 +166,7 @@
       <name>data-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e0ade8b9-56e5-474d-b886-5dd35b3d3556</webElementGuid>
+      <webElementGuid>de6efaf4-68de-4731-ba48-415caf6666b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -174,7 +174,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Email sudah terdaftar</value>
-      <webElementGuid>7bb4ef86-184e-421c-a7e4-3704ef458e01</webElementGuid>
+      <webElementGuid>185bdac1-25ba-4f94-b3a8-2be6b6087aaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -182,7 +182,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/section[1]/ol[1]/li[1]</value>
-      <webElementGuid>090b5eca-c201-4fad-963b-a09b2fe6df0e</webElementGuid>
+      <webElementGuid>0361a952-b70e-4359-856f-5a289ff86b1a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -190,7 +190,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/section/ol/li</value>
-      <webElementGuid>2f243980-5063-416d-9709-56ac2547b72a</webElementGuid>
+      <webElementGuid>a4da9b0a-b28e-41fc-bd22-5812b1bae556</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -198,7 +198,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Akun Baru'])[1]/preceding::li[1]</value>
-      <webElementGuid>27f1450d-1dc7-4d69-bd68-02a636b8d377</webElementGuid>
+      <webElementGuid>d6b1e043-cbd9-4706-98a9-eda0638342e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -206,7 +206,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li</value>
-      <webElementGuid>d5b3227f-7735-40a8-9bdf-9e39d2f6f158</webElementGuid>
+      <webElementGuid>4879622b-d29b-4c6f-bdcc-a2057db750ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -214,6 +214,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Email sudah terdaftar' or . = 'Email sudah terdaftar')]</value>
-      <webElementGuid>9a9d1b39-fd78-4b37-9fda-08d39d38cef7</webElementGuid>
+      <webElementGuid>5059eeab-4320-40f8-8a84-7c848ce088b4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

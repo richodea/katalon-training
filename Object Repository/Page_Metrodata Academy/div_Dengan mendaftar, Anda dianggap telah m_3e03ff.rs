@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>2379ed23-af16-4192-bd52-b72763d32827</webElementGuid>
+      <webElementGuid>71f4e956-a19a-4486-b222-150487515277</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex items-start w-full gap-2</value>
-      <webElementGuid>798c828d-fea2-47d6-a0da-4a53c373e321</webElementGuid>
+      <webElementGuid>41fb368b-7a5c-4551-be92-dd8f4a8989ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Dengan mendaftar, Anda dianggap telah membaca dan menyetujui aturan penggunaan serta kebijakan yang berlaku.</value>
-      <webElementGuid>5ff1787f-0c07-45ec-b47f-262522149499</webElementGuid>
+      <webElementGuid>78ebc384-36c3-4188-9fd6-c20f6cb94b33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-2 h-screen&quot;]/div[@class=&quot;flex flex-col items-center justify-center gap-10 px-8 lg:px-[72px] py-5&quot;]/div[@class=&quot;flex flex-col justify-center w-full lg:px-8 py-10 gap-[23px]&quot;]/form[@class=&quot;flex flex-col gap-[18px]&quot;]/div[@class=&quot;flex items-start w-full gap-2&quot;]</value>
-      <webElementGuid>543e7120-e58d-4632-8513-59101cf71731</webElementGuid>
+      <webElementGuid>66dd06eb-e9ef-4fe9-bf09-b1c1b1656caa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/form/div[5]</value>
-      <webElementGuid>3d9f9ffc-e4b4-4a1e-a917-443f4b8ce8d6</webElementGuid>
+      <webElementGuid>ffdf8888-995e-4a5d-9ff7-358c939f6219</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::div[2]</value>
-      <webElementGuid>12dd4365-427e-4b71-b492-ccf166f2024b</webElementGuid>
+      <webElementGuid>9786909e-1ac3-4b41-a46e-3f1178f5c675</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::div[1]</value>
-      <webElementGuid>8220f640-2c5d-438d-baeb-9d7b5c674262</webElementGuid>
+      <webElementGuid>0f375dcf-33ef-444d-8808-9fe13824bf18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]</value>
-      <webElementGuid>0d8eec68-8244-4b5f-85e7-147d25e4ee7e</webElementGuid>
+      <webElementGuid>a5085b4d-2a74-4c20-b849-56488e359dd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Dengan mendaftar, Anda dianggap telah membaca dan menyetujui aturan penggunaan serta kebijakan yang berlaku.' or . = 'Dengan mendaftar, Anda dianggap telah membaca dan menyetujui aturan penggunaan serta kebijakan yang berlaku.')]</value>
-      <webElementGuid>7678e3c1-8c48-4669-be71-31154f2f5b6e</webElementGuid>
+      <webElementGuid>a59df383-6535-40dd-a2ac-aa95f7be0a3b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

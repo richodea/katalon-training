@@ -17,10 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('Object Repository/Page_Metrodata Academy/input__email'), 'papahgilak@gmail.com')
+WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/input__termsCondition'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Metrodata Academy/input__password'), 'ANgLrNN9LeX238E+iUxpGw==')
+WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/button_Daftar'))
 
-WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/button_Masuk'))
+WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/a_Masuk Sekarang'))
 
-WebUI.delay(3)

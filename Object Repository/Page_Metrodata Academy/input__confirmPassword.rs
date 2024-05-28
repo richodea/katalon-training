@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d2276a8e-360f-4a32-8d95-13d73a342df4</webElementGuid>
+      <webElementGuid>96222905-4852-4394-a588-7d72d8cd4fec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>ab60bc47-6ae6-4ab9-976e-8591c678052c</webElementGuid>
+      <webElementGuid>74038122-8977-46c6-9b9a-a419793e2508</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>confirmPassword</value>
-      <webElementGuid>f9b6070a-dd35-49b5-b22d-3071ec62dc69</webElementGuid>
+      <webElementGuid>b3a0d96f-7ce3-4b2a-8d4b-a79427f1ae93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>confirmPassword</value>
-      <webElementGuid>57ac7a83-5747-427f-801d-b271b9ac89a1</webElementGuid>
+      <webElementGuid>b5fbcec4-c04f-4f67-bfc8-2d2278c3dde3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Konfirmasi Password</value>
-      <webElementGuid>d323beae-589b-4f2d-a97b-ce8f32099e83</webElementGuid>
+      <webElementGuid>e4fee48f-b051-4e39-916c-43889baf76ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>block w-full px-3 py-[14px] bg-gray-50 border rounded-lg active:outline-none focus:ring-none border-gray-300</value>
-      <webElementGuid>55889cd7-4d16-425e-9b0a-302753db3ec2</webElementGuid>
+      <webElementGuid>a2d07c86-e14a-4a62-8caf-4bb984d71de7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;confirmPassword&quot;)</value>
-      <webElementGuid>73439011-96f1-426c-acd8-fe22013be219</webElementGuid>
+      <webElementGuid>3186d007-8d04-4add-8cf8-981d6a91ab79</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='confirmPassword']</value>
-      <webElementGuid>43dd094d-50d7-4c5f-99af-4b6026e3e584</webElementGuid>
+      <webElementGuid>88e8584d-8bb0-4355-beae-afdcf7a1574a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/form/div[4]/div/div/div/input</value>
-      <webElementGuid>8fd68f33-bf95-4fde-987a-7cfa6dab1bc2</webElementGuid>
+      <webElementGuid>0b367420-20b0-4387-99fb-d8f32ca0fd83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div/input</value>
-      <webElementGuid>4fd95c4c-df7d-423c-a104-a1da0774e679</webElementGuid>
+      <webElementGuid>74bb7cbc-c440-464e-9e84-8841650f7d9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'confirmPassword' and @id = 'confirmPassword' and @placeholder = 'Konfirmasi Password']</value>
-      <webElementGuid>1259671e-196b-4de8-ac82-bc9fe7580b2d</webElementGuid>
+      <webElementGuid>36a5c7d3-8e14-46de-9847-8c91c9f68ff8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
