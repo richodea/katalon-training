@@ -6,12 +6,12 @@
    <elementGuidId>450b91f7-ea35-400f-98b7-8d2ba969e0ea</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@type='submit']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>195e3b4d-392b-4881-8ed4-766282a63ff7</webElementGuid>
+      <webElementGuid>8066d904-aacc-4710-accd-30eb8d92a047</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>4e66021f-132c-41b4-959f-2960441533f2</webElementGuid>
+      <webElementGuid>113f1378-c78e-49b4-a850-56012e4f93ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full px-8 py-4 font-sans text-base font-medium leading-4 text-center text-white rounded-md disabled:bg-cerulean-300 bg-cerulean-600</value>
-      <webElementGuid>cb3ff09e-fd81-43d5-82cd-6e07de378de8</webElementGuid>
+      <webElementGuid>e8eda8fa-4d6d-44c3-b4fe-9dfb22103864</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Daftar</value>
-      <webElementGuid>59a35df9-9b68-4153-916e-b6b3be1ae2a4</webElementGuid>
+      <webElementGuid>aa22bbf4-bc5d-474c-a9e0-2841c01b08e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-2 h-screen&quot;]/div[@class=&quot;flex flex-col items-center justify-center gap-10 px-8 lg:px-[72px] py-5&quot;]/div[@class=&quot;flex flex-col justify-center w-full lg:px-8 py-10 gap-[23px]&quot;]/form[@class=&quot;flex flex-col gap-[18px]&quot;]/div[@class=&quot;w-full&quot;]/button[@class=&quot;w-full px-8 py-4 font-sans text-base font-medium leading-4 text-center text-white rounded-md disabled:bg-cerulean-300 bg-cerulean-600&quot;]</value>
-      <webElementGuid>3e714ebe-46bd-4ff6-8f2f-256f30e655df</webElementGuid>
+      <webElementGuid>ae5351fb-ba6f-4486-8c73-695da9def73b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>2d3400c8-b0a5-4d58-a038-9cff0380629d</webElementGuid>
+      <webElementGuid>898a2173-a12e-44f3-a869-3e9b29f1678d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/form/div[6]/button</value>
-      <webElementGuid>08f6c227-86c5-4238-b46c-2053dcd18e2a</webElementGuid>
+      <webElementGuid>b7e3c671-beed-4dca-86e6-1c33b69cf14a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='aturan penggunaan'])[1]/following::button[1]</value>
-      <webElementGuid>8abb4daf-4314-4a15-9a32-a9d687989c7b</webElementGuid>
+      <webElementGuid>7f77a605-4a57-4368-997e-129871d58311</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::button[2]</value>
-      <webElementGuid>6cbde851-8192-46a8-8836-910e0a1cd196</webElementGuid>
+      <webElementGuid>cb86a119-5e05-4332-a491-0a02b7f401fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk Sekarang'])[1]/preceding::button[1]</value>
-      <webElementGuid>24b3c72a-98f4-4492-9ea5-c549b75e67ce</webElementGuid>
+      <webElementGuid>1b02a150-5108-4518-be67-f27e00d84eb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Daftar']/parent::*</value>
-      <webElementGuid>227caa2c-a937-4a6e-a09e-597c09e1c3be</webElementGuid>
+      <webElementGuid>1725d74f-3532-4a66-843a-9bb1d53381d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/button</value>
-      <webElementGuid>e4713d89-39cb-4857-a361-ea0b18f60b57</webElementGuid>
+      <webElementGuid>e6cd116a-c4a0-4336-bc5b-f83e580c1fc0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Daftar' or . = 'Daftar')]</value>
-      <webElementGuid>68a9ff3a-2d06-46ea-bf0b-7af21c42802f</webElementGuid>
+      <webElementGuid>5bdb9ad0-32d8-473d-8ccb-4500cad35c42</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

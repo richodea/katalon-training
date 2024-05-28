@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Tentang Kami (Login)</name>
+   <name>Abnormal Daftar Login</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,19 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>c6a527f7-ed49-4a94-854f-279c7564054c</testSuiteGuid>
+   <testSuiteGuid>8607977b-753c-4a57-a078-3513642c6cce</testSuiteGuid>
    <testCaseLink>
-      <guid>50f65474-51da-43a0-8c06-c612543d4ea5</guid>
+      <guid>1517415a-21c8-4f05-ab37-90cbead017e8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Normal_Login</testCaseId>
+      <testCaseId>Test Cases/Abnormal_Daftar_Akun</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>2016e02b-e64a-4d12-8e64-e91e571d3cb0</guid>
+      <guid>000e4e06-8700-45a2-b663-f29ad5d8fd66</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Normal_TentangKami</testCaseId>
+      <testCaseId>Test Cases/Normal_Login_Gilang</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

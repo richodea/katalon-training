@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email sudah terdaftar</name>
+   <tag></tag>
+   <elementGuidId>39685c1c-ee9a-41f4-8ee0-6ff08e250e9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/ol/li/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0ac7cbb9-37cb-49e8-be35-1d777b834a01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email sudah terdaftar</value>
+      <webElementGuid>9aa9acd9-88c4-49e5-964b-deea70e8c4a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[1]/ol[1]/li[1]/div[2]/div[1]</value>
+      <webElementGuid>f22de283-ca89-4e93-bbf2-34667465cfa8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/ol/li/div[2]/div</value>
+      <webElementGuid>0d35291b-93f7-448a-b052-0c6b1031e890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Akun Baru'])[1]/preceding::div[1]</value>
+      <webElementGuid>8a78e6f9-6f97-4525-8173-da6aac71cb01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email sudah terdaftar']/parent::*</value>
+      <webElementGuid>72bcd4db-d9f5-4831-8a8c-ce5ff1987ca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div[2]/div</value>
+      <webElementGuid>c6be4cd8-d524-4d2d-88f2-174e77087246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email sudah terdaftar' or . = 'Email sudah terdaftar')]</value>
+      <webElementGuid>81e5008e-7ef7-4db6-a8b2-79d4286a2df0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

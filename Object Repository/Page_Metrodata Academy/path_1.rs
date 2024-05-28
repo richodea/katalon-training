@@ -6,11 +6,11 @@
    <elementGuidId>84d89aec-29c5-411d-bf91-1b1f1c84e403</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>CSS</key>
+         <value>path</value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
          <value></value>
       </entry>
    </selectorCollection>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>path</value>
-      <webElementGuid>6c2c8983-af84-4c78-a5cc-e2b45e7f4976</webElementGuid>
+      <webElementGuid>f665029b-f73c-4252-92c0-62036530e939</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,8 +37,8 @@
       <matchCondition>equals</matchCondition>
       <name>d</name>
       <type>Main</type>
-      <value>M3 2.25a.75.75 0 01.75.75v.54l1.838-.46a9.75 9.75 0 016.725.738l.108.054a8.25 8.25 0 005.58.652l3.109-.732a.75.75 0 01.917.81 47.784 47.784 0 00.005 10.337.75.75 0 01-.574.812l-3.114.733a9.75 9.75 0 01-6.594-.77l-.108-.054a8.25 8.25 0 00-5.69-.625l-2.202.55V21a.75.75 0 01-1.5 0V3A.75.75 0 013 2.25z</value>
-      <webElementGuid>0fa17747-fac9-4e10-b1ec-8191f2d1c5ea</webElementGuid>
+      <value>M3.53 2.47a.75.75 0 00-1.06 1.06l18 18a.75.75 0 101.06-1.06l-18-18zM22.676 12.553a11.249 11.249 0 01-2.631 4.31l-3.099-3.099a5.25 5.25 0 00-6.71-6.71L7.759 4.577a11.217 11.217 0 014.242-.827c4.97 0 9.185 3.223 10.675 7.69.12.362.12.752 0 1.113z</value>
+      <webElementGuid>7621268c-1045-40a7-bfb9-32c14c98f99c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex items-center justify-center mx-auto pb-8 px-9 lg:pb-24 xl:px-[108px]&quot;]/div[@class=&quot;flex flex-col gap-4 lg:flex-row lg:gap-0&quot;]/div[@class=&quot;flex flex-col gap-4 items-center w-full xl:w-[580px]&quot;]/div[@class=&quot;bg-[#FEEBEB] rounded-md p-4&quot;]/svg[@class=&quot;w-12 h-12 lg:w-[64px] lg:h-[64px]&quot;]/path[1]</value>
-      <webElementGuid>33f13751-d3d9-4bfb-9196-6ae318bb1a53</webElementGuid>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-2 h-screen&quot;]/div[@class=&quot;flex flex-col items-center justify-center gap-10 px-8 lg:px-[72px] py-5&quot;]/div[@class=&quot;flex flex-col justify-center w-full lg:px-8 py-10 gap-[23px]&quot;]/form[@class=&quot;flex flex-col gap-[18px]&quot;]/div[@class=&quot;flex flex-col items-start gap-2 relative&quot;]/button[@class=&quot;absolute inset-y-1 right-2 flex items-center top-9&quot;]/svg[@class=&quot;h-5 w-5 text-gray-700&quot;]/path[1]</value>
+      <webElementGuid>33d8123c-f39f-4bb6-81ed-36069245c70a</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

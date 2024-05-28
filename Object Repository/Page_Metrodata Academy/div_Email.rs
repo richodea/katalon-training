@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email</name>
+   <tag></tag>
+   <elementGuidId>03993e5e-6fac-4634-8cf2-9d4e3678319b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/form/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b78bdafc-a88c-47f5-9101-f5fca4af3cb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col gap-2 items-start</value>
+      <webElementGuid>7f7a639a-80a3-4a3c-b87d-50adbd776ed3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email *</value>
+      <webElementGuid>264b3f8b-3c3e-4122-a83d-a37e759ca722</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-2 h-screen&quot;]/div[@class=&quot;flex flex-col items-center justify-center gap-10 px-8 lg:px-[72px] py-5&quot;]/div[@class=&quot;flex flex-col justify-center w-full lg:px-8 py-10 gap-[23px]&quot;]/form[@class=&quot;flex flex-col gap-[18px]&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;flex flex-col gap-2 items-start&quot;]</value>
+      <webElementGuid>0b31f75e-85a0-49ee-8e4c-2492e8603ace</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/form/div[2]/div/div</value>
+      <webElementGuid>eb477498-58f7-4c9d-98b5-4d0bc4900235</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[4]</value>
+      <webElementGuid>bdf61f93-a8e8-4aed-9800-47af0215f1f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div</value>
+      <webElementGuid>d90a2d12-a5fd-4a15-812a-0bc55bbf6a0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email *' or . = 'Email *')]</value>
+      <webElementGuid>8586330e-90be-4705-8976-cae2cc784fa8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

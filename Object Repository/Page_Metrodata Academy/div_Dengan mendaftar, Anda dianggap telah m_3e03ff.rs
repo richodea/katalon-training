@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dengan mendaftar, Anda dianggap telah m_3e03ff</name>
+   <tag></tag>
+   <elementGuidId>30398ca6-acdd-4259-9824-80a6d752a975</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.items-start.w-full.gap-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/form/div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2379ed23-af16-4192-bd52-b72763d32827</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-start w-full gap-2</value>
+      <webElementGuid>798c828d-fea2-47d6-a0da-4a53c373e321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dengan mendaftar, Anda dianggap telah membaca dan menyetujui aturan penggunaan serta kebijakan yang berlaku.</value>
+      <webElementGuid>5ff1787f-0c07-45ec-b47f-262522149499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-2 h-screen&quot;]/div[@class=&quot;flex flex-col items-center justify-center gap-10 px-8 lg:px-[72px] py-5&quot;]/div[@class=&quot;flex flex-col justify-center w-full lg:px-8 py-10 gap-[23px]&quot;]/form[@class=&quot;flex flex-col gap-[18px]&quot;]/div[@class=&quot;flex items-start w-full gap-2&quot;]</value>
+      <webElementGuid>543e7120-e58d-4632-8513-59101cf71731</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/form/div[5]</value>
+      <webElementGuid>3d9f9ffc-e4b4-4a1e-a917-443f4b8ce8d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::div[2]</value>
+      <webElementGuid>12dd4365-427e-4b71-b492-ccf166f2024b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::div[1]</value>
+      <webElementGuid>8220f640-2c5d-438d-baeb-9d7b5c674262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]</value>
+      <webElementGuid>0d8eec68-8244-4b5f-85e7-147d25e4ee7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dengan mendaftar, Anda dianggap telah membaca dan menyetujui aturan penggunaan serta kebijakan yang berlaku.' or . = 'Dengan mendaftar, Anda dianggap telah membaca dan menyetujui aturan penggunaan serta kebijakan yang berlaku.')]</value>
+      <webElementGuid>7678e3c1-8c48-4669-be71-31154f2f5b6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>21aff86c-f97b-45ec-954c-021a1dae9715</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>path:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>path</value>
-      <webElementGuid>632f83cf-fcb9-4600-bdb1-00d5734ab879</webElementGuid>
+      <webElementGuid>1c188ba7-f1c6-49b1-86a0-540eaaa5f328</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>fill-rule</name>
       <type>Main</type>
       <value>evenodd</value>
-      <webElementGuid>55bab7c2-9220-43c9-a8d4-8786e608487f</webElementGuid>
+      <webElementGuid>b80f88ef-2aa0-40d6-ba20-b5711176e61b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>d</name>
       <type>Main</type>
       <value>M1.323 11.447C2.811 6.976 7.028 3.75 12.001 3.75c4.97 0 9.185 3.223 10.675 7.69.12.362.12.752 0 1.113-1.487 4.471-5.705 7.697-10.677 7.697-4.97 0-9.186-3.223-10.675-7.69a1.762 1.762 0 010-1.113zM17.25 12a5.25 5.25 0 11-10.5 0 5.25 5.25 0 0110.5 0z</value>
-      <webElementGuid>288cbb61-ca85-4bb0-a56d-3b4ad0b5506d</webElementGuid>
+      <webElementGuid>a9b77849-7bb6-4017-bb60-595bd5cc485f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,14 +46,14 @@
       <name>clip-rule</name>
       <type>Main</type>
       <value>evenodd</value>
-      <webElementGuid>2760de44-81bc-400d-bf56-63a22e8f8d2d</webElementGuid>
+      <webElementGuid>3ddd60f4-d00c-40c9-91dc-7633f41f5396</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex items-center justify-center mx-auto pb-8 px-9 lg:pb-24 xl:px-[108px]&quot;]/div[@class=&quot;flex flex-col gap-4 lg:flex-row lg:gap-0&quot;]/div[@class=&quot;flex flex-col gap-4 items-center w-full xl:w-[580px]&quot;]/div[@class=&quot;bg-[#E1EFFE] rounded-md p-4&quot;]/svg[@class=&quot;w-12 h-12 lg:w-[64px] lg:h-[64px]&quot;]/path[2]</value>
-      <webElementGuid>2f6266af-36f5-4786-be21-00346db99127</webElementGuid>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-2 h-screen&quot;]/div[@class=&quot;flex flex-col items-center justify-center gap-10 px-8 lg:px-[72px] py-5&quot;]/div[@class=&quot;flex flex-col justify-center w-full lg:px-8 py-10 gap-[23px]&quot;]/form[@class=&quot;flex flex-col gap-[18px]&quot;]/div[@class=&quot;flex flex-col items-start gap-2 relative&quot;]/button[@class=&quot;absolute inset-y-1 right-2 flex items-center top-9&quot;]/svg[@class=&quot;h-5 w-5 text-gray-700&quot;]/path[2]</value>
+      <webElementGuid>1428e1fc-c695-4bb0-b272-d362ca032c00</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

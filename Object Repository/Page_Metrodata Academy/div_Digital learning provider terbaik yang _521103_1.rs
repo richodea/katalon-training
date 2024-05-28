@@ -6,12 +6,12 @@
    <elementGuidId>9e23745e-79f6-45b8-8620-7d7bf90c4d29</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/footer/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/footer/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>e5da0291-31fc-45f0-b9a3-ad0055f64627</webElementGuid>
+      <webElementGuid>8f8d9355-a911-42f0-94c1-20256644bd73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>px-8 lg:px-[108px]</value>
-      <webElementGuid>e0dc2cd7-0cd0-433a-859b-2c92920e4ec9</webElementGuid>
+      <webElementGuid>92efe073-aa97-451e-8e3e-f9295d520096</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Digital learning provider terbaik yang mampu meningkatkan potensi Anda serta menjembatani kesenjangan digital bagi profesional dan akademisi.FacebookInstagramLinkedinYouTubePerusahaanTerms &amp; ConditionTentang KamiArtikelForumProgramMetrodata InternshipMetrodata IT CampMetrodata TrainingMetrodata MengajarBantuanFAQKontak KamiHotline (Hari Kerja, Pukul 08.00 - 17.00)APL Tower Lt.37 Suite 1-8 Jl. Letjen S. Parman Kav.28, Kel. Tanjung Duren Selatan, Kec. Grogol Petamburan, Kota Administrasi Jakarta BaratOffice: +62 811 19 500900Support: contact@mii.co.idDapatkan penawaran menarik dan berita terbaruEmail addressSubscribe</value>
-      <webElementGuid>09737756-f9f0-4719-828f-da5673e52d58</webElementGuid>
+      <webElementGuid>1697dc03-5cde-483a-87c1-d54f92e9741f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/footer[@class=&quot;bg-cerulean-50&quot;]/div[@class=&quot;px-8 lg:px-[108px]&quot;]</value>
-      <webElementGuid>4e00cd9c-a494-4d69-a39e-db81fe4c438b</webElementGuid>
+      <webElementGuid>e3dd5140-a4a8-41c6-8dcb-24469baff0df</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/footer/div</value>
-      <webElementGuid>638b18dc-7b87-4559-b563-df80a32f22e4</webElementGuid>
+      <webElementGuid>d7305560-d392-4b17-9417-2afcb0c0d456</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,31 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/following::div[1]</value>
-      <webElementGuid>cdedf8a5-254d-4085-ba4c-9514d71f2ff6</webElementGuid>
+      <webElementGuid>f887d5d6-23e5-4822-9f93-041d8b6a6cbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last'])[1]/following::div[1]</value>
+      <webElementGuid>dd85a8b3-82af-44de-bf7d-fb71179455d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div</value>
+      <webElementGuid>43f3dd7f-537d-4edb-b45b-61d58ba89388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Digital learning provider terbaik yang mampu meningkatkan potensi Anda serta menjembatani kesenjangan digital bagi profesional dan akademisi.FacebookInstagramLinkedinYouTubePerusahaanTerms &amp; ConditionTentang KamiArtikelForumProgramMetrodata InternshipMetrodata IT CampMetrodata TrainingMetrodata MengajarBantuanFAQKontak KamiHotline (Hari Kerja, Pukul 08.00 - 17.00)APL Tower Lt.37 Suite 1-8 Jl. Letjen S. Parman Kav.28, Kel. Tanjung Duren Selatan, Kec. Grogol Petamburan, Kota Administrasi Jakarta BaratOffice: +62 811 19 500900Support: contact@mii.co.idDapatkan penawaran menarik dan berita terbaruEmail addressSubscribe' or . = 'Digital learning provider terbaik yang mampu meningkatkan potensi Anda serta menjembatani kesenjangan digital bagi profesional dan akademisi.FacebookInstagramLinkedinYouTubePerusahaanTerms &amp; ConditionTentang KamiArtikelForumProgramMetrodata InternshipMetrodata IT CampMetrodata TrainingMetrodata MengajarBantuanFAQKontak KamiHotline (Hari Kerja, Pukul 08.00 - 17.00)APL Tower Lt.37 Suite 1-8 Jl. Letjen S. Parman Kav.28, Kel. Tanjung Duren Selatan, Kec. Grogol Petamburan, Kota Administrasi Jakarta BaratOffice: +62 811 19 500900Support: contact@mii.co.idDapatkan penawaran menarik dan berita terbaruEmail addressSubscribe')]</value>
+      <webElementGuid>0ed9ec9b-aa7c-4f28-8dd6-61ab5d857736</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,21 +95,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Academy'])[3]/following::div[30]</value>
       <webElementGuid>f819f3b6-1ff2-4675-93c1-4e66500c9b7b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//footer/div</value>
-      <webElementGuid>14f5d036-b84a-40b0-9dfc-045de0f95edb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = 'Digital learning provider terbaik yang mampu meningkatkan potensi Anda serta menjembatani kesenjangan digital bagi profesional dan akademisi.FacebookInstagramLinkedinYouTubePerusahaanTerms &amp; ConditionTentang KamiArtikelForumProgramMetrodata InternshipMetrodata IT CampMetrodata TrainingMetrodata MengajarBantuanFAQKontak KamiHotline (Hari Kerja, Pukul 08.00 - 17.00)APL Tower Lt.37 Suite 1-8 Jl. Letjen S. Parman Kav.28, Kel. Tanjung Duren Selatan, Kec. Grogol Petamburan, Kota Administrasi Jakarta BaratOffice: +62 811 19 500900Support: contact@mii.co.idDapatkan penawaran menarik dan berita terbaruEmail addressSubscribe' or . = 'Digital learning provider terbaik yang mampu meningkatkan potensi Anda serta menjembatani kesenjangan digital bagi profesional dan akademisi.FacebookInstagramLinkedinYouTubePerusahaanTerms &amp; ConditionTentang KamiArtikelForumProgramMetrodata InternshipMetrodata IT CampMetrodata TrainingMetrodata MengajarBantuanFAQKontak KamiHotline (Hari Kerja, Pukul 08.00 - 17.00)APL Tower Lt.37 Suite 1-8 Jl. Letjen S. Parman Kav.28, Kel. Tanjung Duren Selatan, Kec. Grogol Petamburan, Kota Administrasi Jakarta BaratOffice: +62 811 19 500900Support: contact@mii.co.idDapatkan penawaran menarik dan berita terbaruEmail addressSubscribe')]</value>
-      <webElementGuid>9787761d-45bc-4fd0-bde0-673dfc357ea1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
