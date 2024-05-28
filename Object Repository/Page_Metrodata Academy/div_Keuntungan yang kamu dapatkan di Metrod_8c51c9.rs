@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Keuntungan yang kamu dapatkan di Metrod_8c51c9</name>
+   <tag></tag>
+   <elementGuidId>8501b81c-0149-43ae-b580-82122702cee5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8e52f2cf-2c2d-4e34-a5e5-02e703db9243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full h-auto bg-white py-8 px-9 lg:py-24 lg:px-[108px]</value>
+      <webElementGuid>76dea73d-e2a8-4375-9e45-94f08b47d48f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Keuntungan yang kamu dapatkan di Metrodata InternshipMendukung program Kampus Merdeka dengan magang berbasis proyek nyata untuk mahasiswa.PelatihanPeserta magang diberikan pelatihan dalam rangka beradaptasi dengan dunia industri.PengalamanPeserta magang mendapatkan pengalaman mengerjakan project yang bisa juga diambil menjadi topik skripsi.KarirPeserta magang berkesempatan diangkat menjadi seorang karyawan walaupun masih dalam masa magang.AllowanceAllowance atau uang Saku Diberikan bagi peserta magang yang ditempatkan di kantor, Jakarta, maupun bagi peserta yang mengerjakan project in site.</value>
+      <webElementGuid>e63d791e-e020-41f5-be49-f2fda6461f26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;w-full h-auto bg-white py-8 px-9 lg:py-24 lg:px-[108px]&quot;]</value>
+      <webElementGuid>1490f29b-9a9d-4351-828a-e1460c2b9d69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[5]</value>
+      <webElementGuid>a2b9c680-a39f-4700-a0c0-118522f3fb15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Internship telah bekerja sama dengan Universitas di seluruh Indonesia'])[1]/following::div[89]</value>
+      <webElementGuid>983544e5-b410-4dcb-8142-98e6f42ef66d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bergabung sekarang'])[1]/following::div[91]</value>
+      <webElementGuid>ec82e1ed-311e-496d-b7d3-8a16ecd85760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]</value>
+      <webElementGuid>a6dee7bd-a88b-4640-b4f8-015eded5d216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Keuntungan yang kamu dapatkan di Metrodata InternshipMendukung program Kampus Merdeka dengan magang berbasis proyek nyata untuk mahasiswa.PelatihanPeserta magang diberikan pelatihan dalam rangka beradaptasi dengan dunia industri.PengalamanPeserta magang mendapatkan pengalaman mengerjakan project yang bisa juga diambil menjadi topik skripsi.KarirPeserta magang berkesempatan diangkat menjadi seorang karyawan walaupun masih dalam masa magang.AllowanceAllowance atau uang Saku Diberikan bagi peserta magang yang ditempatkan di kantor, Jakarta, maupun bagi peserta yang mengerjakan project in site.' or . = 'Keuntungan yang kamu dapatkan di Metrodata InternshipMendukung program Kampus Merdeka dengan magang berbasis proyek nyata untuk mahasiswa.PelatihanPeserta magang diberikan pelatihan dalam rangka beradaptasi dengan dunia industri.PengalamanPeserta magang mendapatkan pengalaman mengerjakan project yang bisa juga diambil menjadi topik skripsi.KarirPeserta magang berkesempatan diangkat menjadi seorang karyawan walaupun masih dalam masa magang.AllowanceAllowance atau uang Saku Diberikan bagi peserta magang yang ditempatkan di kantor, Jakarta, maupun bagi peserta yang mengerjakan project in site.')]</value>
+      <webElementGuid>f0ad7790-81cc-421b-8fb9-027254c42d17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Artikel TerbaruBerita, ilmu, dan pelati_9a18c6</name>
+   <tag></tag>
+   <elementGuidId>6caf8fcf-b25b-4744-a0a7-9c18fff2db2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>815c2458-d460-400a-92bc-058cc9c5c678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-cerulean-50 p-8 lg:py-24 lg:px-[108px] mx-auto justify-center items-center</value>
+      <webElementGuid>f19ad045-fe80-4036-9667-d99105427745</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Artikel TerbaruBerita, ilmu, dan pelatihan terbaru di Metrodata AcademyMetrodata Academy HomePROMOMARCHVELOUS :  Buka Potensi Terbaik Kalian Di Bidang IT Dengan Harga HematBaca Selengkapnya Metrodata InternshipNEWSWelcome to Metrodata Academy MSIB Batch VIBaca Selengkapnya Metrodata InternshipNEWSMetrodata Menghadiri Undangan Penandatanganan Perjanjian Kerja Sama (PKS) Program MSIB Batch 6Baca Selengkapnya </value>
+      <webElementGuid>81732be3-016b-468a-bb19-6560523aa878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;bg-cerulean-50 p-8 lg:py-24 lg:px-[108px] mx-auto justify-center items-center&quot;]</value>
+      <webElementGuid>b1f9d65e-8bd8-4c35-a906-d7657b9cbaf7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[5]</value>
+      <webElementGuid>c9923aaf-9427-4794-8c99-26f316d1b691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapat Belajar di mana pun'])[1]/following::div[2]</value>
+      <webElementGuid>a8e3199a-da68-4888-be11-80eec191fef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kami memiliki mentor atau pengajar yang sudah berpengalaman dan ahli di bidangnya untuk Anda.'])[1]/following::div[7]</value>
+      <webElementGuid>8c09900d-27aa-43ec-a2dc-5643a232c7b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]</value>
+      <webElementGuid>9419c4d7-cd7e-4d2d-9cad-2816af0199ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Artikel TerbaruBerita, ilmu, dan pelatihan terbaru di Metrodata AcademyMetrodata Academy HomePROMOMARCHVELOUS :  Buka Potensi Terbaik Kalian Di Bidang IT Dengan Harga HematBaca Selengkapnya Metrodata InternshipNEWSWelcome to Metrodata Academy MSIB Batch VIBaca Selengkapnya Metrodata InternshipNEWSMetrodata Menghadiri Undangan Penandatanganan Perjanjian Kerja Sama (PKS) Program MSIB Batch 6Baca Selengkapnya ' or . = 'Artikel TerbaruBerita, ilmu, dan pelatihan terbaru di Metrodata AcademyMetrodata Academy HomePROMOMARCHVELOUS :  Buka Potensi Terbaik Kalian Di Bidang IT Dengan Harga HematBaca Selengkapnya Metrodata InternshipNEWSWelcome to Metrodata Academy MSIB Batch VIBaca Selengkapnya Metrodata InternshipNEWSMetrodata Menghadiri Undangan Penandatanganan Perjanjian Kerja Sama (PKS) Program MSIB Batch 6Baca Selengkapnya ')]</value>
+      <webElementGuid>3cd20988-7ed7-40f6-b9f0-7d0f44408c7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

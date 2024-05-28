@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Daftar Sekarang_w-full  object-cover ob_f1bee0</name>
+   <tag></tag>
+   <elementGuidId>bc2bc84a-e9bb-4957-b53c-8713c382f5ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[3]/div/div/a[2]/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f1f53665-160f-4aa5-8d25-455c8b30af54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://metrodataacademy.s3.ap-southeast-1.amazonaws.com/webinar/webinar-132059.jpg</value>
+      <webElementGuid>63ca2f98-f7c7-4e9e-995d-2e21f9586e13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Card Header Image</value>
+      <webElementGuid>6c3d7cdd-f52a-428d-a981-d6b1963fabc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full  object-cover object-center rounded-t-lg</value>
+      <webElementGuid>bb4627e5-669d-4c2d-99dd-afc01a521bce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;w-full h-auto px-9 py-8 lg:py-24 lg:px-[108px] bg-blue-50&quot;]/div[@class=&quot;flex flex-col gap-10 mx-auto max-w-7xl&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6&quot;]/a[@class=&quot;cur  sor-pointer&quot;]/div[@class=&quot;flex flex-col transition duration-500 ease-in-out bg-white border border-gray-200 rounded-lg shadow-md hover:bg-cerulean-50&quot;]/div[@class=&quot;rounded-lg h-full&quot;]/img[@class=&quot;w-full  object-cover object-center rounded-t-lg&quot;]</value>
+      <webElementGuid>77ede70e-ca83-4b80-9887-c8fb923f0a89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]/div/div/a[2]/div/div/img</value>
+      <webElementGuid>9d7fa7bd-f476-4a68-b837-9757d1afcad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Card Header Image'])[2]</value>
+      <webElementGuid>e319305a-d158-47f1-9d58-6d3be3157e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div/div/img</value>
+      <webElementGuid>8b297266-8d83-4a24-b838-6729abe4398a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://metrodataacademy.s3.ap-southeast-1.amazonaws.com/webinar/webinar-132059.jpg' and @alt = 'Card Header Image']</value>
+      <webElementGuid>b0ed3140-3a87-4f48-97e0-e4d74cc171c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

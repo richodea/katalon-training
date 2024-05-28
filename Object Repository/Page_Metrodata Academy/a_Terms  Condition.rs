@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Terms  Condition</name>
+   <tag></tag>
+   <elementGuidId>646041b3-0864-46fa-b143-e436bbd86228</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/footer/div/div/div[2]/div/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4692836a-0dbe-4117-b813-fe1f3a758c3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/terms-condition</value>
+      <webElementGuid>2ca31ec0-bd69-4977-a8cd-77dba078a2da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm leading-6 text-[#888]</value>
+      <webElementGuid>aed95d68-39ad-47a9-bcd5-7a2822e477ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terms &amp; Condition</value>
+      <webElementGuid>9d70e258-1ec9-4514-9a7d-a6433a504352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/footer[@class=&quot;bg-cerulean-50&quot;]/div[@class=&quot;px-8 lg:px-[108px]&quot;]/div[@class=&quot;xl:flex xl:flex-row xl:justify-center xl:mx-auto xl:gap-10 pt-16&quot;]/div[@class=&quot;grid grid-cols-2 xl:flex gap-[10px] mt-16 xl:flex-row xl:mt-0&quot;]/div[@class=&quot;grid-cols-2 gap-[10px] md:flex md:flex-row md:gap-[10px] xl:w-9/12&quot;]/div[@class=&quot;xl:w-9/12 sm:w-full w-auto&quot;]/ul[@class=&quot;mt-4 space-y-4&quot;]/li[1]/a[@class=&quot;text-sm leading-6 text-[#888]&quot;]</value>
+      <webElementGuid>9252e101-289f-4654-aafe-875664d070ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/footer/div/div/div[2]/div/div/ul/li/a</value>
+      <webElementGuid>dd922abd-c116-436d-9323-1a00bc641c24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Terms &amp; Condition')]</value>
+      <webElementGuid>787d8da8-dc0c-4a42-b707-3cc939e0b816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perusahaan'])[1]/following::a[1]</value>
+      <webElementGuid>8514b6b4-aeb0-4474-ab44-e4db046e74e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YouTube'])[1]/following::a[1]</value>
+      <webElementGuid>5a9eb7a0-b5cd-4ed7-807d-aae63f89c817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[2]/preceding::a[1]</value>
+      <webElementGuid>ffa03a1e-e1fc-4148-b8b4-49351015cfd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel'])[2]/preceding::a[2]</value>
+      <webElementGuid>b0992669-1263-4fa4-8804-36f970c556c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Terms &amp; Condition']/parent::*</value>
+      <webElementGuid>c04d04ac-e479-4fc5-872a-6bc8db5c78c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/terms-condition')]</value>
+      <webElementGuid>e870a632-2174-4993-98c5-c3c873407f2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>808d785c-72cd-4292-9be6-feabf5ee37f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/terms-condition' and (text() = 'Terms &amp; Condition' or . = 'Terms &amp; Condition')]</value>
+      <webElementGuid>db0ed65d-b106-4592-97ef-0f2b786f7c4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nikmati keuntunganbersama Metrodata Aca_8f9d17</name>
+   <tag></tag>
+   <elementGuidId>24bf1431-ca7e-4a72-8498-168656da19a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6918fad3-73ac-49b1-b43f-8bf0c69a8042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-white p-8 lg:pb-[96px] lg:px-[96px] lg:pt-[76px]</value>
+      <webElementGuid>b20e7af1-e642-4e34-a094-b2080ccd5438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nikmati keuntunganbersama Metrodata Academy01Solusi Lengkap EdukasiMetrodata Academy memberi beragam pilihan kebutuhan edukasi, mulai dari pelatihan dan sertifikasi profesional, program akademi kampus, penempatan kerja, magang, sampai dengan berbagai ilmu terkait Teknologi Informasi.02Pengajar HandalKami memiliki mentor atau pengajar yang sudah berpengalaman dan ahli di bidangnya untuk Anda.03Dapat Belajar di mana punMetrodata Academy dapat diakses di mana saja sehingga Anda dapat belajar dengan mentor handal di mana pun.</value>
+      <webElementGuid>c02c84ae-9f76-4fbc-b05c-89e5addbf6d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;bg-white p-8 lg:pb-[96px] lg:px-[96px] lg:pt-[76px]&quot;]</value>
+      <webElementGuid>c9478c18-d1e2-40d7-961d-53708626830e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[4]</value>
+      <webElementGuid>e3893052-8bd9-4cc0-b973-4480a79f2305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[4]/following::div[1]</value>
+      <webElementGuid>1d2bb061-2a9a-4fa2-94a2-9f6b616b6eb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[3]/following::div[6]</value>
+      <webElementGuid>51ab736b-3508-4547-a2e1-38d388800019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[4]</value>
+      <webElementGuid>bb9053db-5165-493a-b9cc-baedab0b1f1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nikmati keuntunganbersama Metrodata Academy01Solusi Lengkap EdukasiMetrodata Academy memberi beragam pilihan kebutuhan edukasi, mulai dari pelatihan dan sertifikasi profesional, program akademi kampus, penempatan kerja, magang, sampai dengan berbagai ilmu terkait Teknologi Informasi.02Pengajar HandalKami memiliki mentor atau pengajar yang sudah berpengalaman dan ahli di bidangnya untuk Anda.03Dapat Belajar di mana punMetrodata Academy dapat diakses di mana saja sehingga Anda dapat belajar dengan mentor handal di mana pun.' or . = 'Nikmati keuntunganbersama Metrodata Academy01Solusi Lengkap EdukasiMetrodata Academy memberi beragam pilihan kebutuhan edukasi, mulai dari pelatihan dan sertifikasi profesional, program akademi kampus, penempatan kerja, magang, sampai dengan berbagai ilmu terkait Teknologi Informasi.02Pengajar HandalKami memiliki mentor atau pengajar yang sudah berpengalaman dan ahli di bidangnya untuk Anda.03Dapat Belajar di mana punMetrodata Academy dapat diakses di mana saja sehingga Anda dapat belajar dengan mentor handal di mana pun.')]</value>
+      <webElementGuid>085c1f71-f618-4104-91a2-00ea077b1000</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

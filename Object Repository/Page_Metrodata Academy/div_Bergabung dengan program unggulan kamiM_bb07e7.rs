@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bergabung dengan program unggulan kamiM_bb07e7</name>
+   <tag></tag>
+   <elementGuidId>f44cd971-0bde-461c-98e2-7f6e5fd1af15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='section-lihat-program']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>08ef2d57-a5d8-49cd-be43-1e493c4f171a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-8 bg-[#F4F7FF] lg:py-24 lg:px-[108px]</value>
+      <webElementGuid>58aa3950-2056-4966-96d5-1853827204d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bergabung dengan program unggulan kamiMetrodata TrainingMenyediakan berbagai pelatihan bersertifikasi untuk publik yang dilakukan secara daring dan luringDetailMetrodata IT CampProgram belajar intensif bersama mentor berpengalaman melalui tahapan seleksi dan ujian untuk menghasilkan tenaga Teknologi Informasi profesionalDetailMetrodata InternshipMengembangkan keahlian dan pengalaman yang menghasilkan profesional di bidang teknologi informasi yang siap bekerjaDetailMetrodata MengajarProgram edukasi dan berbagi pengalaman secara gratis oleh tenaga ahli dan seluruh entitas Metrodata kepada para praktisi TI.Detail</value>
+      <webElementGuid>08a2eaf4-f016-4f46-93dc-3ad0ee999bda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section-lihat-program&quot;)/div[@class=&quot;scroll-smooth&quot;]/div[@class=&quot;p-8 bg-[#F4F7FF] lg:py-24 lg:px-[108px]&quot;]</value>
+      <webElementGuid>d0c526b0-76b6-4351-bcd0-8fb64d68228d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='section-lihat-program']/div/div</value>
+      <webElementGuid>bcaec0f4-b06f-47de-9e50-3dc1d71138e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div</value>
+      <webElementGuid>3cdce72d-cdd9-4aab-9600-dfe29362d062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bergabung dengan program unggulan kamiMetrodata TrainingMenyediakan berbagai pelatihan bersertifikasi untuk publik yang dilakukan secara daring dan luringDetailMetrodata IT CampProgram belajar intensif bersama mentor berpengalaman melalui tahapan seleksi dan ujian untuk menghasilkan tenaga Teknologi Informasi profesionalDetailMetrodata InternshipMengembangkan keahlian dan pengalaman yang menghasilkan profesional di bidang teknologi informasi yang siap bekerjaDetailMetrodata MengajarProgram edukasi dan berbagi pengalaman secara gratis oleh tenaga ahli dan seluruh entitas Metrodata kepada para praktisi TI.Detail' or . = 'Bergabung dengan program unggulan kamiMetrodata TrainingMenyediakan berbagai pelatihan bersertifikasi untuk publik yang dilakukan secara daring dan luringDetailMetrodata IT CampProgram belajar intensif bersama mentor berpengalaman melalui tahapan seleksi dan ujian untuk menghasilkan tenaga Teknologi Informasi profesionalDetailMetrodata InternshipMengembangkan keahlian dan pengalaman yang menghasilkan profesional di bidang teknologi informasi yang siap bekerjaDetailMetrodata MengajarProgram edukasi dan berbagi pengalaman secara gratis oleh tenaga ahli dan seluruh entitas Metrodata kepada para praktisi TI.Detail')]</value>
+      <webElementGuid>4950669c-329f-46e8-a58a-4dfaea1d1022</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -17,11 +17,24 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('Object Repository/Page_Metrodata Academy/input__email'), 'papahgilak@gmail.com')
+WebUI.openBrowser('')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Metrodata Academy/input__password'), 'ANgLrNN9LeX238E+iUxpGw==')
+WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/button_Masuk'))
+WebUI.navigateToUrl('https://metrodataacademy.id/')
 
-WebUI.delay(5)
+WebUI.click(findTestObject('Page_Metrodata Academy/a_Metrodata Mengajar'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Metrodata Academy/div_Diisi dan didukung oleh semua Profesion_a9ad32'), 
+    5)
+
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Metrodata Academy/div_Acara di Metrodata MengajarCompTIA10 Ju_e9fc5c'), 
+    5)
+
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Metrodata Academy/div_Keuntungan yang kamu dapatkan di Metrod_53adb5'), 
+    5)
+
+WebUI.delay(3)
+
+WebUI.closeBrowser()
 

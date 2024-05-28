@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Syarat dan ketentuanSilahkan membaca ha_a4306f</name>
+   <tag></tag>
+   <elementGuidId>46abfa59-c520-43e8-a13a-34e36504bb81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>36396920-e600-43b1-98ce-c4de2f735ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col gap-[30px] justify-center items-center px-8 lg:pt-48 lg:pb-24 lg:px-[108px]</value>
+      <webElementGuid>e4c88fda-3986-42e1-ba46-f0811645e28e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Syarat dan ketentuanSilahkan membaca halaman Kebijakan Privasi, karena pada halaman ini, Metrodata Academy menjelaskan penggunaan informasi yang Anda masukan.Pada halaman Kebijakan Privasi, ingin menyampaikan jika Metrodata Academy menyimpan informasi personal Anda seperti data asal Universitas, pekerjaan, email, nomor telepon, media sosial dan informasi profil Anda lainnya; serta informasi yang Anda berikan dari akun Facebook/Google ketika menggunakan akun tersebut untuk masuk ke platform kami.Metrodata Academy berkomitmen untuk menjaga informasi diversonal yang Anda berikan dan hanya menggunakannya untukMendistribusikan kebutuhan yang Anda cari,Memelihara,Melindungi,Menyempurnakan, untuk mengembangkan layanan yang baru, dan Menggunakan informasi pribadi untuk menawarkan layanan kami yang sesuai dengan kebutuhan Anda.Metrodata Academy tidak akan memberikan informasi personal Anda kepada siapapun, kecuali:Anda menyetujui informasi personal Anda dibagikan, danUntuk keperluan hukum.Anda bisa dan berhak meminta Metrodata Academy untuk menghapus data akun dengan cara mengirimkan permintaan penghapusan data ke academy@metrodata.com dengan menyertakan alasan penghapusan.Silahkan membaca halaman Kebijakan Privasi, karena pada halaman ini, Metrodata Academy menjelaskan penggunaan informasi yang Anda masukan.</value>
+      <webElementGuid>38c8c566-1d50-4e0a-b535-2e5755f0747a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;flex flex-col gap-[30px] justify-center items-center px-8 lg:pt-48 lg:pb-24 lg:px-[108px]&quot;]</value>
+      <webElementGuid>91d1c31d-74a0-4599-8022-bc27227a6b9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div</value>
+      <webElementGuid>fb77e1ff-4ee6-49af-8e02-bd41dd649ba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::div[2]</value>
+      <webElementGuid>4f331bab-24b1-4633-a542-3a37319e5b05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::div[2]</value>
+      <webElementGuid>392c3dd8-d739-4b23-add4-7009108562c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div</value>
+      <webElementGuid>6a79a7c9-3285-48ae-ac55-97aa5b7eb096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Syarat dan ketentuanSilahkan membaca halaman Kebijakan Privasi, karena pada halaman ini, Metrodata Academy menjelaskan penggunaan informasi yang Anda masukan.Pada halaman Kebijakan Privasi, ingin menyampaikan jika Metrodata Academy menyimpan informasi personal Anda seperti data asal Universitas, pekerjaan, email, nomor telepon, media sosial dan informasi profil Anda lainnya; serta informasi yang Anda berikan dari akun Facebook/Google ketika menggunakan akun tersebut untuk masuk ke platform kami.Metrodata Academy berkomitmen untuk menjaga informasi diversonal yang Anda berikan dan hanya menggunakannya untukMendistribusikan kebutuhan yang Anda cari,Memelihara,Melindungi,Menyempurnakan, untuk mengembangkan layanan yang baru, dan Menggunakan informasi pribadi untuk menawarkan layanan kami yang sesuai dengan kebutuhan Anda.Metrodata Academy tidak akan memberikan informasi personal Anda kepada siapapun, kecuali:Anda menyetujui informasi personal Anda dibagikan, danUntuk keperluan hukum.Anda bisa dan berhak meminta Metrodata Academy untuk menghapus data akun dengan cara mengirimkan permintaan penghapusan data ke academy@metrodata.com dengan menyertakan alasan penghapusan.Silahkan membaca halaman Kebijakan Privasi, karena pada halaman ini, Metrodata Academy menjelaskan penggunaan informasi yang Anda masukan.' or . = 'Syarat dan ketentuanSilahkan membaca halaman Kebijakan Privasi, karena pada halaman ini, Metrodata Academy menjelaskan penggunaan informasi yang Anda masukan.Pada halaman Kebijakan Privasi, ingin menyampaikan jika Metrodata Academy menyimpan informasi personal Anda seperti data asal Universitas, pekerjaan, email, nomor telepon, media sosial dan informasi profil Anda lainnya; serta informasi yang Anda berikan dari akun Facebook/Google ketika menggunakan akun tersebut untuk masuk ke platform kami.Metrodata Academy berkomitmen untuk menjaga informasi diversonal yang Anda berikan dan hanya menggunakannya untukMendistribusikan kebutuhan yang Anda cari,Memelihara,Melindungi,Menyempurnakan, untuk mengembangkan layanan yang baru, dan Menggunakan informasi pribadi untuk menawarkan layanan kami yang sesuai dengan kebutuhan Anda.Metrodata Academy tidak akan memberikan informasi personal Anda kepada siapapun, kecuali:Anda menyetujui informasi personal Anda dibagikan, danUntuk keperluan hukum.Anda bisa dan berhak meminta Metrodata Academy untuk menghapus data akun dengan cara mengirimkan permintaan penghapusan data ke academy@metrodata.com dengan menyertakan alasan penghapusan.Silahkan membaca halaman Kebijakan Privasi, karena pada halaman ini, Metrodata Academy menjelaskan penggunaan informasi yang Anda masukan.')]</value>
+      <webElementGuid>dd2c8790-f814-455c-b0be-5794b5823920</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Apa kata mereka tentang program kamiInt_94d5ba</name>
+   <tag></tag>
+   <elementGuidId>6c9802c2-a2be-4bd2-9815-9229a318a564</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9925d8ca-df94-48ca-8108-e8bbb230243c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-[#FFF] rounded-lg p-8 md:pt-[90px] md:pb-10 lg:px-[108px] flex flex-col justify-center items-center</value>
+      <webElementGuid>d0848790-8815-4eae-833e-67c1c3b6d71a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apa kata mereka tentang program kami?&quot;Internship di Metrodata memberikan pengalaman praktis dan ilmu yang berharga. Terampil dalam pemrograman dan manajemen proyek berkat bimbingan profesional yang luar biasa!&quot;Marvel KrentMahasiswaInternship&quot;Internship di Metrodata Academy melibatkan saya dalam real-project proses bisnis perusahaan khususnya Mitra Integrasi Informatika, serta memperluas pengetahuan praktis dan keterampilan kolaborasi&quot;Nathanael Abel AriantoiOS Developer Intern at Apple Developer AcademyInternship&quot;Mengikuti internship di Metrodata sangat berkesan dan menambah insight saya untuk bekerja di industri IT&quot;Debora Gabriella AmabelMahasiswaInternship&quot;Overall materi yang disampaikan mencukupi kebutuhan dan penyampaian materi oleh trainer cukup jelas&quot;Asep WijayaBusiness Intelligence LeadTraining&quot;Metrodata Academy sangat membantu dalam memahami modul yang sedang dipelajari. Pengajarnya berpengalaman dan selama training komunikasi 2 arah terjalin.&quot;Laurensius LubisKaryawanTraining&quot;Materi training update terhadap kebutuhan industri terkini, cocok untuk persiapan sebelum masuk ke industri IT.&quot;Darwin ManurungApplication DeveloperIT Camp</value>
+      <webElementGuid>2959770a-4b4e-4ed6-adaa-fde25dd466f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;bg-[#FFF] rounded-lg p-8 md:pt-[90px] md:pb-10 lg:px-[108px] flex flex-col justify-center items-center&quot;]</value>
+      <webElementGuid>7ce85a92-c313-4beb-bb87-dc51b47473dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[6]</value>
+      <webElementGuid>23900659-b8a3-4da7-b41c-92fdc86c8cd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baca Selengkapnya'])[3]/following::div[1]</value>
+      <webElementGuid>2948efb9-7c09-4047-bf45-0a68c64be792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Menghadiri Undangan Penandatanganan Perjanjian Kerja Sama (PKS) Program MSIB Batch 6'])[1]/following::div[1]</value>
+      <webElementGuid>d794e648-1d55-4662-84d1-d1f6918d9f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]</value>
+      <webElementGuid>1625a1c4-5c5a-454b-997b-730d3b88da56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Apa kata mereka tentang program kami?&quot;Internship di Metrodata memberikan pengalaman praktis dan ilmu yang berharga. Terampil dalam pemrograman dan manajemen proyek berkat bimbingan profesional yang luar biasa!&quot;Marvel KrentMahasiswaInternship&quot;Internship di Metrodata Academy melibatkan saya dalam real-project proses bisnis perusahaan khususnya Mitra Integrasi Informatika, serta memperluas pengetahuan praktis dan keterampilan kolaborasi&quot;Nathanael Abel AriantoiOS Developer Intern at Apple Developer AcademyInternship&quot;Mengikuti internship di Metrodata sangat berkesan dan menambah insight saya untuk bekerja di industri IT&quot;Debora Gabriella AmabelMahasiswaInternship&quot;Overall materi yang disampaikan mencukupi kebutuhan dan penyampaian materi oleh trainer cukup jelas&quot;Asep WijayaBusiness Intelligence LeadTraining&quot;Metrodata Academy sangat membantu dalam memahami modul yang sedang dipelajari. Pengajarnya berpengalaman dan selama training komunikasi 2 arah terjalin.&quot;Laurensius LubisKaryawanTraining&quot;Materi training update terhadap kebutuhan industri terkini, cocok untuk persiapan sebelum masuk ke industri IT.&quot;Darwin ManurungApplication DeveloperIT Camp' or . = 'Apa kata mereka tentang program kami?&quot;Internship di Metrodata memberikan pengalaman praktis dan ilmu yang berharga. Terampil dalam pemrograman dan manajemen proyek berkat bimbingan profesional yang luar biasa!&quot;Marvel KrentMahasiswaInternship&quot;Internship di Metrodata Academy melibatkan saya dalam real-project proses bisnis perusahaan khususnya Mitra Integrasi Informatika, serta memperluas pengetahuan praktis dan keterampilan kolaborasi&quot;Nathanael Abel AriantoiOS Developer Intern at Apple Developer AcademyInternship&quot;Mengikuti internship di Metrodata sangat berkesan dan menambah insight saya untuk bekerja di industri IT&quot;Debora Gabriella AmabelMahasiswaInternship&quot;Overall materi yang disampaikan mencukupi kebutuhan dan penyampaian materi oleh trainer cukup jelas&quot;Asep WijayaBusiness Intelligence LeadTraining&quot;Metrodata Academy sangat membantu dalam memahami modul yang sedang dipelajari. Pengajarnya berpengalaman dan selama training komunikasi 2 arah terjalin.&quot;Laurensius LubisKaryawanTraining&quot;Materi training update terhadap kebutuhan industri terkini, cocok untuk persiapan sebelum masuk ke industri IT.&quot;Darwin ManurungApplication DeveloperIT Camp')]</value>
+      <webElementGuid>f664b2be-f3eb-42a6-89ae-53cee2e585d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

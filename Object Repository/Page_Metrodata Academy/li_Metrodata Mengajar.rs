@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Metrodata Mengajar</name>
+   <tag></tag>
+   <elementGuidId>e8f84a4c-10bc-497c-ab70-61a63a0b5616</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/footer/div/div/div[2]/div/div[2]/ul/li[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2b474f71-0403-46e4-ac7b-cbf6d5d964f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Metrodata Mengajar</value>
+      <webElementGuid>e9dd0fa3-32b8-4f16-9bda-6644e879f759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/footer[@class=&quot;bg-cerulean-50&quot;]/div[@class=&quot;px-8 lg:px-[108px]&quot;]/div[@class=&quot;xl:flex xl:flex-row xl:justify-center xl:mx-auto xl:gap-10 pt-16&quot;]/div[@class=&quot;grid grid-cols-2 xl:flex gap-[10px] mt-16 xl:flex-row xl:mt-0&quot;]/div[@class=&quot;grid-cols-2 gap-[10px] md:flex md:flex-row md:gap-[10px] xl:w-9/12&quot;]/div[@class=&quot;mt-10 md:mt-0 sm:w-full xl:w-9/12 w-auto&quot;]/ul[@class=&quot;mt-4 space-y-4&quot;]/li[4]</value>
+      <webElementGuid>5d0fe409-fd82-4772-8410-8d2ca67f6d50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/footer/div/div/div[2]/div/div[2]/ul/li[4]</value>
+      <webElementGuid>09a86fe4-d2e6-49ea-8547-cb25b578274b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Training'])[4]/following::li[1]</value>
+      <webElementGuid>5694a50f-6b25-42a4-94ed-23f282b217b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata IT Camp'])[4]/following::li[2]</value>
+      <webElementGuid>462bbc4a-5450-4a1b-9e2e-a5e564f11d58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bantuan'])[1]/preceding::li[1]</value>
+      <webElementGuid>3d0dbd0a-e314-417c-9b24-377498a42271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[4]</value>
+      <webElementGuid>803f51a6-6665-4e10-a97a-71b8199c0f80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Metrodata Mengajar' or . = 'Metrodata Mengajar')]</value>
+      <webElementGuid>e6308435-a900-4749-bc4c-b2faf0f9ed06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_May 2024Previous weekTodayNext weekOpen_46efcd</name>
+   <tag></tag>
+   <elementGuidId>3d674aec-6e82-4649-bea3-81dae35eb031</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-col.h-full.mx-auto.border.border-1.rounded-lg.w-full.mb-10</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[3]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>346a7f46-9ce1-400d-9b01-b13d4ef2ed9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col h-full mx-auto border border-1 rounded-lg w-full mb-10</value>
+      <webElementGuid>8ec2e16b-76f6-4959-992c-94f6de9262c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>May 2024Previous weekTodayNext weekOpen menuM27T28W29T30F31Mon 27Tue 28Wed 29Thu 30Fri 31Oracle Database 19c: Performance Management and TuningRed Hat - RHCSARHCSA Rapid Track CourseCertified Ethical Hacker (CEH) v.12 NEW</value>
+      <webElementGuid>da3b5e16-57cb-40a5-9b54-cc648365bfde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex flex-col px-8 pb-8 lg:px-[108px]&quot;]/div[@class=&quot;flex flex-col h-full mx-auto border border-1 rounded-lg w-full mb-10&quot;]</value>
+      <webElementGuid>3f3dec82-929c-41ec-b468-708013fa6a27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]/div[3]</value>
+      <webElementGuid>60543464-fabb-4a62-a7c6-438e9fd6c2d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Internship'])[2]/following::div[1]</value>
+      <webElementGuid>326a97bc-a887-4724-aba2-d1c25dfd5374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Mengajar'])[2]/following::div[1]</value>
+      <webElementGuid>465d0ffa-03aa-4132-a3f9-907fec5231c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]</value>
+      <webElementGuid>ba5285b9-1f82-44d0-a0a6-ef5dd30fdde7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'May 2024Previous weekTodayNext weekOpen menuM27T28W29T30F31Mon 27Tue 28Wed 29Thu 30Fri 31Oracle Database 19c: Performance Management and TuningRed Hat - RHCSARHCSA Rapid Track CourseCertified Ethical Hacker (CEH) v.12 NEW' or . = 'May 2024Previous weekTodayNext weekOpen menuM27T28W29T30F31Mon 27Tue 28Wed 29Thu 30Fri 31Oracle Database 19c: Performance Management and TuningRed Hat - RHCSARHCSA Rapid Track CourseCertified Ethical Hacker (CEH) v.12 NEW')]</value>
+      <webElementGuid>7b8749dd-065d-4213-aa71-44a3a2ebb922</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

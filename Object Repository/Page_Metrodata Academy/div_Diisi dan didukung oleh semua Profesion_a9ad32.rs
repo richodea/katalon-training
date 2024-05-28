@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Diisi dan didukung oleh semua Profesion_a9ad32</name>
+   <tag></tag>
+   <elementGuidId>64468568-f76c-4b66-9632-2005320e8664</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>571fb7a8-1816-46c6-9e4f-7ab139ef047b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col lg:flex-row gap-5 lg:gap-[142px] p-8 lg:px-[108px] lg:py-24</value>
+      <webElementGuid>16d2baac-b950-499d-9747-89cba22853a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Diisi dan didukung oleh semua Profesional IT di MetrodataProgram edukasi dan berbagi pengalaman oleh tenaga ahli dari seluruh entitas Metrodata yang ditujukan untuk kalangan Pelajar/Mahasiswa, Dosen, dan Komunitas IT di seluruh Indonesia. Bertujuan untuk melakukan pembaharuan dan dialog antar semua pelaku IT.</value>
+      <webElementGuid>f69e8753-f85d-441e-affa-716c75b7420d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex flex-col lg:flex-row gap-5 lg:gap-[142px] p-8 lg:px-[108px] lg:py-24&quot;]</value>
+      <webElementGuid>e054a6b9-a8e8-4ebc-aba1-b90c646f4266</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]</value>
+      <webElementGuid>2e30b501-ebdf-4132-8ccb-0a0a841e46fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Mengajar'])[2]/following::div[2]</value>
+      <webElementGuid>b2267006-0cd8-435f-bd53-14c0ff4ff06c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::div[6]</value>
+      <webElementGuid>abd756ba-047e-495b-b183-327a4df26612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acara di Metrodata Mengajar'])[1]/preceding::div[2]</value>
+      <webElementGuid>8a91e0d5-e979-4b6f-b2e3-39d194fd895f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]</value>
+      <webElementGuid>ea5cdef1-fcb9-41e1-96fb-a0296cf96915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Diisi dan didukung oleh semua Profesional IT di MetrodataProgram edukasi dan berbagi pengalaman oleh tenaga ahli dari seluruh entitas Metrodata yang ditujukan untuk kalangan Pelajar/Mahasiswa, Dosen, dan Komunitas IT di seluruh Indonesia. Bertujuan untuk melakukan pembaharuan dan dialog antar semua pelaku IT.' or . = 'Diisi dan didukung oleh semua Profesional IT di MetrodataProgram edukasi dan berbagi pengalaman oleh tenaga ahli dari seluruh entitas Metrodata yang ditujukan untuk kalangan Pelajar/Mahasiswa, Dosen, dan Komunitas IT di seluruh Indonesia. Bertujuan untuk melakukan pembaharuan dan dialog antar semua pelaku IT.')]</value>
+      <webElementGuid>972ab97b-ea25-4e9d-a0ad-a4d5562dca85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
