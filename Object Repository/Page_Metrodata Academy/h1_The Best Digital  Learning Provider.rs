@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>fb9017df-3839-4382-9976-23e3aeb8888c</webElementGuid>
+      <webElementGuid>2e8ac8cd-6d8a-45dd-b6e1-6756853ff289</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-4xl md:text-5xl sm:mt-0 mt-20 font-bold text-white</value>
-      <webElementGuid>1243dea9-4169-4bad-a7ea-2544547f8d8e</webElementGuid>
+      <webElementGuid>e92de750-af3c-4955-a4e8-28d19a71017d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>The Best Digital  Learning Provider</value>
-      <webElementGuid>665f7639-2bef-4a8d-bc60-542bb4183e50</webElementGuid>
+      <webElementGuid>e220357b-3268-435f-856d-effd1cdd32ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;h-full w-full flex bg-no-repeat bg-cover bg-center&quot;]/div[@class=&quot;px-8 py-14 sm:pt-40 lg:pb-24 lg:px-[108px] lg:pt-[196px] flex flex-col&quot;]/div[@class=&quot;flex flex-col max-w-[620px]&quot;]/h1[@class=&quot;text-4xl md:text-5xl sm:mt-0 mt-20 font-bold text-white&quot;]</value>
-      <webElementGuid>342f9764-5f07-43f9-93b3-b3fc4e84b299</webElementGuid>
+      <webElementGuid>c056e1c9-5d87-430b-9aaa-75878440997e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div/h1</value>
-      <webElementGuid>6d4e0b0c-f64d-4a85-bb33-34b8785a6008</webElementGuid>
+      <webElementGuid>776474a7-54f0-40e7-a0d7-69ff81f03802</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::h1[1]</value>
-      <webElementGuid>b246d1fb-91d9-4645-b67f-026f284c938f</webElementGuid>
+      <webElementGuid>e38384ec-7345-431a-8f03-19ef47be97f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::h1[1]</value>
-      <webElementGuid>b97f941c-7fa3-412c-953b-544c13e8f91e</webElementGuid>
+      <webElementGuid>802007fb-d89d-42c2-b8be-c93589841659</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Academy'])[3]/preceding::h1[1]</value>
-      <webElementGuid>b3fbdab0-eb1c-4c20-94e7-98aafe836bad</webElementGuid>
+      <webElementGuid>3270e2c0-54a4-4616-bb2d-cde5fc640d13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::h1[1]</value>
-      <webElementGuid>0ae57535-94ce-4580-bfb2-f58f2a754f2e</webElementGuid>
+      <webElementGuid>cefe4292-a989-432d-bc8e-fcbfce0708d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='The Best Digital']/parent::*</value>
-      <webElementGuid>aac57c1c-f915-4f97-b62f-ddcdfcad0d3e</webElementGuid>
+      <webElementGuid>459464d6-823b-4e11-9104-a5a497a2b26f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h1</value>
-      <webElementGuid>bb1418b5-0844-44b8-8a35-39c5eb8ac19d</webElementGuid>
+      <webElementGuid>b19b288b-00f5-4b02-85c8-2724611045dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'The Best Digital  Learning Provider' or . = 'The Best Digital  Learning Provider')]</value>
-      <webElementGuid>766f6ddd-a103-402f-b88a-f1c356051643</webElementGuid>
+      <webElementGuid>42649be9-63cf-49b5-a5d2-939085f684f7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

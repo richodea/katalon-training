@@ -6,12 +6,11 @@
    <elementGuidId>823e3d4e-b4a3-464e-9a23-ff14b96f68d9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>1e5466cc-3e71-4152-a2ce-fdddb1e5f5e4</webElementGuid>
+      <webElementGuid>b4196de2-8747-492f-adf3-0db2389810ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full h-auto px-9 py-8 lg:py-24 lg:px-[108px] bg-blue-50</value>
-      <webElementGuid>b6703834-e497-4deb-a5ff-97e5177dd1cd</webElementGuid>
+      <webElementGuid>e30db454-64bb-4632-8102-174d33a6b983</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Acara di Metrodata MengajarCompTIA10 June 2024OnlineProfessionalDaftar SekarangEdufair 202419 June 2024ClassroomProfessionalDaftar SekarangRed Hat - Openshift Administration01 July 2024OnlineProfessionalDaftar SekarangLihat semua kegiatan</value>
-      <webElementGuid>e7933baa-854b-4dde-ac92-48a17cfbeeb0</webElementGuid>
+      <webElementGuid>1fd47efe-2948-412f-84bc-b9fc5a51d294</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;w-full h-auto px-9 py-8 lg:py-24 lg:px-[108px] bg-blue-50&quot;]</value>
-      <webElementGuid>457dbede-0aaf-45aa-b009-e54f9f458434</webElementGuid>
+      <webElementGuid>5bb7e32f-1439-458d-903b-99397d45497a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[3]</value>
-      <webElementGuid>34ba81af-df0a-441d-85d2-4b6894386d4f</webElementGuid>
+      <webElementGuid>b6e1888a-39e2-4587-9fe7-9ebdd64e3b41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Diisi dan didukung oleh semua Profesional IT di Metrodata'])[1]/following::div[1]</value>
-      <webElementGuid>79f5c314-f345-414f-a3b8-4e23059e1e04</webElementGuid>
+      <webElementGuid>5cf70531-8d17-41a7-8696-5cda0eccbed6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Mengajar'])[2]/following::div[4]</value>
-      <webElementGuid>dfa237fb-86e0-44f1-be75-d6a80ccf2e90</webElementGuid>
+      <webElementGuid>9ca2aef6-8fc9-4039-881f-48a15dabce26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[3]</value>
-      <webElementGuid>4b9dec70-cd67-4443-bab3-56db8b43c771</webElementGuid>
+      <webElementGuid>9c48e6e8-bf79-457c-bada-d00455f125d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Acara di Metrodata MengajarCompTIA10 June 2024OnlineProfessionalDaftar SekarangEdufair 202419 June 2024ClassroomProfessionalDaftar SekarangRed Hat - Openshift Administration01 July 2024OnlineProfessionalDaftar SekarangLihat semua kegiatan' or . = 'Acara di Metrodata MengajarCompTIA10 June 2024OnlineProfessionalDaftar SekarangEdufair 202419 June 2024ClassroomProfessionalDaftar SekarangRed Hat - Openshift Administration01 July 2024OnlineProfessionalDaftar SekarangLihat semua kegiatan')]</value>
-      <webElementGuid>39509a88-b2a8-475a-a26c-bb2aa6cae5ed</webElementGuid>
+      <webElementGuid>0954f6bb-afef-47d2-bf85-22abf034fd7b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

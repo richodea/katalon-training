@@ -52,6 +52,8 @@ WebUI.scrollToElement(findTestObject('Object Repository/Page_Metrodata Academy/d
 
 WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/a_Terms  Condition'))
 
+WebUI.takeScreenshot()
+
 WebUI.delay(5)
 
 WebUI.closeBrowser()

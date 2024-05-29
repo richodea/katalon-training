@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8d1b36be-746b-4d2d-82cf-642c72aad730</webElementGuid>
+      <webElementGuid>fe356195-a8ac-459b-b37a-cd2c33a9d1e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex flex-col items-center gap-8 mx-auto py-8 px-9 lg:py-24 lg:px-[108px]</value>
-      <webElementGuid>15dabc26-792e-45fc-8194-92d8a52a879a</webElementGuid>
+      <webElementGuid>4cd84c8e-4df9-4efc-972c-b6941669a33c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Metrodata AcademySetelah lebih dari 40 tahun menjadi bagian dari perkembangan teknologi di Indonesia, Metrodata, ikut mengembangkan potensi talenta digital Indonesia melalui Metrodata Academy yang berdiri sejak tahun 2020.</value>
-      <webElementGuid>317c466c-46b6-4766-8683-23796eef35ea</webElementGuid>
+      <webElementGuid>e6861d1d-f5a2-4561-9e20-5a9a01858fce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex flex-col items-center gap-8 mx-auto py-8 px-9 lg:py-24 lg:px-[108px]&quot;]</value>
-      <webElementGuid>d4954021-5d8d-451d-b79b-06f61db607fd</webElementGuid>
+      <webElementGuid>d61404dc-cbac-4d80-93fc-fd120fa83347</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]</value>
-      <webElementGuid>bb45e28b-a7fb-4414-8e4d-7d4144a666ef</webElementGuid>
+      <webElementGuid>c8b2acf6-7b42-461c-beaa-fad7d7031b3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::div[6]</value>
-      <webElementGuid>4636eb4e-6098-4dfe-a497-0386c8e8ba81</webElementGuid>
+      <webElementGuid>a0209b2a-ea19-40b1-9993-af9e59d802f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::div[31]</value>
-      <webElementGuid>92db05bc-0ba7-4028-b5e7-3cacfb1b576c</webElementGuid>
+      <webElementGuid>5a4d3b94-0976-4fde-ad0c-c1ab4554935a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[2]</value>
-      <webElementGuid>9add3999-ed15-4903-b8e4-eafc8e549a9b</webElementGuid>
+      <webElementGuid>1d72f7fc-a6b3-438b-a27b-d8a7c188a1be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Metrodata AcademySetelah lebih dari 40 tahun menjadi bagian dari perkembangan teknologi di Indonesia, Metrodata, ikut mengembangkan potensi talenta digital Indonesia melalui Metrodata Academy yang berdiri sejak tahun 2020.' or . = 'Metrodata AcademySetelah lebih dari 40 tahun menjadi bagian dari perkembangan teknologi di Indonesia, Metrodata, ikut mengembangkan potensi talenta digital Indonesia melalui Metrodata Academy yang berdiri sejak tahun 2020.')]</value>
-      <webElementGuid>49530e16-97f9-40bb-a0c4-31d12a617e14</webElementGuid>
+      <webElementGuid>b08c2635-652d-4f63-a0b8-c92ac4fb0ba3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

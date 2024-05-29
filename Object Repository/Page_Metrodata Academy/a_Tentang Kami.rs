@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>0688f1b0-8c97-4dbb-a97b-32d464d3b3d3</webElementGuid>
+      <webElementGuid>2b2769c9-bb07-4eed-a2df-1c83b31e286f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/tentang-kami</value>
-      <webElementGuid>de3ebc2d-8ddc-4bd3-a035-4fddd9abc692</webElementGuid>
+      <webElementGuid>9e6ef75c-5704-4eef-a754-db040bec4433</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>block px-4 py-[14px] text-sm xl:text-base font-medium leading-4 transition-color hover:text-cerulean-600 text-white</value>
-      <webElementGuid>c12b289e-0c7a-45b2-8d47-05d94414a577</webElementGuid>
+      <webElementGuid>3eae6fb8-5965-46d5-ab7d-1d0679bed493</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tentang Kami</value>
-      <webElementGuid>d844c8a3-ecec-480a-9eb3-4fad5f6eabc3</webElementGuid>
+      <webElementGuid>2f2f3350-12f8-4b4e-9a12-a7fb573a45bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/header[@class=&quot;fixed top-0 left-0 right-0 z-10 bg-gradient-to-r from-white/40 to-white/20 sm:z-40 drop-shadow-lg backdrop-blur-lg&quot;]/nav[@class=&quot;flex items-center justify-between lg:px-[108px] xl:py-2 xl:h-[92px] py-6 px-8 xl:justify-center&quot;]/div[@class=&quot;items-center justify-center hidden mx-auto xl:flex xl:gap-x-5&quot;]/div[@class=&quot;flex flex-row gap-x-5&quot;]/div[@class=&quot;flex gap-x-5&quot;]/div[@class=&quot;flex items-center gap-x-5&quot;]/a[@class=&quot;block px-4 py-[14px] text-sm xl:text-base font-medium leading-4 transition-color hover:text-cerulean-600 text-white&quot;]</value>
-      <webElementGuid>fbee3625-e019-4690-8ff1-6a0279d803ea</webElementGuid>
+      <webElementGuid>e0c48072-e4c9-480b-b6f4-370941eefa1b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/header/nav/div[3]/div/div[2]/div/a[3]</value>
-      <webElementGuid>56196eb1-c81e-4d87-b22b-332b526805b3</webElementGuid>
+      <webElementGuid>4df15b7d-12ed-4a0b-a8a3-3b804daf8404</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Tentang Kami')]</value>
-      <webElementGuid>b8249eca-62f8-4eb0-bd37-8d654f5808bf</webElementGuid>
+      <webElementGuid>987eda5b-0609-4c8e-93d4-0a050ab4522d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel'])[1]/following::a[2]</value>
-      <webElementGuid>e0a64d63-f1f6-4b0f-80c2-ab6b31de5686</webElementGuid>
+      <webElementGuid>c8ff6a7d-39c8-47a2-b8c5-f2023825f25d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Mengajar'])[1]/following::a[3]</value>
-      <webElementGuid>cc95666c-be21-45e0-a2ca-184c776f7f67</webElementGuid>
+      <webElementGuid>095dfb3e-0322-4467-8a20-e37cf56e8293</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::a[1]</value>
-      <webElementGuid>2ad33d8e-74f2-4d60-8e2b-f002a7cb62fc</webElementGuid>
+      <webElementGuid>3647c94b-b369-4b4a-83a3-1b77746bcbea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::a[2]</value>
-      <webElementGuid>ab2795c4-7f4e-4f24-8b50-2500fb2c03e8</webElementGuid>
+      <webElementGuid>e1ce8c0c-ccbf-453b-a9f7-bc29bd966698</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Tentang Kami']/parent::*</value>
-      <webElementGuid>416c35e4-909a-4386-aa00-82de0d77d7ab</webElementGuid>
+      <webElementGuid>0f20dce5-680f-44fe-8096-3ff9894c3d9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/tentang-kami')]</value>
-      <webElementGuid>cba7a175-45f7-4b90-bcdb-0560db205701</webElementGuid>
+      <webElementGuid>5354b5ee-144a-4424-b644-394ea37806f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[3]</value>
-      <webElementGuid>920af470-fdf8-42c6-a886-5f84a7acfa97</webElementGuid>
+      <webElementGuid>b7eee995-9a88-4e60-bdde-23e3a7ba256f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/tentang-kami' and (text() = 'Tentang Kami' or . = 'Tentang Kami')]</value>
-      <webElementGuid>c22b7720-5f4f-4ba7-b8de-814af2d64e1f</webElementGuid>
+      <webElementGuid>0f871f0a-c2c1-43b0-8561-2d5614ffbb2f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

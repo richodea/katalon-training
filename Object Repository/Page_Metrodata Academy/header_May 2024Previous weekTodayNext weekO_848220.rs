@@ -6,12 +6,12 @@
    <elementGuidId>9f521fb8-18af-4d27-a8c0-b399ac3c136a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>header.flex.bg-gray-50.items-center.justify-between.flex-none.px-6.py-4.border-b.border-gray-200</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div/div[3]/div[3]/header</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>header.flex.bg-gray-50.items-center.justify-between.flex-none.px-6.py-4.border-b.border-gray-200</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>header</value>
-      <webElementGuid>10fedd45-d99f-4cc3-ba44-db69d4037d17</webElementGuid>
+      <webElementGuid>4fcb4703-eb88-4782-a89f-a7cfff6e1f25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex bg-gray-50 items-center justify-between flex-none px-6 py-4 border-b border-gray-200</value>
-      <webElementGuid>f80df4b3-1368-4cf0-aaef-963fbca58c0e</webElementGuid>
+      <webElementGuid>c5a22d4e-ee9c-499f-9c7d-e94a87dab54f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>May 2024Previous weekTodayNext weekOpen menu</value>
-      <webElementGuid>7c57b692-33b5-4969-8a90-4532d47fc361</webElementGuid>
+      <webElementGuid>74f892ab-67d5-4ef3-919a-186a430e1aa1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex flex-col px-8 pb-8 lg:px-[108px]&quot;]/div[@class=&quot;flex flex-col h-full mx-auto border border-1 rounded-lg w-full mb-10&quot;]/header[@class=&quot;flex bg-gray-50 items-center justify-between flex-none px-6 py-4 border-b border-gray-200&quot;]</value>
-      <webElementGuid>51141a70-95bd-4bbe-a134-90f91402ff71</webElementGuid>
+      <webElementGuid>e7dfaba0-6c34-4db5-ac3b-dbb5e832e26e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[3]/div[3]/header</value>
-      <webElementGuid>0b31db85-46e3-4dc1-b3a1-28b4464eabba</webElementGuid>
+      <webElementGuid>a5624252-32b3-4979-9cac-45e0f949b95d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Internship'])[2]/following::header[1]</value>
-      <webElementGuid>a6c7962d-a976-4fd2-9fc8-7b1bb5c88304</webElementGuid>
+      <webElementGuid>090ca3a4-8056-4b22-bf89-fb234e74933f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Mengajar'])[2]/following::header[1]</value>
-      <webElementGuid>e9cd827e-19fb-4bcc-8b3b-a0a325324009</webElementGuid>
+      <webElementGuid>aaa25c5c-083c-49e1-8f5b-ae2cc8ca2c7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/header</value>
-      <webElementGuid>6bb4f732-9ab9-47ab-8b7a-98176d131133</webElementGuid>
+      <webElementGuid>72a3dddc-0413-4d0e-b647-bc36441e2e05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//header[(text() = 'May 2024Previous weekTodayNext weekOpen menu' or . = 'May 2024Previous weekTodayNext weekOpen menu')]</value>
-      <webElementGuid>a0fe7666-a03b-4174-982e-90c6fdd2e9ac</webElementGuid>
+      <webElementGuid>1838ea1a-155f-45f6-bcaf-959485a1c378</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

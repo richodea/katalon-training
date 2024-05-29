@@ -6,12 +6,11 @@
    <elementGuidId>84d89aec-29c5-411d-bf91-1b1f1c84e403</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>path</value>
+         <key>XPATH</key>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>CSS</key>
+         <value>path</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>path</value>
-      <webElementGuid>f665029b-f73c-4252-92c0-62036530e939</webElementGuid>
+      <webElementGuid>5ee8aa42-67d1-40e2-a7bd-2af5fa81f7e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>fill-rule</name>
       <type>Main</type>
       <value>evenodd</value>
-      <webElementGuid>0103e7b1-40a6-45d6-b1ae-cae2ed6542ea</webElementGuid>
+      <webElementGuid>6ec3b1c5-9db9-4820-b3bd-98a404942d9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>d</name>
       <type>Main</type>
       <value>M3.53 2.47a.75.75 0 00-1.06 1.06l18 18a.75.75 0 101.06-1.06l-18-18zM22.676 12.553a11.249 11.249 0 01-2.631 4.31l-3.099-3.099a5.25 5.25 0 00-6.71-6.71L7.759 4.577a11.217 11.217 0 014.242-.827c4.97 0 9.185 3.223 10.675 7.69.12.362.12.752 0 1.113z</value>
-      <webElementGuid>7621268c-1045-40a7-bfb9-32c14c98f99c</webElementGuid>
+      <webElementGuid>0576337d-2637-43d7-9634-64c35eec73d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>clip-rule</name>
       <type>Main</type>
       <value>evenodd</value>
-      <webElementGuid>8c6aa9f6-10b4-4f3c-9095-4c2d4cf3b56f</webElementGuid>
+      <webElementGuid>015eca5f-827d-4a08-92c7-a880e670ea4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,6 +53,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-2 h-screen&quot;]/div[@class=&quot;flex flex-col items-center justify-center gap-10 px-8 lg:px-[72px] py-5&quot;]/div[@class=&quot;flex flex-col justify-center w-full lg:px-8 py-10 gap-[23px]&quot;]/form[@class=&quot;flex flex-col gap-[18px]&quot;]/div[@class=&quot;flex flex-col items-start gap-2 relative&quot;]/button[@class=&quot;absolute inset-y-1 right-2 flex items-center top-9&quot;]/svg[@class=&quot;h-5 w-5 text-gray-700&quot;]/path[1]</value>
-      <webElementGuid>33d8123c-f39f-4bb6-81ed-36069245c70a</webElementGuid>
+      <webElementGuid>68dee7b6-b099-4e7d-8aa2-50e5c3277859</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

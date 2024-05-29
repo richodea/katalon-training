@@ -6,12 +6,11 @@
    <elementGuidId>9d1f95bb-4d88-4e42-a66e-f3bc5da31529</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/footer/div/div/div[2]/div/div[2]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5a09344b-e59c-4221-bfd9-11e167951fc1</webElementGuid>
+      <webElementGuid>0a168528-9faa-4899-90fc-04e9fe90940d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/metrodata-internship</value>
-      <webElementGuid>b34e44e3-31a2-49b6-8f4d-9328e0b9c657</webElementGuid>
+      <webElementGuid>c901e7a5-cae7-443a-942a-ba9747150846</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-sm leading-6 text-[#888]</value>
-      <webElementGuid>dda73226-02fd-448c-bf2a-a99aa59b674a</webElementGuid>
+      <webElementGuid>77f87b53-d54f-4905-841e-939509e65f72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Metrodata Internship</value>
-      <webElementGuid>545113fa-8496-483a-b323-dda7833bff09</webElementGuid>
+      <webElementGuid>95d21ddb-465e-461b-8c6c-e2bdbdfa6486</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/footer[@class=&quot;bg-cerulean-50&quot;]/div[@class=&quot;px-8 lg:px-[108px]&quot;]/div[@class=&quot;xl:flex xl:flex-row xl:justify-center xl:mx-auto xl:gap-10 pt-16&quot;]/div[@class=&quot;grid grid-cols-2 xl:flex gap-[10px] mt-16 xl:flex-row xl:mt-0&quot;]/div[@class=&quot;grid-cols-2 gap-[10px] md:flex md:flex-row md:gap-[10px] xl:w-9/12&quot;]/div[@class=&quot;mt-10 md:mt-0 sm:w-full xl:w-9/12 w-auto&quot;]/ul[@class=&quot;mt-4 space-y-4&quot;]/li[1]/a[@class=&quot;text-sm leading-6 text-[#888]&quot;]</value>
-      <webElementGuid>3bdc253c-82f5-4aeb-9963-7b7db36b9667</webElementGuid>
+      <webElementGuid>39d604fb-c60b-45c8-b306-a6b8f31f0c35</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/footer/div/div/div[2]/div/div[2]/ul/li/a</value>
-      <webElementGuid>6d26dde5-f0b4-41c1-81e5-a3ce57064758</webElementGuid>
+      <webElementGuid>4554c8ad-47ea-4d20-b4c8-b159191b4b04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Metrodata Internship')])[2]</value>
-      <webElementGuid>bbcb8d6a-2f29-4873-8824-dc5bd10850c2</webElementGuid>
+      <webElementGuid>4963bf60-97ce-459c-823e-76416173f80e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Program'])[2]/following::a[1]</value>
-      <webElementGuid>64cf5d24-66a4-4175-8fb2-69752f5cd7a7</webElementGuid>
+      <webElementGuid>7de1c550-70aa-4baf-89de-4ff907bd3505</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forum'])[2]/following::a[1]</value>
-      <webElementGuid>7158e3ec-fc32-4b20-9fe0-efac631ace71</webElementGuid>
+      <webElementGuid>55e128cc-4060-4ca6-8a87-d11719a5507f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata IT Camp'])[4]/preceding::a[1]</value>
-      <webElementGuid>b9d8bd0c-c72d-45ad-8eec-d97477f2ac82</webElementGuid>
+      <webElementGuid>fde403de-0e94-401f-8dbc-8a255859e1c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Training'])[4]/preceding::a[2]</value>
-      <webElementGuid>a339693f-36b9-4165-b025-2926b916fb90</webElementGuid>
+      <webElementGuid>f9b8bb53-0c0d-4e94-9959-46ce11319a52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/metrodata-internship')])[3]</value>
-      <webElementGuid>02e51373-af22-427e-86cd-fe68d3029d17</webElementGuid>
+      <webElementGuid>f8922a04-f1f5-4d2e-9ab6-e266382c8c4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/ul/li/a</value>
-      <webElementGuid>0b0321ca-51b6-4b54-94d1-217bdf7b7461</webElementGuid>
+      <webElementGuid>2d0e253d-f2fd-4195-adb5-20a1b3e6a1c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/metrodata-internship' and (text() = 'Metrodata Internship' or . = 'Metrodata Internship')]</value>
-      <webElementGuid>ce246f99-5366-415d-a0fb-33e82860e559</webElementGuid>
+      <webElementGuid>79a53b8c-7b26-406b-8737-d980d69d2304</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

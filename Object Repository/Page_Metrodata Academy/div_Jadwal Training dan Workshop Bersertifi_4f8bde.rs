@@ -6,12 +6,11 @@
    <elementGuidId>04bd2065-7a54-440a-8816-251d45604c08</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>11671cba-d544-4139-a1c8-bb117cd1a076</webElementGuid>
+      <webElementGuid>a0ce3294-3ee7-4c5e-a833-67c5c8844675</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex flex-col px-8 pb-8 lg:px-[108px]</value>
-      <webElementGuid>87aaa453-1db5-4130-b6ee-1a69b6462bd6</webElementGuid>
+      <webElementGuid>25056a07-7384-41c4-879e-1ccfe4f8c26b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Jadwal Training dan Workshop Bersertifikasi yang TersediaBuka dalam mode desktop untuk pengalaman yang lebih baik.View AllMetrodata TrainingMetrodata IT CampMetrodata MengajarMetrodata InternshipMay 2024Previous weekTodayNext weekOpen menuM27T28W29T30F31Mon 27Tue 28Wed 29Thu 30Fri 31Oracle Database 19c: Performance Management and TuningRed Hat - RHCSARHCSA Rapid Track CourseCertified Ethical Hacker (CEH) v.12 NEW</value>
-      <webElementGuid>367dfcaf-65b1-4bdb-bffe-f5d318d9ed65</webElementGuid>
+      <webElementGuid>a6bd8c7e-91ea-4c81-b738-773aebfb2b74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex flex-col px-8 pb-8 lg:px-[108px]&quot;]</value>
-      <webElementGuid>7f65e932-2f27-4445-b814-6732c8b6908f</webElementGuid>
+      <webElementGuid>49bd1e81-a6e9-4545-b6da-12acba8e8985</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[3]</value>
-      <webElementGuid>683f9053-cd22-4849-8a6d-67cd051f4f01</webElementGuid>
+      <webElementGuid>1ccf6f02-da5d-4de7-aebe-ebf1fdaa0b2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mahasiswa &amp; Fresh Graduate Bergabung'])[1]/following::div[5]</value>
-      <webElementGuid>01d9d93c-a13e-45c6-9138-b00100df8fc6</webElementGuid>
+      <webElementGuid>44ecd44a-00f2-4b8a-97c0-023292669969</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[3]</value>
-      <webElementGuid>2e292506-7dcd-4072-b0ef-ae27ae9d4500</webElementGuid>
+      <webElementGuid>dce8a707-88d6-4fca-9613-3090b00143f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +77,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Jadwal Training dan Workshop Bersertifikasi yang TersediaBuka dalam mode desktop untuk pengalaman yang lebih baik.View AllMetrodata TrainingMetrodata IT CampMetrodata MengajarMetrodata InternshipMay 2024Previous weekTodayNext weekOpen menuM27T28W29T30F31Mon 27Tue 28Wed 29Thu 30Fri 31Oracle Database 19c: Performance Management and TuningRed Hat - RHCSARHCSA Rapid Track CourseCertified Ethical Hacker (CEH) v.12 NEW' or . = 'Jadwal Training dan Workshop Bersertifikasi yang TersediaBuka dalam mode desktop untuk pengalaman yang lebih baik.View AllMetrodata TrainingMetrodata IT CampMetrodata MengajarMetrodata InternshipMay 2024Previous weekTodayNext weekOpen menuM27T28W29T30F31Mon 27Tue 28Wed 29Thu 30Fri 31Oracle Database 19c: Performance Management and TuningRed Hat - RHCSARHCSA Rapid Track CourseCertified Ethical Hacker (CEH) v.12 NEW')]</value>
-      <webElementGuid>0e4ff57b-1541-46ae-98b1-128300dc9416</webElementGuid>
+      <webElementGuid>f4029987-133c-458f-b557-0dd3440c7e9e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

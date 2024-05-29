@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>617e4ae3-8d00-4292-a85f-dd11bc97dc54</webElementGuid>
+      <webElementGuid>92c2b019-d109-43bc-8720-7a138cfa0006</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex flex-row items-center focus:outline-none px-4 py-[14px] text-black text-sm xl:text-base font-medium leading-4 text-white</value>
-      <webElementGuid>1acf5ae6-cee6-4103-a777-c0d87f9eab41</webElementGuid>
+      <webElementGuid>1166522f-8d84-4e7e-8564-b7d400009313</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>474ab6ac-9c83-4ec2-93fd-6c629a95f30e</webElementGuid>
+      <webElementGuid>c738b35d-a589-4b1d-bd15-faa1d6b5ff88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e8f35cd5-cb57-40ab-ac92-5bae209eed3a</webElementGuid>
+      <webElementGuid>b61404a9-7183-474c-8b8b-a786fb1d62af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>headlessui-popover-button-:r3:</value>
-      <webElementGuid>83a9b71e-2e02-4c5d-890f-2cbbfff2d1ab</webElementGuid>
+      <webElementGuid>7667e9a4-f7d6-4319-b1bc-0978760e534f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>M Gilang Rizky Ramadhan</value>
-      <webElementGuid>1e535ce4-3174-45b8-bcd2-0bf47ccd3457</webElementGuid>
+      <webElementGuid>3d77465d-a023-4184-8224-6951d40dc6cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;headlessui-popover-button-:r3:&quot;)</value>
-      <webElementGuid>82b4f30a-521c-4671-ae8c-2a4d7338c10e</webElementGuid>
+      <webElementGuid>06b36f32-38ae-49fe-bf63-26c0fefb2bd0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='headlessui-popover-button-:r3:']</value>
-      <webElementGuid>c592156a-df99-4cc4-9334-d54a7c4a1ce8</webElementGuid>
+      <webElementGuid>f3f241bd-65ca-4db6-8366-96dd042bf3f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/header/nav/div[4]/div/button</value>
-      <webElementGuid>889a00d9-2bdb-4709-bdc8-11789dc0238f</webElementGuid>
+      <webElementGuid>b40eaaee-c234-4236-bdc0-20f9bd7933a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::button[1]</value>
-      <webElementGuid>daa8d235-5b6c-42ff-9420-044b2a1ec475</webElementGuid>
+      <webElementGuid>bab3a027-a093-4874-8e2d-66a5a4734d36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel'])[1]/following::button[1]</value>
-      <webElementGuid>3921d7de-fe29-47ef-b2df-e4b713469d8c</webElementGuid>
+      <webElementGuid>565bdd53-0632-4f78-a310-fe872c4ce6b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='with Metrodata Academy'])[1]/preceding::button[1]</value>
-      <webElementGuid>5f45d2b2-87a0-4dfb-8669-83f6e8483745</webElementGuid>
+      <webElementGuid>60ea0ab8-1672-4637-acb7-e8cbb67f6c9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='M Gilang Rizky Ramadhan']/parent::*</value>
-      <webElementGuid>1533e348-9434-421c-867f-26941717e1c2</webElementGuid>
+      <webElementGuid>f0ec0f7e-2a93-4f42-a9fb-a65484efa7eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/button</value>
-      <webElementGuid>bc843960-3ef2-491c-9d2f-7d25591759fb</webElementGuid>
+      <webElementGuid>1197cbb9-e263-44fd-87c1-d8ff9795fc43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +133,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'headlessui-popover-button-:r3:' and (text() = 'M Gilang Rizky Ramadhan' or . = 'M Gilang Rizky Ramadhan')]</value>
-      <webElementGuid>b716e882-6c32-481c-8cd5-b5717214611b</webElementGuid>
+      <webElementGuid>1ced3e25-bbc1-4d4e-a469-ba6be268503a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +141,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='headlessui-popover-button-:r6:']</value>
-      <webElementGuid>7eb023a6-ad5d-4676-ad30-5d4a663ed918</webElementGuid>
+      <webElementGuid>9b843d2d-6bad-4511-800b-e957cf3508d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +149,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'headlessui-popover-button-:r6:' and (text() = 'M Gilang Rizky Ramadhan' or . = 'M Gilang Rizky Ramadhan')]</value>
-      <webElementGuid>77d7394d-d437-4024-95b9-4ce0068fdeac</webElementGuid>
+      <webElementGuid>3ff61400-4760-4ee7-81fa-5c9f70ea7643</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +157,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='headlessui-popover-button-:r7:']</value>
-      <webElementGuid>8929681b-3307-4e8b-a1b3-7211e650b0d1</webElementGuid>
+      <webElementGuid>5284a154-9180-4e8b-9e03-17c85974a71b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,6 +165,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'headlessui-popover-button-:r7:' and (text() = 'M Gilang Rizky Ramadhan' or . = 'M Gilang Rizky Ramadhan')]</value>
-      <webElementGuid>a5cb6d37-29fa-442a-bd6f-87915fec19ff</webElementGuid>
+      <webElementGuid>22e76367-5d16-4a3a-8aec-2f1724fef202</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

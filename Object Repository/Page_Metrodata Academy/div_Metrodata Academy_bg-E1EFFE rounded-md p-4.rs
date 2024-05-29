@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8968d9f7-f66f-4cb5-870f-9f81c36a6fcf</webElementGuid>
+      <webElementGuid>0888a4a8-c53a-462e-a01c-9fc31d13e9a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bg-[#E1EFFE] rounded-md p-4</value>
-      <webElementGuid>796711ac-eb1c-4e90-8151-376e0c10a05f</webElementGuid>
+      <webElementGuid>a771bdfa-26af-4818-82ee-c441f675f426</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex items-center justify-center mx-auto pb-8 px-9 lg:pb-24 xl:px-[108px]&quot;]/div[@class=&quot;flex flex-col gap-4 lg:flex-row lg:gap-0&quot;]/div[@class=&quot;flex flex-col gap-4 items-center w-full xl:w-[580px]&quot;]/div[@class=&quot;bg-[#E1EFFE] rounded-md p-4&quot;]</value>
-      <webElementGuid>ca146bd8-f5a6-49b0-89a9-a6794d1d96f5</webElementGuid>
+      <webElementGuid>8a02f806-e87f-4913-977c-491a6ae2e39c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[5]/div/div/div</value>
-      <webElementGuid>3a9b115b-ab94-47e2-873e-254a202aa02b</webElementGuid>
+      <webElementGuid>2b382f66-b17c-4891-bc32-edced7cd5637</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Academy'])[3]/following::div[24]</value>
-      <webElementGuid>4b51069c-7e63-4751-937e-727a3a86f9df</webElementGuid>
+      <webElementGuid>81c76cab-8db0-4804-9dbc-fa560994c05c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::div[6]</value>
-      <webElementGuid>3f799b96-1b8a-4b99-95f2-02982e4f6eba</webElementGuid>
+      <webElementGuid>5bb8dbf9-5e8d-4004-a97a-6c4dd052fa36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::div[7]</value>
-      <webElementGuid>e532715f-5798-4966-9937-327f2ed4e25b</webElementGuid>
+      <webElementGuid>f7297567-ccd8-4d01-9d27-870b64116727</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +77,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div/div</value>
-      <webElementGuid>e16ae918-7d25-4f98-bd78-9b9cfc7288a5</webElementGuid>
+      <webElementGuid>7550ef49-d226-4741-9725-27ab168776a8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

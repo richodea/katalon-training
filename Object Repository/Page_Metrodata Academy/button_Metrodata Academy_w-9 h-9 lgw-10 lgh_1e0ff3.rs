@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6bb526db-4b9d-4db1-916c-fd8a12bf9560</webElementGuid>
+      <webElementGuid>f3406698-9caa-4db8-aa83-83e663670177</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-9 h-9 lg:w-10 lg:h-10 flex items-center justify-center relative bg-[#EFEFEF] rounded-full font-semibold text-white</value>
-      <webElementGuid>b3c2a96f-2341-4422-9be7-00dc3b9a80f5</webElementGuid>
+      <webElementGuid>7b793673-cc21-40e0-b29d-525c800ec984</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;p-8 lg:py-24 xl:px-[108px]&quot;]/div[@class=&quot;flex flex-col items-center justify-center gap-5 mx-auto max-w-7xl&quot;]/div[@class=&quot;flex justify-between w-full&quot;]/div[@class=&quot;relative flex flex-col justify-center items-center w-full before:bg-[#EFEFEF] before:absolute before:-z-10 before:w-full before:h-[3px] before:right-2/4 before:top-1/3 before:-translate-y-2/4 false&quot;]/button[@class=&quot;w-9 h-9 lg:w-10 lg:h-10 flex items-center justify-center relative bg-[#EFEFEF] rounded-full font-semibold text-white&quot;]</value>
-      <webElementGuid>c76cfde2-c3da-4fc4-92cb-c107566e58ca</webElementGuid>
+      <webElementGuid>679e7431-a51b-4fed-bb9b-577b25fbba3a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[4]/div/div/div[2]/button</value>
-      <webElementGuid>1cf16565-e447-44e9-b49e-b4c0027234c9</webElementGuid>
+      <webElementGuid>81bc7927-9176-4b9d-82b7-6a352ceb923f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/button</value>
-      <webElementGuid>21fa816c-174d-4953-8acb-dbd7fd4f97b2</webElementGuid>
+      <webElementGuid>a489554b-22d2-46fa-852a-438b32b7238e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[4]/div/div/div[3]/button</value>
-      <webElementGuid>b8c235f4-670a-4144-a8a7-96acb0ebce76</webElementGuid>
+      <webElementGuid>be5d746b-6013-4287-936c-cd6d80a3e942</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +69,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>9b1af8c1-140a-4183-a75b-8f1c7078b382</webElementGuid>
+      <webElementGuid>c1528e24-5597-4418-840b-99b10b20f8bf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

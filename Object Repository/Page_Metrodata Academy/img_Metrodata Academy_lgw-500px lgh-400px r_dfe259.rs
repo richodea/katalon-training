@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>f902fefc-a42f-47fc-b213-af3327389eea</webElementGuid>
+      <webElementGuid>9e7d349c-b9e0-4139-942e-9a434253b47f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://metrodataacademy.s3.ap-southeast-1.amazonaws.com/static/Latar_Belakang_1.jpg</value>
-      <webElementGuid>0227a847-96ec-4876-8907-20d38e702e95</webElementGuid>
+      <webElementGuid>343046e9-6c9d-4a5f-972a-de1df86697b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>First Background Image Company Profile</value>
-      <webElementGuid>38a7b9ea-cfab-4352-bf48-9ba44ccba7ef</webElementGuid>
+      <webElementGuid>105bc840-e721-4f79-be25-3de13efb139d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>lg:w-[500px] lg:h-[400px] rounded-lg shadow-md object-cover</value>
-      <webElementGuid>1185fc48-b6b8-4fc8-9bc2-22ea108fc5a0</webElementGuid>
+      <webElementGuid>7e4f915b-9fc9-47d1-bf90-9a1635d8d496</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;px-8 lg:px-[108px]&quot;]/div[@class=&quot;flex flex-col gap-10 justify-center items-center max-w-7xl mx-auto&quot;]/div[@class=&quot;flex flex-col gap-5&quot;]/div[@class=&quot;flex flex-col lg:flex-row gap-8 lg:gap-16 items-center&quot;]/img[@class=&quot;lg:w-[500px] lg:h-[400px] rounded-lg shadow-md object-cover&quot;]</value>
-      <webElementGuid>80295bd9-a83c-4cd9-976b-fc05d4b9fb61</webElementGuid>
+      <webElementGuid>b638df99-7b49-4225-9bd2-d257ab411c2a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[3]/div/div[2]/div/img</value>
-      <webElementGuid>06e311c4-402e-401b-ae98-1609ff6b96aa</webElementGuid>
+      <webElementGuid>e4ec4e03-cfb6-4114-bc13-739f313caad0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='First Background Image Company Profile']</value>
-      <webElementGuid>11f7814f-4259-4d3c-ba5f-8b76459e53a3</webElementGuid>
+      <webElementGuid>e7da9ac3-967d-4f3d-9b10-9248a9c7ae56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/img</value>
-      <webElementGuid>8332f2d5-cf36-46eb-887d-0d0a6f7535d2</webElementGuid>
+      <webElementGuid>333bce1c-e7de-4375-93d2-6adfb331bc72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://metrodataacademy.s3.ap-southeast-1.amazonaws.com/static/Latar_Belakang_1.jpg' and @alt = 'First Background Image Company Profile']</value>
-      <webElementGuid>b4458398-a063-4d33-805f-2ee83537cc31</webElementGuid>
+      <webElementGuid>956deced-75d3-4c02-b66f-4e8a5d76be39</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

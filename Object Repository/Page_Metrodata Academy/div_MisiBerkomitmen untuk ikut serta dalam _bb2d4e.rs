@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d2c042d4-0889-486d-b725-4def7fe8b81b</webElementGuid>
+      <webElementGuid>ff4d240b-4145-4b47-942b-ef88a51648c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex flex-col gap-4 items-center w-full xl:w-[580px]</value>
-      <webElementGuid>ae53e512-f0f1-4ab7-87a1-687278b7417b</webElementGuid>
+      <webElementGuid>64c60c04-280e-4d45-8100-943fa10c9fa6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>MisiBerkomitmen untuk ikut serta dalam mencerdaskan kehidupan bangsa, khususnya pengembangan potensi talenta digital, baik IT Profesional maupun mahasiswa.</value>
-      <webElementGuid>d1055035-55cd-48cc-bd5c-f3039fdb3e95</webElementGuid>
+      <webElementGuid>7a5ebaef-092f-4ac9-a50f-1a92df425d4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex items-center justify-center mx-auto pb-8 px-9 lg:pb-24 xl:px-[108px]&quot;]/div[@class=&quot;flex flex-col gap-4 lg:flex-row lg:gap-0&quot;]/div[@class=&quot;flex flex-col gap-4 items-center w-full xl:w-[580px]&quot;]</value>
-      <webElementGuid>f0cd6f98-7c26-4a32-b307-74299f472bc4</webElementGuid>
+      <webElementGuid>9681c730-9d8f-4544-96ba-cdc7381fee32</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[5]/div/div[3]</value>
-      <webElementGuid>14c09ce0-2a2e-4b7f-98ac-65ecdf2341bb</webElementGuid>
+      <webElementGuid>5135ee03-ec9b-487f-8cfa-f4b9a60075e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Academy'])[3]/following::div[27]</value>
-      <webElementGuid>0e3450ca-0f9f-4163-b4cc-11c752da8353</webElementGuid>
+      <webElementGuid>0f0cf4ea-c64f-4d87-8dab-dcf103461b5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::div[3]</value>
-      <webElementGuid>3f04fb29-5b36-43a2-8149-ffef6c76a1b3</webElementGuid>
+      <webElementGuid>adfb3f63-54ac-48d3-863c-8646e2804f4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::div[4]</value>
-      <webElementGuid>0b21700e-2cfa-46c4-a97d-e5700760293a</webElementGuid>
+      <webElementGuid>987598e1-3572-4465-b1a0-14fb418889ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div[3]</value>
-      <webElementGuid>58f3481b-fb7f-466d-8728-9ca4b1f96240</webElementGuid>
+      <webElementGuid>dc454c3b-3800-4135-b3fa-35202bb0a920</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'MisiBerkomitmen untuk ikut serta dalam mencerdaskan kehidupan bangsa, khususnya pengembangan potensi talenta digital, baik IT Profesional maupun mahasiswa.' or . = 'MisiBerkomitmen untuk ikut serta dalam mencerdaskan kehidupan bangsa, khususnya pengembangan potensi talenta digital, baik IT Profesional maupun mahasiswa.')]</value>
-      <webElementGuid>28e9ce39-a4a5-466d-9ff1-d0e89675d490</webElementGuid>
+      <webElementGuid>b1dbaa0d-84f6-49b8-8a37-30ecc4fbc786</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

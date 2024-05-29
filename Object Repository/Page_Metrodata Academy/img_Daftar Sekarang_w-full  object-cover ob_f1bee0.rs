@@ -6,12 +6,11 @@
    <elementGuidId>bc2bc84a-e9bb-4957-b53c-8713c382f5ae</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div/div[3]/div/div/a[2]/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>f1f53665-160f-4aa5-8d25-455c8b30af54</webElementGuid>
+      <webElementGuid>25104873-5369-42a6-8e63-fb5ce21760e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://metrodataacademy.s3.ap-southeast-1.amazonaws.com/webinar/webinar-132059.jpg</value>
-      <webElementGuid>63ca2f98-f7c7-4e9e-995d-2e21f9586e13</webElementGuid>
+      <webElementGuid>1e7b840c-cf00-4a7b-9401-f3bd7c15aac2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Card Header Image</value>
-      <webElementGuid>6c3d7cdd-f52a-428d-a981-d6b1963fabc6</webElementGuid>
+      <webElementGuid>58f06e6d-c37e-4d0f-825e-31376931143d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full  object-cover object-center rounded-t-lg</value>
-      <webElementGuid>bb4627e5-669d-4c2d-99dd-afc01a521bce</webElementGuid>
+      <webElementGuid>5c00274f-30ec-4d0a-95f2-e5442f60735c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;w-full h-auto px-9 py-8 lg:py-24 lg:px-[108px] bg-blue-50&quot;]/div[@class=&quot;flex flex-col gap-10 mx-auto max-w-7xl&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6&quot;]/a[@class=&quot;cur  sor-pointer&quot;]/div[@class=&quot;flex flex-col transition duration-500 ease-in-out bg-white border border-gray-200 rounded-lg shadow-md hover:bg-cerulean-50&quot;]/div[@class=&quot;rounded-lg h-full&quot;]/img[@class=&quot;w-full  object-cover object-center rounded-t-lg&quot;]</value>
-      <webElementGuid>77ede70e-ca83-4b80-9887-c8fb923f0a89</webElementGuid>
+      <webElementGuid>7eb7e728-0c9d-480f-bd7f-1bef6d519b97</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[3]/div/div/a[2]/div/div/img</value>
-      <webElementGuid>9d7fa7bd-f476-4a68-b837-9757d1afcad9</webElementGuid>
+      <webElementGuid>42f1ec5e-e8c9-4fbc-bc8d-b5dfe4c893cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>(//img[@alt='Card Header Image'])[2]</value>
-      <webElementGuid>e319305a-d158-47f1-9d58-6d3be3157e5d</webElementGuid>
+      <webElementGuid>c56a8301-ab29-42c8-8477-84b079900693</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]/div/div/img</value>
-      <webElementGuid>8b297266-8d83-4a24-b838-6729abe4398a</webElementGuid>
+      <webElementGuid>002e9483-d085-4aa0-970b-777874d87c03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://metrodataacademy.s3.ap-southeast-1.amazonaws.com/webinar/webinar-132059.jpg' and @alt = 'Card Header Image']</value>
-      <webElementGuid>b0ed3140-3a87-4f48-97e0-e4d74cc171c9</webElementGuid>
+      <webElementGuid>dd8f5c1f-9524-4bdb-818b-ae30cc19ed59</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

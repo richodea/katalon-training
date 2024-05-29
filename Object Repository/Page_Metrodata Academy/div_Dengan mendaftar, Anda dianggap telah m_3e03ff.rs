@@ -6,12 +6,12 @@
    <elementGuidId>30398ca6-acdd-4259-9824-80a6d752a975</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.flex.items-start.w-full.gap-2</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div/div/div/form/div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.items-start.w-full.gap-2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>71f4e956-a19a-4486-b222-150487515277</webElementGuid>
+      <webElementGuid>258d9673-f80f-4661-bec2-3db8123ad965</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex items-start w-full gap-2</value>
-      <webElementGuid>41fb368b-7a5c-4551-be92-dd8f4a8989ab</webElementGuid>
+      <webElementGuid>91ccae56-5d3a-4ea9-87b2-0744b65902f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Dengan mendaftar, Anda dianggap telah membaca dan menyetujui aturan penggunaan serta kebijakan yang berlaku.</value>
-      <webElementGuid>78ebc384-36c3-4188-9fd6-c20f6cb94b33</webElementGuid>
+      <webElementGuid>24db8dc9-d199-44e2-a868-dc81e354219a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-2 h-screen&quot;]/div[@class=&quot;flex flex-col items-center justify-center gap-10 px-8 lg:px-[72px] py-5&quot;]/div[@class=&quot;flex flex-col justify-center w-full lg:px-8 py-10 gap-[23px]&quot;]/form[@class=&quot;flex flex-col gap-[18px]&quot;]/div[@class=&quot;flex items-start w-full gap-2&quot;]</value>
-      <webElementGuid>66dd06eb-e9ef-4fe9-bf09-b1c1b1656caa</webElementGuid>
+      <webElementGuid>a6f2e740-37b9-4e71-ae0b-7010e7929f43</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/form/div[5]</value>
-      <webElementGuid>ffdf8888-995e-4a5d-9ff7-358c939f6219</webElementGuid>
+      <webElementGuid>67de79fd-4920-437a-bb5e-4a49c4d4c7b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::div[2]</value>
-      <webElementGuid>9786909e-1ac3-4b41-a46e-3f1178f5c675</webElementGuid>
+      <webElementGuid>350893f7-3a8e-4f37-9921-84a369f1874b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::div[1]</value>
-      <webElementGuid>0f375dcf-33ef-444d-8808-9fe13824bf18</webElementGuid>
+      <webElementGuid>ac57529d-ada0-4694-bb1e-2987865aa79b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]</value>
-      <webElementGuid>a5085b4d-2a74-4c20-b849-56488e359dd2</webElementGuid>
+      <webElementGuid>f7f9bbd1-c312-4633-b5d8-84f7c822e4c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Dengan mendaftar, Anda dianggap telah membaca dan menyetujui aturan penggunaan serta kebijakan yang berlaku.' or . = 'Dengan mendaftar, Anda dianggap telah membaca dan menyetujui aturan penggunaan serta kebijakan yang berlaku.')]</value>
-      <webElementGuid>a59df383-6535-40dd-a2ac-aa95f7be0a3b</webElementGuid>
+      <webElementGuid>57f3cffd-d192-4d58-a831-3542615ec389</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

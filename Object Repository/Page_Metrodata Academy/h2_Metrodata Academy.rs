@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>fa84ac58-a504-4aba-8405-a4adf5935172</webElementGuid>
+      <webElementGuid>a47caaa1-c0c9-4d62-b3c0-64cf626eb72b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>leading-tight text-3xl lg:text-4xl font-bold text-cerulean-600 font-sans text-center</value>
-      <webElementGuid>6c046b1d-250e-4c1d-9189-428990c9a630</webElementGuid>
+      <webElementGuid>7dd6b67f-9646-486b-b8ba-09347c07149c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Metrodata Academy</value>
-      <webElementGuid>0d3204eb-4911-4243-8a4c-e19e260366a5</webElementGuid>
+      <webElementGuid>1085c70a-2ad9-4ee7-9102-aa94ffb00b9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex flex-col items-center gap-8 mx-auto py-8 px-9 lg:py-24 lg:px-[108px]&quot;]/div[@class=&quot;max-w-7xl flex flex-col justify-center items-center gap-[10px]&quot;]/h2[@class=&quot;leading-tight text-3xl lg:text-4xl font-bold text-cerulean-600 font-sans text-center&quot;]</value>
-      <webElementGuid>63db7203-d553-40e9-9457-ac6e26bdb663</webElementGuid>
+      <webElementGuid>b9e2e004-3819-45b9-92c2-c268e2f5be7a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div/h2</value>
-      <webElementGuid>24574220-8125-4069-950b-5450f7f62bc3</webElementGuid>
+      <webElementGuid>b8c0cb4f-b8e2-4e01-97ee-ddba3377458a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::h2[1]</value>
-      <webElementGuid>6fe484d0-9881-4c79-ade3-61a15b897a65</webElementGuid>
+      <webElementGuid>b355ec9e-fe2c-4891-aa19-0470354d61ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::h2[1]</value>
-      <webElementGuid>8074bba2-7800-4b18-b0d8-61201c2fed33</webElementGuid>
+      <webElementGuid>e5bc65bd-3f5f-4f00-b7f8-7e29fda1cccf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::h2[2]</value>
-      <webElementGuid>3e7341b8-2c05-4035-b452-6b19c92635c8</webElementGuid>
+      <webElementGuid>4e732450-847c-426c-8037-10f1e137dab0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>82a1e74d-d428-49bf-a16d-b1be774c0414</webElementGuid>
+      <webElementGuid>6ac900e6-dd00-4225-9bbf-4b78a679489a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'Metrodata Academy' or . = 'Metrodata Academy')]</value>
-      <webElementGuid>f1020cfa-d3d7-4644-bb2a-1a9afc37cfbe</webElementGuid>
+      <webElementGuid>2fd166d5-cf94-4228-9579-e0ab2f667716</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

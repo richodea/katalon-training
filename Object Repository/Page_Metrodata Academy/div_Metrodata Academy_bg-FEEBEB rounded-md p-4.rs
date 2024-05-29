@@ -6,12 +6,11 @@
    <elementGuidId>5b938ca3-e5b6-47b1-a9dc-c50b2c522fdc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>e068c393-e244-456c-81f1-9b5460bc169f</webElementGuid>
+      <webElementGuid>8d1257d5-7db9-4f8d-8feb-5c25415326e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bg-white mx-auto p-12 xxs:pt-6 xxs:px-6 xxs:pb-3 md:px-16 max-[300px]:p-6</value>
-      <webElementGuid>58082576-735f-4b63-b9c8-4dcb73e011e3</webElementGuid>
+      <webElementGuid>bac5716e-8c06-4dac-a3ef-c1e3c1d0ccce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;bg-white mx-auto p-12 xxs:pt-6 xxs:px-6 xxs:pb-3 md:px-16 max-[300px]:p-6&quot;]</value>
-      <webElementGuid>fe434661-845b-4d7b-9a21-2bc450b1de81</webElementGuid>
+      <webElementGuid>a9ecb097-1e66-4a91-a88c-c3236bde1053</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]</value>
-      <webElementGuid>b126e100-02bf-46da-b259-34a2dafe988f</webElementGuid>
+      <webElementGuid>143fa5c1-c67b-4030-960c-892ec149a25d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mahasiswa &amp; Fresh Graduate Bergabung'])[1]/following::div[1]</value>
-      <webElementGuid>b44d2140-ed15-4c01-96bf-f06f6d47c664</webElementGuid>
+      <webElementGuid>17f7ac5a-653c-4abe-a453-957554bba76a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jadwal Training dan Workshop Bersertifikasi yang Tersedia'])[1]/preceding::div[4]</value>
-      <webElementGuid>acf14a0c-96ee-43cc-a61c-4a7c9afb1ae9</webElementGuid>
+      <webElementGuid>5b60210f-39d9-4a0b-9014-53de7eaaa510</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/preceding::div[5]</value>
-      <webElementGuid>181ae362-1b6e-430e-94f9-aced24b46aa7</webElementGuid>
+      <webElementGuid>2e10af6d-ef11-4a22-a9d1-a6a37fcf5b22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[2]</value>
-      <webElementGuid>fc057477-ce51-4cf7-8614-bd9ca8d299a4</webElementGuid>
+      <webElementGuid>b8694511-4204-44ae-afab-d58c840edbbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[5]/div/div[3]/div</value>
-      <webElementGuid>aaacd6c2-b68c-4d08-a41c-d85d66b0f040</webElementGuid>
+      <webElementGuid>b94c7877-21f1-4080-afed-1475122e4f58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Academy'])[3]/following::div[28]</value>
-      <webElementGuid>ea99d43e-aa81-48f0-b1e8-6bce00819002</webElementGuid>
+      <webElementGuid>e7e39c88-dd15-44a7-b8c4-cc7b6e62a97a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::div[2]</value>
-      <webElementGuid>e1032004-2471-4910-9027-1b780ad0d9d8</webElementGuid>
+      <webElementGuid>c8905b69-1a19-436f-8239-2de7b45e63b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::div[3]</value>
-      <webElementGuid>b6f318fa-fc3c-4baf-b576-ae3cab1dcc76</webElementGuid>
+      <webElementGuid>d4acc71a-16a9-4483-8626-46c49711174b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +117,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div[3]/div</value>
-      <webElementGuid>bef18a9a-a1d3-4b7d-b95a-a9abfc6cdc10</webElementGuid>
+      <webElementGuid>635f7593-9006-4c6c-938f-ff6ae962ecc4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

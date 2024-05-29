@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>9081fe59-f9bd-447a-bba2-143f895a1c00</webElementGuid>
+      <webElementGuid>bceb0679-d7c8-4579-8cc5-8cbddd349cd3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>absolute inset-0</value>
-      <webElementGuid>9da52959-e565-45c5-9988-acac0fe9657e</webElementGuid>
+      <webElementGuid>9760d118-d0b8-47fb-959c-bc089b148557</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/header[@class=&quot;fixed top-0 left-0 right-0 z-10 bg-gradient-to-r from-white/40 to-white/20 sm:z-40 drop-shadow-lg backdrop-blur-lg&quot;]/nav[@class=&quot;flex items-center justify-between lg:px-[108px] xl:py-2 xl:h-[92px] py-6 px-8 xl:justify-center&quot;]/div[@class=&quot;items-center justify-center hidden mx-auto xl:flex xl:gap-x-5&quot;]/div[@class=&quot;flex flex-row gap-x-5&quot;]/div[@class=&quot;flex gap-x-5 group&quot;]/div[1]/div[2]/div[@class=&quot;absolute inset-x-0 top-0 bg-white shadow-lg -z-10 pt-9 ring-1 ring-gray-900/5 hidden group-hover:md:block hover:md:block&quot;]/div[@class=&quot;border-t-[1px] border-black/10 mt-14&quot;]/div[@class=&quot;flex flex-row justify-around px-20 py-10 max-w-7xl lg:px-[108px]&quot;]/div[@class=&quot;flex flex-wrap w-2/3&quot;]/div[@class=&quot;relative w-1/2 p-4 mb-4 -mt-4 text-sm leading-[17.5px] rounded-lg hover:bg-gray-50&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;w-4/5 pl-4&quot;]/a[@class=&quot;block text-base font-semibold leading-5 text-gray-900 group-hover:hover:text-cerulean-600 group-hover:text-black&quot;]/span[@class=&quot;absolute inset-0&quot;]</value>
-      <webElementGuid>0c5a109b-a085-406f-8ef8-209038dcbb61</webElementGuid>
+      <webElementGuid>d80fd172-c61b-4ade-9ec6-703b5a8d2c79</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/header/nav/div[3]/div/div/div/div[2]/div/div/div/div[2]/div[3]/div/div[2]/a/span</value>
-      <webElementGuid>66c0ec84-c899-45ec-9eb7-ee7b00069c55</webElementGuid>
+      <webElementGuid>106fa143-88f9-49b7-92de-59f3b5096ae6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +53,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[2]/a/span</value>
-      <webElementGuid>18abe23c-25e6-4ec9-8cd4-533420f95e2c</webElementGuid>
+      <webElementGuid>803bb45b-5e0b-4139-86f7-1fad96d76fc5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

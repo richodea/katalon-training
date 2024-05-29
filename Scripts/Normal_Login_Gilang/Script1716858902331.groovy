@@ -23,5 +23,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Metrodata Academy/
 
 WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/button_Masuk'))
 
+WebUI.takeScreenshot()
+
 WebUI.delay(5)
 

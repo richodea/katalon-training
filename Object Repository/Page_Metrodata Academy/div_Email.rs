@@ -6,12 +6,11 @@
    <elementGuidId>03993e5e-6fac-4634-8cf2-9d4e3678319b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div/div/div/form/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b78bdafc-a88c-47f5-9101-f5fca4af3cb7</webElementGuid>
+      <webElementGuid>89ae35d5-0d60-40e3-a71f-191f958b2be4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex flex-col gap-2 items-start</value>
-      <webElementGuid>7f7a639a-80a3-4a3c-b87d-50adbd776ed3</webElementGuid>
+      <webElementGuid>1c993f60-8011-417b-9f43-b7e393db7b31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Email *</value>
-      <webElementGuid>264b3f8b-3c3e-4122-a83d-a37e759ca722</webElementGuid>
+      <webElementGuid>e183429a-7a26-49f0-912e-2c0208c80019</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-2 h-screen&quot;]/div[@class=&quot;flex flex-col items-center justify-center gap-10 px-8 lg:px-[72px] py-5&quot;]/div[@class=&quot;flex flex-col justify-center w-full lg:px-8 py-10 gap-[23px]&quot;]/form[@class=&quot;flex flex-col gap-[18px]&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;flex flex-col gap-2 items-start&quot;]</value>
-      <webElementGuid>0b31f75e-85a0-49ee-8e4c-2492e8603ace</webElementGuid>
+      <webElementGuid>9996ae46-5203-4e2e-bd59-3cab0d6719cb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/form/div[2]/div/div</value>
-      <webElementGuid>eb477498-58f7-4c9d-98b5-4d0bc4900235</webElementGuid>
+      <webElementGuid>e074ac24-bc96-49cb-a9d7-5404992732b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[4]</value>
-      <webElementGuid>bdf61f93-a8e8-4aed-9800-47af0215f1f6</webElementGuid>
+      <webElementGuid>88ba5d78-adc9-4e6d-9c6e-e4b0d4a4ee29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div[2]/div/div</value>
-      <webElementGuid>d90a2d12-a5fd-4a15-812a-0bc55bbf6a0d</webElementGuid>
+      <webElementGuid>433f930c-e2c9-4a26-bfac-5256c590cf5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +77,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Email *' or . = 'Email *')]</value>
-      <webElementGuid>8586330e-90be-4705-8976-cae2cc784fa8</webElementGuid>
+      <webElementGuid>4297ba8f-8cf4-4a90-8330-91eabce4bd84</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,11 @@
    <elementGuidId>0874429d-6eda-4966-83b9-e554da7c759b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c9d548a4-30d6-4d29-98b1-a445bc1b83dc</webElementGuid>
+      <webElementGuid>b6f661bb-d60b-41c8-93a4-8d5979ea6245</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>relative lg:px-[108px] px-8 z-10 lg:py-24 pb-16 pt-28 lg:pt-[200px]</value>
-      <webElementGuid>a137e328-b7b9-4aaa-9f45-85d7b27ac740</webElementGuid>
+      <webElementGuid>3a0a3c93-6d2c-4265-b6e9-2fbc4c4747be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Metrodata MengajarMari tumbuh bersama! Belajar dan berbagi ilmu di bidang Teknologi Informasi kapan saja dan dari mana saja.</value>
-      <webElementGuid>964d83ab-671f-4ec0-bf32-a77d28d59111</webElementGuid>
+      <webElementGuid>e55831d8-258b-4361-8bb8-62c73dca8cb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;relative w-full h-auto lg:mx-auto bg-cerulean-600 mix-blend-overlay&quot;]/div[@class=&quot;relative lg:px-[108px] px-8 z-10 lg:py-24 pb-16 pt-28 lg:pt-[200px]&quot;]</value>
-      <webElementGuid>483fd5cb-9732-428f-b8d6-b739955a5f62</webElementGuid>
+      <webElementGuid>830d8c05-1a9c-47f7-bc06-e858c03ec02d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div</value>
-      <webElementGuid>1d2701ea-a0e6-417a-8869-b8c837a81196</webElementGuid>
+      <webElementGuid>c06a7140-55f1-41a4-8cc5-1214edf76501</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::div[4]</value>
-      <webElementGuid>7ab53a3a-6798-4363-8611-d8114103b1a5</webElementGuid>
+      <webElementGuid>93013056-a8af-4e84-9d19-cccc4d742dbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::div[4]</value>
-      <webElementGuid>b8b32224-1fe2-4220-bba1-76816f0037dd</webElementGuid>
+      <webElementGuid>e55d51d3-3945-4c04-9196-a5de84bef5b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Diisi dan didukung oleh semua Profesional IT di Metrodata'])[1]/preceding::div[2]</value>
-      <webElementGuid>ff1fa5ff-6f6b-402b-aa9b-464ff644ff6e</webElementGuid>
+      <webElementGuid>5cb506d7-cdfa-4d4b-9110-bddbac6f02d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div</value>
-      <webElementGuid>2d343b8d-96f3-43fc-8a68-25c238d3c9e0</webElementGuid>
+      <webElementGuid>61afa1f5-e0bc-42c9-9407-22f1e6abe0d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Metrodata MengajarMari tumbuh bersama! Belajar dan berbagi ilmu di bidang Teknologi Informasi kapan saja dan dari mana saja.' or . = 'Metrodata MengajarMari tumbuh bersama! Belajar dan berbagi ilmu di bidang Teknologi Informasi kapan saja dan dari mana saja.')]</value>
-      <webElementGuid>8af3aa09-de39-4f91-9887-7b6831645f88</webElementGuid>
+      <webElementGuid>54138a3d-5eda-4672-ab5a-77fd413f8e9e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

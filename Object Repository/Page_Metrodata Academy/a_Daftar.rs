@@ -6,12 +6,11 @@
    <elementGuidId>7a90be42-dd46-41ef-a9b0-0a54760f5ff8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/header/nav/div[4]/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f26171ab-22c9-4fdf-b3bd-f1dd2f9688c9</webElementGuid>
+      <webElementGuid>750c038c-6ae9-4f8d-b8ff-8e81b7166249</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/sign-up</value>
-      <webElementGuid>7798510c-070c-4fbc-8824-9af96fb74fc4</webElementGuid>
+      <webElementGuid>aca03ac6-2df3-41ed-a75f-d11b07e265a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>-mx-3 block rounded-lg px-8 py-4 text-base font-semibold leading-7 text-white bg-cerulean-600 hover:bg-cerulean-700</value>
-      <webElementGuid>ea5b2a50-ebe6-4f1c-a025-39da01a60f22</webElementGuid>
+      <webElementGuid>f8d6ac33-7796-4153-99e5-fcee3b6453a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Daftar </value>
-      <webElementGuid>122964a3-309c-4957-8ddb-4679bedf35a1</webElementGuid>
+      <webElementGuid>e36266ed-97b2-4e2b-9e8c-6aa36b3c293d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/header[@class=&quot;fixed top-0 left-0 right-0 z-10 bg-gradient-to-r from-white/40 to-white/20 sm:z-40 drop-shadow-lg backdrop-blur-lg&quot;]/nav[@class=&quot;flex items-center justify-between lg:px-[108px] xl:py-2 xl:h-[92px] py-6 px-8 xl:justify-center&quot;]/div[@class=&quot;hidden gap-6 my-4 ml- xl:flex xl:flex-1 xl:justify-end&quot;]/div[@class=&quot;flex flex-col gap-4 lg:flex-row items-center&quot;]/a[@class=&quot;-mx-3 block rounded-lg px-8 py-4 text-base font-semibold leading-7 text-white bg-cerulean-600 hover:bg-cerulean-700&quot;]</value>
-      <webElementGuid>6be32384-4796-487b-879e-19bb4d3e747c</webElementGuid>
+      <webElementGuid>1e143767-262f-4bab-ba18-718f33548486</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/header/nav/div[4]/div/a[2]</value>
-      <webElementGuid>a8a8f497-1498-44b4-8b96-d72dc9fe489e</webElementGuid>
+      <webElementGuid>efbb6c2b-645e-463c-bee2-a3be3ae102cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Daftar')]</value>
-      <webElementGuid>a8acdbc9-91cb-4a03-aab2-b5b4b03db857</webElementGuid>
+      <webElementGuid>46bac19c-f1eb-4e92-a970-7059a93f7ce7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::a[1]</value>
-      <webElementGuid>7e7c43b5-7375-4ebd-8acc-f33857cfcb3f</webElementGuid>
+      <webElementGuid>b61cf71e-ca0b-44a6-ba0a-60af817a0bf5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::a[2]</value>
-      <webElementGuid>5d598f1b-8444-4dd0-87b5-93900467af13</webElementGuid>
+      <webElementGuid>9fc824ef-6740-48d4-bdb9-9d316570259a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='with Metrodata Academy'])[1]/preceding::a[1]</value>
-      <webElementGuid>bf77c4e4-7a47-450e-9394-bb6bbf1bb970</webElementGuid>
+      <webElementGuid>fe4e09a0-9a76-4cbf-bdc5-28e37c0f2dc5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Daftar']/parent::*</value>
-      <webElementGuid>76d2a90c-25e0-4169-a3d2-e73855dbc840</webElementGuid>
+      <webElementGuid>2258f54f-7566-4dd6-9871-09848770ef96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/sign-up')]</value>
-      <webElementGuid>54c6a570-56af-46b5-a6c8-99595d4ca59c</webElementGuid>
+      <webElementGuid>69edb5fc-205d-4b61-bf4c-48190d46449b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/a[2]</value>
-      <webElementGuid>fe2a73e7-89d5-4b93-9ecd-7c651e8f15dd</webElementGuid>
+      <webElementGuid>90da2000-4b8c-45cc-a5e9-682d42225285</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +125,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/sign-up' and (text() = 'Daftar ' or . = 'Daftar ')]</value>
-      <webElementGuid>4b79666f-6dd3-492d-a619-a0232ff501a1</webElementGuid>
+      <webElementGuid>30a767bd-d067-4699-87d5-186239db0232</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +133,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Academy'])[3]/preceding::a[1]</value>
-      <webElementGuid>8e122a89-0dd0-4c40-9fe7-a0c80a5c904a</webElementGuid>
+      <webElementGuid>6d5eabfb-a585-4a5c-9367-b58dd692b1e9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

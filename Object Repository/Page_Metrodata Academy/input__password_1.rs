@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3d0633f4-ca99-41ad-a7ae-f6e42fc06526</webElementGuid>
+      <webElementGuid>1f90a192-0e1e-484c-b369-319ff224ba4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>815c9f71-7501-4317-ab77-bf0d2bac4046</webElementGuid>
+      <webElementGuid>4d93d5b1-eac1-448b-9dfd-f722554ff1ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>8ebac427-4116-4645-8a12-64a7b2b115a2</webElementGuid>
+      <webElementGuid>9fc36bae-0a6d-46dc-9b8e-44b1ae3288e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>e2f1ac7c-4362-46af-91cd-14eacb930064</webElementGuid>
+      <webElementGuid>b0b6d7ad-04d4-4a72-a222-566f4691a52f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukkan password</value>
-      <webElementGuid>e25c484c-411c-4162-a33a-633f0889c665</webElementGuid>
+      <webElementGuid>3fca8338-aa15-4a97-97dd-cbd82288b23c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>block w-full px-3 py-[14px] bg-gray-50 border rounded-lg active:outline-none focus:ring-none border-gray-300</value>
-      <webElementGuid>f8652041-4b0f-44b3-849c-b5803034da39</webElementGuid>
+      <webElementGuid>736d01dd-bc8d-40ef-a7bc-df5af77e5375</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;password&quot;)</value>
-      <webElementGuid>e1cc9bb5-198c-48fc-a9ca-d8612ca7da96</webElementGuid>
+      <webElementGuid>8b596264-a095-4702-b672-3c7017659b0a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='password']</value>
-      <webElementGuid>af98664b-3463-41d8-a6c8-7438c4a3be39</webElementGuid>
+      <webElementGuid>1b88cb5f-f016-45ef-82ad-29adf6f23ef3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/form/div/div[2]/div/div/div/input</value>
-      <webElementGuid>364501f6-ff3e-43e5-8ada-0fa3ec736d2c</webElementGuid>
+      <webElementGuid>10b78280-b3ee-4a60-b5cd-1e4a73a51359</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/input</value>
-      <webElementGuid>4a508aa7-1cea-411e-8c0b-9318a12ee37a</webElementGuid>
+      <webElementGuid>4da8ee7c-cc67-4a46-a845-41aa8ba660d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'password' and @id = 'password' and @placeholder = 'Masukkan password']</value>
-      <webElementGuid>d6587c9d-541d-4edf-b330-eab758e72dc9</webElementGuid>
+      <webElementGuid>a00a0f99-1843-4b91-b3ce-59d33cb08723</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ab8eb1d3-dc94-492b-bbfd-6d51ba4ccf24</webElementGuid>
+      <webElementGuid>fc2416f0-e50d-4661-a87e-87e9df0e2cb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-base lg:text-lg text-[#6B7280] text-center font-sans</value>
-      <webElementGuid>03a38c60-f719-427c-b240-649bcba83fe9</webElementGuid>
+      <webElementGuid>ac0d384d-d4ba-43e7-883c-55c449b49d53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Menempatkan trainer profesional sebagai komitmen kami dalam memberikan layanan berkualitas kepada para mitra. Dengan standar pengujian internasional pula baik dalam kemampuan teknis maupun kemampuan mengajarnya oleh para principal.</value>
-      <webElementGuid>9d2439a9-178c-4ed7-beab-ba30bfc33c64</webElementGuid>
+      <webElementGuid>a0d0f3b2-5f85-45cc-8a93-df1e00849761</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex items-center justify-center mx-auto pb-8 px-9 lg:pb-24 xl:px-[108px]&quot;]/div[@class=&quot;flex flex-col gap-4 lg:flex-row lg:gap-0&quot;]/div[@class=&quot;flex flex-col gap-4 items-center w-full xl:w-[580px]&quot;]/span[@class=&quot;text-base lg:text-lg text-[#6B7280] text-center font-sans&quot;]</value>
-      <webElementGuid>af0473c8-d7f6-432f-9660-c6a93096814e</webElementGuid>
+      <webElementGuid>8fa769ad-faa3-48ff-80ea-ff65421aa05b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[5]/div/div/span</value>
-      <webElementGuid>2981ea06-14ac-4999-8271-0442a2e265b0</webElementGuid>
+      <webElementGuid>bc6951df-5eb8-4a3d-8a43-5cd9fe7ee8fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Academy'])[3]/following::span[2]</value>
-      <webElementGuid>658c25e8-5f8e-40ef-9af3-abd33e47cc12</webElementGuid>
+      <webElementGuid>03898dad-8a27-4232-b2f1-f821761ccd4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::span[2]</value>
-      <webElementGuid>79f13f27-1a80-4e68-a3f5-ae947ae7273a</webElementGuid>
+      <webElementGuid>b52d28dd-6f90-4b2b-9b2a-32ebf0f46c0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::span[2]</value>
-      <webElementGuid>8e85ebd6-473d-484b-ba46-21ef7488679a</webElementGuid>
+      <webElementGuid>b93b70e8-2011-4007-98f2-47d6747a17e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Menempatkan trainer profesional sebagai komitmen kami dalam memberikan layanan berkualitas kepada para mitra. Dengan standar pengujian internasional pula baik dalam kemampuan teknis maupun kemampuan mengajarnya oleh para principal.']/parent::*</value>
-      <webElementGuid>bee2c997-746f-4fa1-9ba4-69e2df61c0b7</webElementGuid>
+      <webElementGuid>e981da7a-6f1a-4e11-9a06-be74b42dd3c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div/span</value>
-      <webElementGuid>de403243-8c4a-4120-82c6-3f3c4f615cb3</webElementGuid>
+      <webElementGuid>4748ce9c-0e5e-4a8d-bcb9-30aae476ef87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Menempatkan trainer profesional sebagai komitmen kami dalam memberikan layanan berkualitas kepada para mitra. Dengan standar pengujian internasional pula baik dalam kemampuan teknis maupun kemampuan mengajarnya oleh para principal.' or . = 'Menempatkan trainer profesional sebagai komitmen kami dalam memberikan layanan berkualitas kepada para mitra. Dengan standar pengujian internasional pula baik dalam kemampuan teknis maupun kemampuan mengajarnya oleh para principal.')]</value>
-      <webElementGuid>b0809a95-cf39-4565-b8cc-403e55789602</webElementGuid>
+      <webElementGuid>4d50eb30-e21e-44e7-9ea9-b646dc4487e2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

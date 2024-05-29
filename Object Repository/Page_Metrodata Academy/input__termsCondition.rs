@@ -6,12 +6,12 @@
    <elementGuidId>b78621c1-431b-4912-a6cc-32f9f252ce63</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;termsCondition&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@name='termsCondition']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;termsCondition&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ffd46853-ae19-4a3f-80fa-1fae6fba2e8c</webElementGuid>
+      <webElementGuid>c1157e5a-b241-48dd-9ab2-e963d2ae2e86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>df9df0a6-f419-4f4e-a5f6-55d75bbc8fe0</webElementGuid>
+      <webElementGuid>71b6d2b9-ae7c-4da6-a3ad-3868058a644b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>termsCondition</value>
-      <webElementGuid>9fa99738-4853-4820-9fe8-96ecbbd6ae19</webElementGuid>
+      <webElementGuid>e8b70d2b-d368-4c3b-a4ef-b44b39051c04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-4 h-4 border-gray-300 rounded bg-gray-50</value>
-      <webElementGuid>2cb1fc4c-afb2-4e57-8d28-f647d2e89b75</webElementGuid>
+      <webElementGuid>d54b40af-eea9-4a24-9c4c-19ccdd9e8898</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;grid grid-cols-1 lg:grid-cols-2 h-screen&quot;]/div[@class=&quot;flex flex-col items-center justify-center gap-10 px-8 lg:px-[72px] py-5&quot;]/div[@class=&quot;flex flex-col justify-center w-full lg:px-8 py-10 gap-[23px]&quot;]/form[@class=&quot;flex flex-col gap-[18px]&quot;]/div[@class=&quot;flex items-start w-full gap-2&quot;]/input[@class=&quot;w-4 h-4 border-gray-300 rounded bg-gray-50&quot;]</value>
-      <webElementGuid>57d40341-18b7-4b40-b9e2-01f3c6b74393</webElementGuid>
+      <webElementGuid>a4e18e60-9e73-4a1c-b22a-d9c51947e2db</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='termsCondition']</value>
-      <webElementGuid>6529ea07-ae47-4423-9e49-95d69c438f20</webElementGuid>
+      <webElementGuid>24b0fa63-353b-42ee-9c07-86abf5c8cc3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/form/div[5]/input</value>
-      <webElementGuid>6f449812-27c3-4ead-a2aa-84289280d737</webElementGuid>
+      <webElementGuid>276a375e-781f-479b-9f67-22a2bbc0645f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/input</value>
-      <webElementGuid>78877b0e-7ad5-4be0-ba38-ffdcef2c55e1</webElementGuid>
+      <webElementGuid>6869ad03-fa9a-4e8e-ae5f-c90fe44f9a5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'termsCondition']</value>
-      <webElementGuid>8af8a5bd-906d-4c3f-ae63-33aeef64dffd</webElementGuid>
+      <webElementGuid>81431b6c-395c-4359-93ba-dbf4fda1e572</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

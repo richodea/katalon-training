@@ -21,5 +21,7 @@ WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/input__term
 
 WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/button_Daftar'))
 
+WebUI.takeScreenshot()
+
 WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/a_Masuk Sekarang'))
 

@@ -6,12 +6,11 @@
    <elementGuidId>6caf8fcf-b25b-4744-a0a7-9c18fff2db2b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div/div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>815c2458-d460-400a-92bc-058cc9c5c678</webElementGuid>
+      <webElementGuid>33951cd9-a58e-4841-89b8-7af9ebdabb99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bg-cerulean-50 p-8 lg:py-24 lg:px-[108px] mx-auto justify-center items-center</value>
-      <webElementGuid>f19ad045-fe80-4036-9667-d99105427745</webElementGuid>
+      <webElementGuid>2b5094f9-32ba-460c-82dd-b1596ea4ba3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Artikel TerbaruBerita, ilmu, dan pelatihan terbaru di Metrodata AcademyMetrodata Academy HomePROMOMARCHVELOUS :  Buka Potensi Terbaik Kalian Di Bidang IT Dengan Harga HematBaca Selengkapnya Metrodata InternshipNEWSWelcome to Metrodata Academy MSIB Batch VIBaca Selengkapnya Metrodata InternshipNEWSMetrodata Menghadiri Undangan Penandatanganan Perjanjian Kerja Sama (PKS) Program MSIB Batch 6Baca Selengkapnya </value>
-      <webElementGuid>81732be3-016b-468a-bb19-6560523aa878</webElementGuid>
+      <webElementGuid>116ad9b0-3ffb-47ca-a940-f8a5124d9da9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;bg-cerulean-50 p-8 lg:py-24 lg:px-[108px] mx-auto justify-center items-center&quot;]</value>
-      <webElementGuid>b1f9d65e-8bd8-4c35-a906-d7657b9cbaf7</webElementGuid>
+      <webElementGuid>3ca4e31d-a3a8-4d86-bd51-dd7aed83ecf2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[5]</value>
-      <webElementGuid>c9923aaf-9427-4794-8c99-26f316d1b691</webElementGuid>
+      <webElementGuid>6103e865-66a0-4883-a24c-90be464f5c36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapat Belajar di mana pun'])[1]/following::div[2]</value>
-      <webElementGuid>a8e3199a-da68-4888-be11-80eec191fef4</webElementGuid>
+      <webElementGuid>e29d7f87-39f5-4214-a51d-cf1293e49f77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kami memiliki mentor atau pengajar yang sudah berpengalaman dan ahli di bidangnya untuk Anda.'])[1]/following::div[7]</value>
-      <webElementGuid>8c09900d-27aa-43ec-a2dc-5643a232c7b7</webElementGuid>
+      <webElementGuid>facd07ee-9780-4204-b33f-bf8d815ef6be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]</value>
-      <webElementGuid>9419c4d7-cd7e-4d2d-9cad-2816af0199ce</webElementGuid>
+      <webElementGuid>966eac97-7a10-4f69-8170-03493cf0605a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Artikel TerbaruBerita, ilmu, dan pelatihan terbaru di Metrodata AcademyMetrodata Academy HomePROMOMARCHVELOUS :  Buka Potensi Terbaik Kalian Di Bidang IT Dengan Harga HematBaca Selengkapnya Metrodata InternshipNEWSWelcome to Metrodata Academy MSIB Batch VIBaca Selengkapnya Metrodata InternshipNEWSMetrodata Menghadiri Undangan Penandatanganan Perjanjian Kerja Sama (PKS) Program MSIB Batch 6Baca Selengkapnya ' or . = 'Artikel TerbaruBerita, ilmu, dan pelatihan terbaru di Metrodata AcademyMetrodata Academy HomePROMOMARCHVELOUS :  Buka Potensi Terbaik Kalian Di Bidang IT Dengan Harga HematBaca Selengkapnya Metrodata InternshipNEWSWelcome to Metrodata Academy MSIB Batch VIBaca Selengkapnya Metrodata InternshipNEWSMetrodata Menghadiri Undangan Penandatanganan Perjanjian Kerja Sama (PKS) Program MSIB Batch 6Baca Selengkapnya ')]</value>
-      <webElementGuid>3cd20988-7ed7-40f6-b9f0-7d0f44408c7e</webElementGuid>
+      <webElementGuid>dee2b6e6-9898-4a62-b2af-7e905a63b951</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>da982f4b-8647-4c9a-b09d-ad1268b8a95e</webElementGuid>
+      <webElementGuid>def07ceb-4e8b-4111-9c82-7b2a04a78236</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value> text-4xl lg:text-5xl lg:leading-[60px] text-white </value>
-      <webElementGuid>481d8785-e771-47d0-b29c-3e0827fb9b6e</webElementGuid>
+      <webElementGuid>734edec4-211a-4502-b94b-9703500e8fec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Develop your IT  and digital potentialwith Metrodata Academy</value>
-      <webElementGuid>c0c791aa-6cd8-4837-97ca-4c815989745c</webElementGuid>
+      <webElementGuid>746cb33e-6d4e-41e0-b953-4f22cd376f10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;mx-auto pb-10 lg:pb-[108px] bg-opacity-50 mb-5&quot;]/div[@class=&quot;h-auto mx-auto&quot;]/div[@class=&quot;relative px-8 lg:px-[108px] pt-[138px] pb-6 sm:pb-[60px] lg:pt-[186px]&quot;]/div[@class=&quot;flex flex-col gap-[60px]&quot;]/div[@class=&quot;flex flex-col gap-5&quot;]/h2[@class=&quot;text-4xl lg:text-5xl lg:leading-[60px] text-white&quot;]</value>
-      <webElementGuid>06b2ab26-e493-4f6b-b9fb-c3dc3fc494c1</webElementGuid>
+      <webElementGuid>56f9ffb8-fb8d-4a33-bea4-883930f61def</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div/div/div/h2</value>
-      <webElementGuid>9bc88bf1-21d0-48c8-b741-63fbbade61ef</webElementGuid>
+      <webElementGuid>5940e64c-997b-4594-8f5e-717b15671f5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::h2[1]</value>
-      <webElementGuid>614b5129-b93d-4679-99cf-fde45ba439c0</webElementGuid>
+      <webElementGuid>b6d72b8f-295d-418e-b0c9-87102a64e56d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::h2[1]</value>
-      <webElementGuid>d4b6d873-ff5d-4339-819e-2e581c75549b</webElementGuid>
+      <webElementGuid>1af31046-4053-4366-af63-eea850c4771d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>67e9478d-56da-4387-a031-6cc00d6c2070</webElementGuid>
+      <webElementGuid>d25b9896-6d6d-4858-9c89-cbd0b4d7cdda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'Develop your IT  and digital potentialwith Metrodata Academy' or . = 'Develop your IT  and digital potentialwith Metrodata Academy')]</value>
-      <webElementGuid>7e87e7f0-5dbd-4e62-9bd0-5176d238bbf9</webElementGuid>
+      <webElementGuid>8d7e8f9f-f8b9-4693-85b1-b7568250f274</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

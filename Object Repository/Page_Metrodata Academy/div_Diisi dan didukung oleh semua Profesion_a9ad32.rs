@@ -6,12 +6,11 @@
    <elementGuidId>64468568-f76c-4b66-9632-2005320e8664</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>571fb7a8-1816-46c6-9e4f-7ab139ef047b</webElementGuid>
+      <webElementGuid>3fafedf9-6d6e-41bd-8bb4-1e100650ea00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex flex-col lg:flex-row gap-5 lg:gap-[142px] p-8 lg:px-[108px] lg:py-24</value>
-      <webElementGuid>16d2baac-b950-499d-9747-89cba22853a1</webElementGuid>
+      <webElementGuid>33cb34ef-aa97-4828-b573-1c269ef28277</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Diisi dan didukung oleh semua Profesional IT di MetrodataProgram edukasi dan berbagi pengalaman oleh tenaga ahli dari seluruh entitas Metrodata yang ditujukan untuk kalangan Pelajar/Mahasiswa, Dosen, dan Komunitas IT di seluruh Indonesia. Bertujuan untuk melakukan pembaharuan dan dialog antar semua pelaku IT.</value>
-      <webElementGuid>f69e8753-f85d-441e-affa-716c75b7420d</webElementGuid>
+      <webElementGuid>9e322482-5a8c-4071-871c-a8280cc269c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex flex-col lg:flex-row gap-5 lg:gap-[142px] p-8 lg:px-[108px] lg:py-24&quot;]</value>
-      <webElementGuid>e054a6b9-a8e8-4ebc-aba1-b90c646f4266</webElementGuid>
+      <webElementGuid>1714b74d-8077-4ab0-8742-9501d73a2d69</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]</value>
-      <webElementGuid>2e30b501-ebdf-4132-8ccb-0a0a841e46fc</webElementGuid>
+      <webElementGuid>0a19a7e4-175e-40ca-8eda-e9c4a0a62e3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Mengajar'])[2]/following::div[2]</value>
-      <webElementGuid>b2267006-0cd8-435f-bd53-14c0ff4ff06c</webElementGuid>
+      <webElementGuid>21740735-8fd5-40f1-8226-1dd5183e71c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::div[6]</value>
-      <webElementGuid>abd756ba-047e-495b-b183-327a4df26612</webElementGuid>
+      <webElementGuid>73be9ab1-895d-4df7-92ad-f8039024c2c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Acara di Metrodata Mengajar'])[1]/preceding::div[2]</value>
-      <webElementGuid>8a91e0d5-e979-4b6f-b2e3-39d194fd895f</webElementGuid>
+      <webElementGuid>209536d2-6bac-4535-8a34-26d69933d0a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[2]</value>
-      <webElementGuid>ea5cdef1-fcb9-41e1-96fb-a0296cf96915</webElementGuid>
+      <webElementGuid>3f689176-233a-4eda-bc50-ff12ced90303</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Diisi dan didukung oleh semua Profesional IT di MetrodataProgram edukasi dan berbagi pengalaman oleh tenaga ahli dari seluruh entitas Metrodata yang ditujukan untuk kalangan Pelajar/Mahasiswa, Dosen, dan Komunitas IT di seluruh Indonesia. Bertujuan untuk melakukan pembaharuan dan dialog antar semua pelaku IT.' or . = 'Diisi dan didukung oleh semua Profesional IT di MetrodataProgram edukasi dan berbagi pengalaman oleh tenaga ahli dari seluruh entitas Metrodata yang ditujukan untuk kalangan Pelajar/Mahasiswa, Dosen, dan Komunitas IT di seluruh Indonesia. Bertujuan untuk melakukan pembaharuan dan dialog antar semua pelaku IT.')]</value>
-      <webElementGuid>972ab97b-ea25-4e9d-a0ad-a4d5562dca85</webElementGuid>
+      <webElementGuid>f35841bd-30ce-4017-b68c-17a4d5df36c9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

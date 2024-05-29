@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>99863889-e780-4836-89bf-0944484edad0</webElementGuid>
+      <webElementGuid>c814adc3-7c92-44bf-aba9-a10f5796a25e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-gray-500 text-base lg:text-xl lg:leading-[30px]</value>
-      <webElementGuid>972ce6f1-2490-4059-aca9-1f2f6f32be4d</webElementGuid>
+      <webElementGuid>15e5ab70-8875-4759-bdaa-043030992426</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Metrodata Academy dibangun untuk ikut mencerdaskan kehidupan bangsa oleh:</value>
-      <webElementGuid>7affd737-0e16-43ac-afb0-397d607e98ef</webElementGuid>
+      <webElementGuid>b3651a3a-7ceb-4d17-8806-c791e2b39132</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;px-8 lg:px-[108px]&quot;]/div[@class=&quot;flex flex-col gap-10 justify-center items-center max-w-7xl mx-auto&quot;]/div[@class=&quot;text-center&quot;]/p[@class=&quot;text-gray-500 text-base lg:text-xl lg:leading-[30px]&quot;]</value>
-      <webElementGuid>432b0638-084c-444a-ab1b-2b01d77f3eb7</webElementGuid>
+      <webElementGuid>f218cde2-af8e-47e9-9092-b8cc331b2a62</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[3]/div/div/p[2]</value>
-      <webElementGuid>67f70e6d-7879-4b1c-8a72-25fe0c32261c</webElementGuid>
+      <webElementGuid>40e410a1-3ae8-476d-96a8-704a75e2dbc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Academy'])[3]/following::p[2]</value>
-      <webElementGuid>1d276dba-5ac9-4e98-8d4e-88b86033cd2a</webElementGuid>
+      <webElementGuid>0822fc7d-8c19-4838-b7e3-f2537ddb3618</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::p[14]</value>
-      <webElementGuid>8a942f7f-41ad-4298-8f33-2f8b4b1b29aa</webElementGuid>
+      <webElementGuid>17e29d54-3e7d-4b02-9ed3-ae94657624c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::p[15]</value>
-      <webElementGuid>553487da-d8ce-4763-9ab6-3a71306ed8a7</webElementGuid>
+      <webElementGuid>74c75325-8582-4f0d-88b0-958548bdbb53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Metrodata Academy dibangun untuk ikut mencerdaskan kehidupan bangsa oleh:']/parent::*</value>
-      <webElementGuid>9e660f0d-35ff-451d-b93e-8868caed7710</webElementGuid>
+      <webElementGuid>b118f42f-760d-4266-9b86-b53c82d9dab0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/p[2]</value>
-      <webElementGuid>fdfb7b68-4ed5-459b-a5dd-0e5979dabace</webElementGuid>
+      <webElementGuid>7bace885-4174-4336-a614-47feb4a3606e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Metrodata Academy dibangun untuk ikut mencerdaskan kehidupan bangsa oleh:' or . = 'Metrodata Academy dibangun untuk ikut mencerdaskan kehidupan bangsa oleh:')]</value>
-      <webElementGuid>ca97e3f7-d84d-4d4c-8954-d035bc9fbf5f</webElementGuid>
+      <webElementGuid>fe652ada-32a1-4c99-b2da-73da084af0c1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

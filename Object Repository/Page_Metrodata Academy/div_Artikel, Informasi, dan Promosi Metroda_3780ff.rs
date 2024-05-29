@@ -6,12 +6,11 @@
    <elementGuidId>219c31ba-79ea-4252-84e4-f6162a97430d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>9769a720-fa91-4160-ae63-e1898395863a</webElementGuid>
+      <webElementGuid>b218aa41-22d8-4dea-8977-a8dbee840274</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bg-cerulean-50 lg:px-[108px] px-9 pt-40 lg:pb-24 pb-8</value>
-      <webElementGuid>60feb209-f1f9-44cf-a4f9-45210dbb4157</webElementGuid>
+      <webElementGuid>83d924dd-bcb0-4d38-96b8-ba6586d92876</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -180,7 +179,7 @@ Project secara langsung
 Untuk teman-teman yang penasaran dan mau menambah pengalaman kalian, yuk segera daftar program MSIB Batch VI di sini.
 Magang Bersertifikat: https://bit.ly/KMMBatch6 Studi Independen Bersertifikat: https://bit.ly/kmbatch6 
 FirstPrevious123NextLast</value>
-      <webElementGuid>158fa39a-0d63-4d51-8626-17dd70070493</webElementGuid>
+      <webElementGuid>b69f6c8c-a92e-49cf-92eb-c06b8ac0de4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -188,7 +187,7 @@ FirstPrevious123NextLast</value>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;bg-cerulean-50 lg:px-[108px] px-9 pt-40 lg:pb-24 pb-8&quot;]</value>
-      <webElementGuid>de8f431c-7d78-49a2-8e6d-a4bae80d0e9f</webElementGuid>
+      <webElementGuid>f47ee6d5-dd95-4000-96e7-0831c7141731</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -196,7 +195,7 @@ FirstPrevious123NextLast</value>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div</value>
-      <webElementGuid>8184c229-7d23-45cf-adfc-c428b5379b72</webElementGuid>
+      <webElementGuid>617390ce-e29a-40b6-8f14-8a9f2bada1d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -204,7 +203,7 @@ FirstPrevious123NextLast</value>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::div[2]</value>
-      <webElementGuid>79766ced-e513-47f6-85e0-6f218a073346</webElementGuid>
+      <webElementGuid>fbd0769a-396b-45b2-9ec6-86a530c7426d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -212,7 +211,7 @@ FirstPrevious123NextLast</value>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::div[2]</value>
-      <webElementGuid>4d976005-5ff5-4968-92c7-9b4bf07f649b</webElementGuid>
+      <webElementGuid>4cf0177d-df6e-491d-aa23-5066a56efca6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -220,7 +219,7 @@ FirstPrevious123NextLast</value>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div</value>
-      <webElementGuid>835114df-036c-4c1a-ad7b-5e8ce6962162</webElementGuid>
+      <webElementGuid>eeae5fc0-e3cd-45d3-986a-ab99bc2cd7c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -512,6 +511,6 @@ Project secara langsung
 Untuk teman-teman yang penasaran dan mau menambah pengalaman kalian, yuk segera daftar program MSIB Batch VI di sini.
 Magang Bersertifikat: https://bit.ly/KMMBatch6 Studi Independen Bersertifikat: https://bit.ly/kmbatch6 
 FirstPrevious123NextLast')]</value>
-      <webElementGuid>cbb2bacd-cf0b-4bf9-8124-13773866735f</webElementGuid>
+      <webElementGuid>237b8716-6d38-43c1-9f0c-73e43aa2bf03</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

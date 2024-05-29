@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>38f73ca8-3872-4dd0-a414-65da73a60e55</webElementGuid>
+      <webElementGuid>68de226d-6537-42d3-b753-3d533422801a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>py-4 px-4 sm:pr-3 bg-[#F9FAFB] sm:mt-20 lg:mt-24 lg:flex lg:items-center lg:justify-between lg:gap-x-3</value>
-      <webElementGuid>6b8c7166-2d2b-4d4c-ae5d-f9888904f960</webElementGuid>
+      <webElementGuid>c70bdb4b-0e16-4735-90d6-45429f9d07bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Dapatkan penawaran menarik dan berita terbaruEmail addressSubscribe</value>
-      <webElementGuid>da89ff04-9cf1-41a2-a616-3e4a23a0acf6</webElementGuid>
+      <webElementGuid>dbd71dfc-04d6-4b53-8f32-a189caf4b968</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/footer[@class=&quot;bg-cerulean-50&quot;]/div[@class=&quot;px-8 lg:px-[108px]&quot;]/div[@class=&quot;pt-8 mt-16 sm:pt-0 sm:mt-0&quot;]/div[@class=&quot;px-0 xl:px-32&quot;]/div[@class=&quot;py-4 px-4 sm:pr-3 bg-[#F9FAFB] sm:mt-20 lg:mt-24 lg:flex lg:items-center lg:justify-between lg:gap-x-3&quot;]</value>
-      <webElementGuid>a7fe9c4e-e7fa-4547-83fc-ae0a95da441c</webElementGuid>
+      <webElementGuid>32500b4c-4443-4fc2-8ec4-f58ceb7f08ca</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/footer/div/div[2]/div/div</value>
-      <webElementGuid>aba976dc-6c9c-4f04-a1e4-3135ad581372</webElementGuid>
+      <webElementGuid>51c45d10-94e5-467e-a25c-fd0d4d17b102</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Support: contact@mii.co.id'])[1]/following::div[3]</value>
-      <webElementGuid>a0154a53-befd-4b69-a3c6-4594a17a0119</webElementGuid>
+      <webElementGuid>a545e5c3-820f-4bfb-8873-5086fa071092</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Office: +62 811 19 500900'])[1]/following::div[3]</value>
-      <webElementGuid>454cf710-51ab-4bfa-8af9-c7145e136b89</webElementGuid>
+      <webElementGuid>ecb542c3-0cff-4c78-9fe1-a0b61c471956</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//footer/div/div[2]/div/div</value>
-      <webElementGuid>0a57d1c3-3f77-49fb-b9e5-b01a6020987e</webElementGuid>
+      <webElementGuid>fd47fc19-0547-489b-8aeb-a3194ba0c912</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Dapatkan penawaran menarik dan berita terbaruEmail addressSubscribe' or . = 'Dapatkan penawaran menarik dan berita terbaruEmail addressSubscribe')]</value>
-      <webElementGuid>7091096d-82b8-4853-9117-2c00afb66afb</webElementGuid>
+      <webElementGuid>25e572c4-1d43-4321-a73c-4104c776eebb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

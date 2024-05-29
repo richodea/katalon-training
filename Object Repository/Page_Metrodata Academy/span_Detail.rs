@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>f0e2b229-f6c7-40e3-b47e-4fb74580cb33</webElementGuid>
+      <webElementGuid>c329e84f-35d4-413e-a181-68d134512c3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Detail</value>
-      <webElementGuid>23cd9e4e-4277-473b-a9ba-1685e8197f71</webElementGuid>
+      <webElementGuid>52850730-791e-4ab8-80fc-5a2ef984afd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;section-lihat-program&quot;)/div[@class=&quot;scroll-smooth&quot;]/div[@class=&quot;p-8 bg-[#F4F7FF] lg:py-24 lg:px-[108px]&quot;]/div[@class=&quot;flex flex-col items-center justify-center w-full mx-auto&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 md:place-content-center items-start gap-2&quot;]/div[@class=&quot;flex flex-col p-6 items-start gap-3 rounded-lg bg-white w-full h-full lg:max-w-[300px]&quot;]/div[@class=&quot;flex items-start w-full mt-auto&quot;]/a[@class=&quot;flex items-center text-sm lg:text-base font-normal leading-tight text-cerulean-600 hover:underline transition delay-150&quot;]/span[1]</value>
-      <webElementGuid>876619a9-d452-43cf-ad69-4c7ee2dffdd6</webElementGuid>
+      <webElementGuid>4524baf3-1a5b-4aaf-9307-c7573b73abce</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='section-lihat-program']/div/div/div/div[2]/div/div[2]/a/span</value>
-      <webElementGuid>ef9ab97c-60fe-4c95-bf8d-0662128dd3bc</webElementGuid>
+      <webElementGuid>55d90f11-0853-4ca4-a66c-1b08bb70d725</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bergabung dengan program unggulan kami'])[1]/following::span[1]</value>
-      <webElementGuid>37a497e3-4504-4259-878a-fd2189eb6ce1</webElementGuid>
+      <webElementGuid>c7b36f29-6ea9-4bde-9139-132aefce18f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[2]/preceding::span[1]</value>
-      <webElementGuid>9c31a31e-f866-44d1-bf8b-841c43e3dbf9</webElementGuid>
+      <webElementGuid>21702043-fa7c-46c5-9cc5-32874e7eff82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[3]/preceding::span[2]</value>
-      <webElementGuid>a3a83a45-775a-4bf0-85bc-73450f1c1ab5</webElementGuid>
+      <webElementGuid>b5a2a6e8-5acf-4921-9f70-99ced8d7700b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Detail']/parent::*</value>
-      <webElementGuid>10072c4a-e0aa-4329-9c65-af8a475702f2</webElementGuid>
+      <webElementGuid>55afe9d1-9ff2-42f9-8414-89de615afd98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div/div/div/div[2]/div/div[2]/a/span</value>
-      <webElementGuid>f71a993e-20de-4101-a538-295bed6079db</webElementGuid>
+      <webElementGuid>87a29bfc-005a-46a1-a575-7ee095999eb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Detail' or . = 'Detail')]</value>
-      <webElementGuid>ee973b72-6d2f-493e-ade8-d98add152f48</webElementGuid>
+      <webElementGuid>0dfce5b4-818f-4d4d-877d-b342a5a1a4e4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

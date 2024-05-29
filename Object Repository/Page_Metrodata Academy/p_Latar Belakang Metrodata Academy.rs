@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>3787775e-bb39-4507-9127-77eb7bccf7f0</webElementGuid>
+      <webElementGuid>6320cb7b-006b-4fb3-9955-85e65e0dcb9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-cerulean-600 text-3xl lg:text-4xl lg:leading-[45px] font-bold mb-[10px]</value>
-      <webElementGuid>c1a51f33-11b5-4e0d-a658-eee42e0b6843</webElementGuid>
+      <webElementGuid>db0353c5-320c-46b2-83c1-cb0b710d29b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Latar Belakang Metrodata Academy</value>
-      <webElementGuid>6cabc0a6-d78f-4812-9999-f099620e9b2f</webElementGuid>
+      <webElementGuid>c5fd2ac5-e71e-45d1-8c1f-2681826227b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;px-8 lg:px-[108px]&quot;]/div[@class=&quot;flex flex-col gap-10 justify-center items-center max-w-7xl mx-auto&quot;]/div[@class=&quot;text-center&quot;]/p[@class=&quot;text-cerulean-600 text-3xl lg:text-4xl lg:leading-[45px] font-bold mb-[10px]&quot;]</value>
-      <webElementGuid>7b3a98eb-7781-4b61-9b83-d47a3e171aeb</webElementGuid>
+      <webElementGuid>5f6624e5-1851-4c7d-bdb5-4ae15e2b238b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[3]/div/div/p</value>
-      <webElementGuid>b6557217-d864-4cc5-8d6f-f1c8560d8d0d</webElementGuid>
+      <webElementGuid>424ba509-3a97-4ab3-8e0f-e84a389918fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Academy'])[3]/following::p[1]</value>
-      <webElementGuid>e71515f8-682a-4414-83c1-6b3fefd182dc</webElementGuid>
+      <webElementGuid>da5a2cd1-91ab-4517-8b3d-2a34e0d4004f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::p[15]</value>
-      <webElementGuid>20496dc9-ad31-46db-a5ca-d69aadcd30b7</webElementGuid>
+      <webElementGuid>9f1d4999-ecc5-4cbb-abfe-8526048849b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::p[16]</value>
-      <webElementGuid>36d7d947-96e4-4e4d-a0ac-865db0ab8332</webElementGuid>
+      <webElementGuid>6717e9eb-fcb5-4df2-86a9-b193180a2c55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Latar Belakang Metrodata Academy']/parent::*</value>
-      <webElementGuid>7300eea8-ba85-44a9-9955-dc965f184f0c</webElementGuid>
+      <webElementGuid>ee0f8c6a-7bc3-4768-b2c0-299248b1583d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[3]/div/div/p</value>
-      <webElementGuid>3d29ba25-627f-494a-bbf1-276bb68a4357</webElementGuid>
+      <webElementGuid>95b8406c-45fc-45ef-a7bc-b11534457df1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Latar Belakang Metrodata Academy' or . = 'Latar Belakang Metrodata Academy')]</value>
-      <webElementGuid>445dc1b8-4497-40a7-8414-714e7200e12c</webElementGuid>
+      <webElementGuid>13f8149b-fba4-47be-b28a-f844acdd0e85</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

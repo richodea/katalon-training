@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>bf5dee8b-7f5e-48ac-b2e6-ba911b101238</webElementGuid>
+      <webElementGuid>39627e50-c94e-4927-8e61-5e80e102f927</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>katalon-rec_elementInfoDiv</value>
-      <webElementGuid>bb7f8653-9afc-4ff6-992d-12931dc07616</webElementGuid>
+      <webElementGuid>7b02c588-b905-4a3d-85c1-20762ada15e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>id(&quot;katalon-rec_elementInfoDiv&quot;)</value>
-      <webElementGuid>26af8e29-3d85-4890-b253-2d957f2db04b</webElementGuid>
+      <webElementGuid>1e3098ec-d723-4f5e-9790-d0d6a3dd9fe8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;katalon-rec_elementInfoDiv&quot;)</value>
-      <webElementGuid>dbdc143a-48b8-4a1c-9b70-16a6d43958f5</webElementGuid>
+      <webElementGuid>c4e2249f-3e11-4ffd-ab47-8a8ea20537af</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='katalon-rec_elementInfoDiv']</value>
-      <webElementGuid>13d7dac0-5969-48c1-ba38-69da6eec2bdc</webElementGuid>
+      <webElementGuid>8b1b07f4-3afc-4bca-94b1-b7c554ec82d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='katalon']/div</value>
-      <webElementGuid>0751f798-08d3-44bf-a4f9-28caf6674a2a</webElementGuid>
+      <webElementGuid>4cd1f415-6714-47bc-842d-03beace19d6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe'])[1]/following::div[3]</value>
-      <webElementGuid>5501894a-380d-4f08-b45e-776ec05fac29</webElementGuid>
+      <webElementGuid>7db3d373-bcc3-4dd6-8709-49aad1d209c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address'])[1]/following::div[3]</value>
-      <webElementGuid>24906f1a-d7c0-46f0-968e-3e79540abea7</webElementGuid>
+      <webElementGuid>4e99acd3-ac98-4b42-b2c8-a1bb5e886342</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='id(&quot;katalon-rec_elementInfoDiv&quot;)']/parent::*</value>
-      <webElementGuid>2748268e-a038-4825-8944-946db0da3796</webElementGuid>
+      <webElementGuid>54ad3896-3ac8-4d23-8ea9-4549fb2273f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div</value>
-      <webElementGuid>270afbc2-8904-436c-9a89-9c6bac2241fb</webElementGuid>
+      <webElementGuid>59eb5b99-5580-4474-b064-371287069376</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'katalon-rec_elementInfoDiv' and (text() = 'id(&quot;katalon-rec_elementInfoDiv&quot;)' or . = 'id(&quot;katalon-rec_elementInfoDiv&quot;)')]</value>
-      <webElementGuid>2a4127a7-4b1f-4d68-a61f-025112e2a4a9</webElementGuid>
+      <webElementGuid>86840d6c-288c-4ba5-aac9-66af1167b4ac</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

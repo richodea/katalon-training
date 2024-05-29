@@ -25,6 +25,8 @@ WebUI.navigateToUrl('https://metrodataacademy.id/')
 
 WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/a_Daftar'))
 
+WebUI.takeScreenshot()
+
 def userData = [['username1', '8SQVv/p9jVRYfSV/eMGvjg==', 'email1@example.com'], ['username2', '8SQVv/p9jVQz2gZTiSc0Fg=='
         , 'email2@example.com']]
 
@@ -46,11 +48,15 @@ for (def userDataEntry : userData) {
     WebUI.setEncryptedText(findTestObject('Object Repository/Page_Metrodata Academy/input__password'), password)
 
     WebUI.setEncryptedText(findTestObject('Object Repository/Page_Metrodata Academy/input__confirmPassword'), password)
+	
+	WebUI.takeScreenshot()
 
 	WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/div_Dengan mendaftar, Anda dianggap telah m_3e03ff'))
 	
 	WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/input__termsCondition'))
 	
 	WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/button_Daftar'))
+	
+	WebUI.takeScreenshot()
 }
 

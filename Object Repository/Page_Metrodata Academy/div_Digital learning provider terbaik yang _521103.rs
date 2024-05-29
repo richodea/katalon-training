@@ -6,12 +6,11 @@
    <elementGuidId>a576a217-c080-4c26-9fee-5f7db91dae57</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/footer/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d2c28811-8ce3-4d4e-90e6-d06dc174e373</webElementGuid>
+      <webElementGuid>103a6ff7-e431-494c-a97f-f15b2605b340</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>px-8 lg:px-[108px]</value>
-      <webElementGuid>e8c7e1de-d7ba-475c-ae0a-6add4c7fe735</webElementGuid>
+      <webElementGuid>a1edb0bc-c6f9-4d82-bc25-b16a7bd92d80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Digital learning provider terbaik yang mampu meningkatkan potensi Anda serta menjembatani kesenjangan digital bagi profesional dan akademisi.FacebookInstagramLinkedinYouTubePerusahaanTerms &amp; ConditionTentang KamiArtikelForumProgramMetrodata InternshipMetrodata IT CampMetrodata TrainingMetrodata MengajarBantuanFAQKontak KamiHotline (Hari Kerja, Pukul 08.00 - 17.00)APL Tower Lt.37 Suite 1-8 Jl. Letjen S. Parman Kav.28, Kel. Tanjung Duren Selatan, Kec. Grogol Petamburan, Kota Administrasi Jakarta BaratOffice: +62 811 19 500900Support: contact@mii.co.idDapatkan penawaran menarik dan berita terbaruEmail addressSubscribe</value>
-      <webElementGuid>1d6222fd-d62c-4bae-83c6-d0b8140e5628</webElementGuid>
+      <webElementGuid>c58b39f6-4e9e-49f8-a92f-ff6fe0f3517b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/footer[@class=&quot;bg-cerulean-50&quot;]/div[@class=&quot;px-8 lg:px-[108px]&quot;]</value>
-      <webElementGuid>560811a9-b2d1-49ed-b9f0-71979a35dc45</webElementGuid>
+      <webElementGuid>c15c1d59-eec4-4044-8912-240df4f2e412</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/footer/div</value>
-      <webElementGuid>7139a90b-1652-4168-a7ed-76cdc7c2b447</webElementGuid>
+      <webElementGuid>7bbe67d9-7181-4ccc-b244-2b49ff08b6fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/following::div[1]</value>
-      <webElementGuid>69767e7d-0740-4a8c-9c75-667a0fe7f043</webElementGuid>
+      <webElementGuid>be0109ef-a126-4971-8f76-10950067cab2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Untuk keperluan hukum.'])[1]/following::div[2]</value>
-      <webElementGuid>0fb0c3cb-14d7-4f0e-b22a-83bae9b5e620</webElementGuid>
+      <webElementGuid>6263a514-3928-4a40-a4fd-66532774f0f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//footer/div</value>
-      <webElementGuid>eaddfb2d-51bd-4a80-a45a-1976e9b9cf8e</webElementGuid>
+      <webElementGuid>72371528-9e0d-462f-ab94-a2361b8b0b47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Digital learning provider terbaik yang mampu meningkatkan potensi Anda serta menjembatani kesenjangan digital bagi profesional dan akademisi.FacebookInstagramLinkedinYouTubePerusahaanTerms &amp; ConditionTentang KamiArtikelForumProgramMetrodata InternshipMetrodata IT CampMetrodata TrainingMetrodata MengajarBantuanFAQKontak KamiHotline (Hari Kerja, Pukul 08.00 - 17.00)APL Tower Lt.37 Suite 1-8 Jl. Letjen S. Parman Kav.28, Kel. Tanjung Duren Selatan, Kec. Grogol Petamburan, Kota Administrasi Jakarta BaratOffice: +62 811 19 500900Support: contact@mii.co.idDapatkan penawaran menarik dan berita terbaruEmail addressSubscribe' or . = 'Digital learning provider terbaik yang mampu meningkatkan potensi Anda serta menjembatani kesenjangan digital bagi profesional dan akademisi.FacebookInstagramLinkedinYouTubePerusahaanTerms &amp; ConditionTentang KamiArtikelForumProgramMetrodata InternshipMetrodata IT CampMetrodata TrainingMetrodata MengajarBantuanFAQKontak KamiHotline (Hari Kerja, Pukul 08.00 - 17.00)APL Tower Lt.37 Suite 1-8 Jl. Letjen S. Parman Kav.28, Kel. Tanjung Duren Selatan, Kec. Grogol Petamburan, Kota Administrasi Jakarta BaratOffice: +62 811 19 500900Support: contact@mii.co.idDapatkan penawaran menarik dan berita terbaruEmail addressSubscribe')]</value>
-      <webElementGuid>f3e450da-f319-4b61-97ba-be18f7cbf39b</webElementGuid>
+      <webElementGuid>3a040a40-e7f1-4ff7-b603-275511858460</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/footer/div/div</value>
-      <webElementGuid>4a2439e8-c30c-4007-864c-1f353f494a25</webElementGuid>
+      <webElementGuid>09b03cb9-810a-41e3-8d86-48c507ba999c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/following::div[2]</value>
-      <webElementGuid>c6f429cd-e66b-42e0-851b-9a9f5f60b4c9</webElementGuid>
+      <webElementGuid>1e48baa8-e6e9-4f71-8995-742f0a22290e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Last'])[1]/following::div[2]</value>
-      <webElementGuid>c36058ce-085f-4954-82bc-a0d3c8134869</webElementGuid>
+      <webElementGuid>9ba9791f-569a-40d4-933b-89d19f2b624a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//footer/div/div</value>
-      <webElementGuid>27bf2289-f8bb-425d-b12d-d53e23444604</webElementGuid>
+      <webElementGuid>7fc9e3ff-6102-44ca-a04c-f3d6cc2dbe54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +125,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Digital learning provider terbaik yang mampu meningkatkan potensi Anda serta menjembatani kesenjangan digital bagi profesional dan akademisi.FacebookInstagramLinkedinYouTubePerusahaanTerms &amp; ConditionTentang KamiArtikelForumProgramMetrodata InternshipMetrodata IT CampMetrodata TrainingMetrodata MengajarBantuanFAQKontak KamiHotline (Hari Kerja, Pukul 08.00 - 17.00)APL Tower Lt.37 Suite 1-8 Jl. Letjen S. Parman Kav.28, Kel. Tanjung Duren Selatan, Kec. Grogol Petamburan, Kota Administrasi Jakarta BaratOffice: +62 811 19 500900Support: contact@mii.co.id' or . = 'Digital learning provider terbaik yang mampu meningkatkan potensi Anda serta menjembatani kesenjangan digital bagi profesional dan akademisi.FacebookInstagramLinkedinYouTubePerusahaanTerms &amp; ConditionTentang KamiArtikelForumProgramMetrodata InternshipMetrodata IT CampMetrodata TrainingMetrodata MengajarBantuanFAQKontak KamiHotline (Hari Kerja, Pukul 08.00 - 17.00)APL Tower Lt.37 Suite 1-8 Jl. Letjen S. Parman Kav.28, Kel. Tanjung Duren Selatan, Kec. Grogol Petamburan, Kota Administrasi Jakarta BaratOffice: +62 811 19 500900Support: contact@mii.co.id')]</value>
-      <webElementGuid>56150ffb-619f-4766-91ea-a35a8564eb6c</webElementGuid>
+      <webElementGuid>72e4c06d-7e6c-4db2-b7ba-b4f4cc82a21d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +133,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Academy'])[3]/following::div[31]</value>
-      <webElementGuid>480622d2-a63b-4e0d-9215-0967b02a8ecd</webElementGuid>
+      <webElementGuid>fbc05f34-c842-40b5-8cbb-91f8d6b0a5da</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

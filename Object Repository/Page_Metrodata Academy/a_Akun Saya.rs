@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8cabdf35-f31b-4ffe-a510-6ae0580a3621</webElementGuid>
+      <webElementGuid>f8b4d4f5-d2e8-48f6-873c-f3c6222fe41c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/profile</value>
-      <webElementGuid>e35a44fd-963b-4cbc-849d-c122708bb1e6</webElementGuid>
+      <webElementGuid>7ccc5290-a3e8-4833-953c-42ef7c2c8a66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100</value>
-      <webElementGuid>ecca1793-3270-4df2-93a9-6c4c185822c1</webElementGuid>
+      <webElementGuid>899c4ad1-5c77-4f54-ab59-ef69bca5ed29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Akun Saya </value>
-      <webElementGuid>e7b9f18c-1fe4-40c6-bbbe-9799ee33e9e5</webElementGuid>
+      <webElementGuid>0414210e-a98e-4a75-a632-9289f0195bf1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;headlessui-popover-panel-:rj:&quot;)/div[@class=&quot;py-1&quot;]/a[@class=&quot;block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100&quot;]</value>
-      <webElementGuid>3d1c32cf-ffee-43cb-a93a-04f2d6715215</webElementGuid>
+      <webElementGuid>2fe79150-bdc8-4259-960c-8997ef31c011</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='headlessui-popover-panel-:rj:']/div/a</value>
-      <webElementGuid>d1d20630-617f-4131-9ba3-0dddcb3a8188</webElementGuid>
+      <webElementGuid>39a0c3ad-bfb1-41a3-a37d-bc5b38c1484a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Akun Saya')]</value>
-      <webElementGuid>007bf896-555b-41a2-8f6a-74810901c1bc</webElementGuid>
+      <webElementGuid>0e65f63d-e618-4a0d-a736-1bd7775f4afe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='M Gilang Rizky Ramadhan'])[1]/following::a[1]</value>
-      <webElementGuid>c09530ad-df0a-4582-9140-a8944f30e205</webElementGuid>
+      <webElementGuid>311fabdd-cf9b-4097-bbfd-b6f60766c4be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::a[1]</value>
-      <webElementGuid>b880ef04-e34d-4229-a0b3-67801f27f8df</webElementGuid>
+      <webElementGuid>d799f2e7-ecdd-4034-84e9-a050d2b36f7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Keluar'])[1]/preceding::a[1]</value>
-      <webElementGuid>fa163151-3485-4fc9-bab8-df4a5098c964</webElementGuid>
+      <webElementGuid>2f7bd036-ede1-4a6e-a489-6d754790348e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Akun Saya']/parent::*</value>
-      <webElementGuid>1204b074-751d-4165-ae2d-7b7111c6a4b7</webElementGuid>
+      <webElementGuid>4bfc15f3-3d5c-48b4-afdc-ead7e104c5ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/profile')]</value>
-      <webElementGuid>8f1900fa-ff9a-4efa-9c59-d24a2a4583b1</webElementGuid>
+      <webElementGuid>4f5dd475-8886-4f60-969c-61ab09ba14f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div/div/a</value>
-      <webElementGuid>9ec3add1-9885-4b11-85c8-e1d302226e41</webElementGuid>
+      <webElementGuid>7da2e0f3-be53-40bb-8a4b-960380c36c1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/profile' and (text() = 'Akun Saya ' or . = 'Akun Saya ')]</value>
-      <webElementGuid>fbf348c9-eab5-4a2e-888e-3bc7de48cece</webElementGuid>
+      <webElementGuid>7dc95581-3e7f-420a-94f6-31239fc0a711</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

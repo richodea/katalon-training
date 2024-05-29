@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>381d61e5-ad5b-4a77-8acf-ed81b92e4946</webElementGuid>
+      <webElementGuid>3f265eeb-f5f7-4068-80cb-8a2e827eb0f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>block w-full px-4 py-2 text-sm text-left text-gray-700 hover:bg-gray-100</value>
-      <webElementGuid>929e0a86-3198-43c2-b7c4-e68a49e68236</webElementGuid>
+      <webElementGuid>a6d0fe23-4b0a-4f88-9ce3-cc7a11059e56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Keluar </value>
-      <webElementGuid>2e4b4953-3213-44bc-aec1-54cb1d6d9b53</webElementGuid>
+      <webElementGuid>90f70c4b-8a10-4431-8a14-30cd9880d076</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;headlessui-popover-panel-:rf:&quot;)/div[@class=&quot;py-1&quot;]/button[@class=&quot;block w-full px-4 py-2 text-sm text-left text-gray-700 hover:bg-gray-100&quot;]</value>
-      <webElementGuid>2764a5af-188b-4632-9716-dc3e089fc29c</webElementGuid>
+      <webElementGuid>ee118689-1fbe-49a9-ab32-32d231515d46</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='headlessui-popover-panel-:rf:']/div/button</value>
-      <webElementGuid>665b67c0-9aac-46e5-b93b-671a0ad2368d</webElementGuid>
+      <webElementGuid>6451a59b-2112-42f2-b2c5-deea96f9dbde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Akun Saya'])[1]/following::button[1]</value>
-      <webElementGuid>1ce7448f-6734-44af-b657-21eee7ddf934</webElementGuid>
+      <webElementGuid>b8f9ac11-f464-43e0-8427-3c466c654ad1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='M Gilang Rizky Ramadhan'])[1]/following::button[1]</value>
-      <webElementGuid>1ad4d9ea-2dd0-483d-89b1-184503f5d9ed</webElementGuid>
+      <webElementGuid>910cadd8-ddbc-4fd2-ba4e-c464b7e55a79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='with Metrodata Academy'])[1]/preceding::button[1]</value>
-      <webElementGuid>6faff9bf-9c2f-4276-8b97-d862ee493653</webElementGuid>
+      <webElementGuid>2bb1fde5-283e-4542-9747-3c14ada25953</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Keluar']/parent::*</value>
-      <webElementGuid>917450fc-6428-4ee3-bc3c-423346b78040</webElementGuid>
+      <webElementGuid>3db730d6-8906-457c-8440-d729eabea708</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/button</value>
-      <webElementGuid>24f0b57e-e925-40da-a1a3-2c60b9f51547</webElementGuid>
+      <webElementGuid>8a575481-f226-43ec-9df4-e645c0fc8805</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Keluar ' or . = 'Keluar ')]</value>
-      <webElementGuid>d167e587-8130-40b0-a226-2b851e2c46ff</webElementGuid>
+      <webElementGuid>d84c8289-2858-4a83-9342-2852ead36c9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='headlessui-popover-panel-:ri:']/div/button</value>
-      <webElementGuid>92007ab5-91dd-4fbc-8507-c45d04dff6dc</webElementGuid>
+      <webElementGuid>9fc051c4-9c2b-4b7c-9b8c-5974ebcba7ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='headlessui-popover-panel-:r3:']/div/button</value>
-      <webElementGuid>6d92ce7b-7bb9-4203-b3bf-e42f9d954b7c</webElementGuid>
+      <webElementGuid>b0e07db0-c352-4151-91e2-7f73db1349a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil'])[1]/preceding::button[1]</value>
-      <webElementGuid>fb9d18ba-ea5d-4f53-b3d6-88847d61f301</webElementGuid>
+      <webElementGuid>6512497d-f207-4114-bb3d-6af47259856b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +133,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Akun'])[1]/preceding::button[1]</value>
-      <webElementGuid>027cf9c5-dfff-4bfd-a54f-3f5848bf17ca</webElementGuid>
+      <webElementGuid>65f9acb5-5b8d-427f-a63e-1cda248e9426</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

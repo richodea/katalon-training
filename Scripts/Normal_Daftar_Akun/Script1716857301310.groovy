@@ -23,15 +23,23 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://metrodataacademy.id/')
 
+WebUI.takeScreenshot()
+
 WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/a_Daftar'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Metrodata Academy/input__name'), 'John Pantau')
+WebUI.setText(findTestObject('Object Repository/Page_Metrodata Academy/input__name'), 'John Rantau')
 
-WebUI.setText(findTestObject('Object Repository/Page_Metrodata Academy/input__email'), 'linda.123@gmail.com')
+WebUI.takeScreenshot()
+
+WebUI.setText(findTestObject('Object Repository/Page_Metrodata Academy/input__email'), 'linda.12@gmail.com')
+
+WebUI.takeScreenshot()
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Metrodata Academy/input__password'), '91fPDUXtYEteSfbq5cOxLA==')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Metrodata Academy/input__confirmPassword'), '91fPDUXtYEteSfbq5cOxLA==')
+
+WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/svg__h-5 w-5 text-gray-700'))
 
@@ -41,9 +49,13 @@ WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/div_Dengan 
 
 WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/input__termsCondition'))
 
+WebUI.takeScreenshot()
+
 WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/button_Daftar'))
 
 WebUI.delay(5)
+
+WebUI.takeScreenshot()
 
 WebUI.closeBrowser()
 

@@ -6,12 +6,12 @@
    <elementGuidId>3d674aec-6e82-4649-bea3-81dae35eb031</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.flex.flex-col.h-full.mx-auto.border.border-1.rounded-lg.w-full.mb-10</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div/div[3]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-col.h-full.mx-auto.border.border-1.rounded-lg.w-full.mb-10</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>346a7f46-9ce1-400d-9b01-b13d4ef2ed9e</webElementGuid>
+      <webElementGuid>ce36491b-667d-4aa9-afa3-a00385952ee5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex flex-col h-full mx-auto border border-1 rounded-lg w-full mb-10</value>
-      <webElementGuid>8ec2e16b-76f6-4959-992c-94f6de9262c8</webElementGuid>
+      <webElementGuid>e6ce0d38-735b-4f86-8750-81f84580112a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>May 2024Previous weekTodayNext weekOpen menuM27T28W29T30F31Mon 27Tue 28Wed 29Thu 30Fri 31Oracle Database 19c: Performance Management and TuningRed Hat - RHCSARHCSA Rapid Track CourseCertified Ethical Hacker (CEH) v.12 NEW</value>
-      <webElementGuid>da3b5e16-57cb-40a5-9b54-cc648365bfde</webElementGuid>
+      <webElementGuid>f9a77f58-14b5-427b-8ebc-822c3440cef8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex flex-col px-8 pb-8 lg:px-[108px]&quot;]/div[@class=&quot;flex flex-col h-full mx-auto border border-1 rounded-lg w-full mb-10&quot;]</value>
-      <webElementGuid>3f3dec82-929c-41ec-b468-708013fa6a27</webElementGuid>
+      <webElementGuid>7213830c-f738-4c6c-b750-c09f5649d5d3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[3]/div[3]</value>
-      <webElementGuid>60543464-fabb-4a62-a7c6-438e9fd6c2d0</webElementGuid>
+      <webElementGuid>bc97914d-873c-471e-99c4-3f5d01265174</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Internship'])[2]/following::div[1]</value>
-      <webElementGuid>326a97bc-a887-4724-aba2-d1c25dfd5374</webElementGuid>
+      <webElementGuid>9416dc28-8cd4-424d-8e24-5bfe77da32b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Mengajar'])[2]/following::div[1]</value>
-      <webElementGuid>465d0ffa-03aa-4132-a3f9-907fec5231c9</webElementGuid>
+      <webElementGuid>06a7bc3d-8d58-4f13-9044-4d55889a0441</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[3]</value>
-      <webElementGuid>ba5285b9-1f82-44d0-a0a6-ef5dd30fdde7</webElementGuid>
+      <webElementGuid>47637221-4a27-48de-9e7f-9d5ee40cf3c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'May 2024Previous weekTodayNext weekOpen menuM27T28W29T30F31Mon 27Tue 28Wed 29Thu 30Fri 31Oracle Database 19c: Performance Management and TuningRed Hat - RHCSARHCSA Rapid Track CourseCertified Ethical Hacker (CEH) v.12 NEW' or . = 'May 2024Previous weekTodayNext weekOpen menuM27T28W29T30F31Mon 27Tue 28Wed 29Thu 30Fri 31Oracle Database 19c: Performance Management and TuningRed Hat - RHCSARHCSA Rapid Track CourseCertified Ethical Hacker (CEH) v.12 NEW')]</value>
-      <webElementGuid>7b8749dd-065d-4213-aa71-44a3a2ebb922</webElementGuid>
+      <webElementGuid>1994ae13-6267-448d-83e2-11fcc6e6c163</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

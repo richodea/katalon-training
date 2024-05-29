@@ -6,12 +6,11 @@
    <elementGuidId>203acb96-4149-488d-9acf-999f54120b25</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>9a4ee98a-0906-4d3a-a9ec-7446a489ad09</webElementGuid>
+      <webElementGuid>099ded8c-1233-4e2f-ba2f-760b6b6cc8b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>py-9 px-8 lg:py-24 lg:px-[108px]</value>
-      <webElementGuid>e76fbb5e-9021-4933-8091-647df03832be</webElementGuid>
+      <webElementGuid>3184859e-ced8-4218-87cb-ef553d704384</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Keuntungan yang kamu dapatkan di Metrodata MengajarBerbagi PengalamanBerbagi ilmu dan pengalaman oleh para profesional di bidangnya.Peserta mendapat ilmu dan pengalaman selama 2 jam secara gratis.Sertifikasi KehadiranMetrodata Academy memberi sertifikat secara gratis bagi peserta.Sertifikat dapat digunakan untuk berbagai kebutuhan peserta.Uji Pengetahuan melalui Kuis InteraktifTantang diri dan pengetahuanmu melalui kuis interaktif dari Metrodata Academy.Dapatkan sertifikat gratis dan hadiah menarik setelah menyelesaikan kuis interaktif.Sesi Tanya Jawab dengan IT ProfesionalProgram bersifat interaktif.Peserta dapat langsung berinteraksi dan berdiskusi dengan pembicara.</value>
-      <webElementGuid>22b35dfb-a214-451f-8f84-646cddbbaa85</webElementGuid>
+      <webElementGuid>ba0a45d9-0f8e-44c4-a917-7ee50f049ac1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;py-9 px-8 lg:py-24 lg:px-[108px]&quot;]</value>
-      <webElementGuid>b196418c-aefa-4fec-ad05-6f1be6de5838</webElementGuid>
+      <webElementGuid>c8f8b3d4-a359-4bfd-90e6-24ef60af5124</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[4]</value>
-      <webElementGuid>b3524a3b-f98e-4afb-8897-a4bebebd9948</webElementGuid>
+      <webElementGuid>027d8b85-5218-40cf-acca-d832bdf1408f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat semua kegiatan'])[1]/following::div[1]</value>
-      <webElementGuid>862f0214-d683-4b15-9536-4a2b7e437638</webElementGuid>
+      <webElementGuid>cf8850c0-d328-4e12-b71f-fce5c182671d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sekarang'])[3]/following::div[2]</value>
-      <webElementGuid>7ffae911-0c67-4a7a-90e4-f38942deeca2</webElementGuid>
+      <webElementGuid>716f93ef-5093-4741-a361-2e5e6028db02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[4]</value>
-      <webElementGuid>40d01304-d163-4c1f-aae4-f56fe3834bf1</webElementGuid>
+      <webElementGuid>ac5863bd-ae0f-426a-8a88-d37353f3326a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Keuntungan yang kamu dapatkan di Metrodata MengajarBerbagi PengalamanBerbagi ilmu dan pengalaman oleh para profesional di bidangnya.Peserta mendapat ilmu dan pengalaman selama 2 jam secara gratis.Sertifikasi KehadiranMetrodata Academy memberi sertifikat secara gratis bagi peserta.Sertifikat dapat digunakan untuk berbagai kebutuhan peserta.Uji Pengetahuan melalui Kuis InteraktifTantang diri dan pengetahuanmu melalui kuis interaktif dari Metrodata Academy.Dapatkan sertifikat gratis dan hadiah menarik setelah menyelesaikan kuis interaktif.Sesi Tanya Jawab dengan IT ProfesionalProgram bersifat interaktif.Peserta dapat langsung berinteraksi dan berdiskusi dengan pembicara.' or . = 'Keuntungan yang kamu dapatkan di Metrodata MengajarBerbagi PengalamanBerbagi ilmu dan pengalaman oleh para profesional di bidangnya.Peserta mendapat ilmu dan pengalaman selama 2 jam secara gratis.Sertifikasi KehadiranMetrodata Academy memberi sertifikat secara gratis bagi peserta.Sertifikat dapat digunakan untuk berbagai kebutuhan peserta.Uji Pengetahuan melalui Kuis InteraktifTantang diri dan pengetahuanmu melalui kuis interaktif dari Metrodata Academy.Dapatkan sertifikat gratis dan hadiah menarik setelah menyelesaikan kuis interaktif.Sesi Tanya Jawab dengan IT ProfesionalProgram bersifat interaktif.Peserta dapat langsung berinteraksi dan berdiskusi dengan pembicara.')]</value>
-      <webElementGuid>98b89cab-1c22-4cd9-a638-b2fcd6bdc6ad</webElementGuid>
+      <webElementGuid>ada89f5f-5b7e-4e16-9096-9600ec72b772</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

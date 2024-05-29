@@ -6,12 +6,11 @@
    <elementGuidId>922bef25-c313-453d-b884-a99901de38ee</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/footer/div/div/div[2]/div/div[2]/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f02ec93d-a343-45dd-9085-ad8249cd8c37</webElementGuid>
+      <webElementGuid>08521a4a-001e-4acb-99b9-adfa70a75c14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/metrodata-mengajar</value>
-      <webElementGuid>f5711b3e-2bb4-4dda-bde7-368c37c15563</webElementGuid>
+      <webElementGuid>5f24f1aa-3890-469e-8601-6b9ae812ab7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-sm leading-6 text-[#888]</value>
-      <webElementGuid>a58bb625-9218-45a0-b70f-243bf581406e</webElementGuid>
+      <webElementGuid>2246f9f8-731a-4e46-9864-72f58495cb06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Metrodata Mengajar</value>
-      <webElementGuid>e67ca428-c89e-446e-b4ff-06942869f132</webElementGuid>
+      <webElementGuid>4ccd2f7e-ad10-43c4-a748-aac9d9c95b71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/footer[@class=&quot;bg-cerulean-50&quot;]/div[@class=&quot;px-8 lg:px-[108px]&quot;]/div[@class=&quot;xl:flex xl:flex-row xl:justify-center xl:mx-auto xl:gap-10 pt-16&quot;]/div[@class=&quot;grid grid-cols-2 xl:flex gap-[10px] mt-16 xl:flex-row xl:mt-0&quot;]/div[@class=&quot;grid-cols-2 gap-[10px] md:flex md:flex-row md:gap-[10px] xl:w-9/12&quot;]/div[@class=&quot;mt-10 md:mt-0 sm:w-full xl:w-9/12 w-auto&quot;]/ul[@class=&quot;mt-4 space-y-4&quot;]/li[4]/a[@class=&quot;text-sm leading-6 text-[#888]&quot;]</value>
-      <webElementGuid>5b3bc0cb-6994-424c-984f-440d2d38158c</webElementGuid>
+      <webElementGuid>fe118672-9757-4459-ad0a-bfe5f41db291</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/footer/div/div/div[2]/div/div[2]/ul/li[4]/a</value>
-      <webElementGuid>e0a60a75-4312-4731-bbf1-d974f8add07f</webElementGuid>
+      <webElementGuid>bd2a13b0-b796-418e-be59-9b1b0b15a9e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Metrodata Mengajar')])[2]</value>
-      <webElementGuid>cfcd44c7-9fc7-486f-8b21-59cab2e2a1c4</webElementGuid>
+      <webElementGuid>1114fbd7-1673-4aaf-af98-0e753977599b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Training'])[4]/following::a[1]</value>
-      <webElementGuid>df7322cc-6539-4791-9285-5af60c80e793</webElementGuid>
+      <webElementGuid>f1813a93-d2fc-4543-a951-ff608e320d54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata IT Camp'])[4]/following::a[2]</value>
-      <webElementGuid>15006b39-022a-4f62-aadf-d6032eba6fa0</webElementGuid>
+      <webElementGuid>536114a6-8609-4a90-970a-1e8484a320de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bantuan'])[1]/preceding::a[1]</value>
-      <webElementGuid>fb0720a8-b566-4563-a368-634746bed7d6</webElementGuid>
+      <webElementGuid>fc030720-79b1-4ea5-877d-721c21d910a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/preceding::a[1]</value>
-      <webElementGuid>7ac634b0-7d35-4262-b307-e79f56a34071</webElementGuid>
+      <webElementGuid>3377c65e-e70a-4c6f-9b29-1a66efca312e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/metrodata-mengajar')])[3]</value>
-      <webElementGuid>d48a215f-3f38-48fa-9a0e-7b2a9fc17dbc</webElementGuid>
+      <webElementGuid>c12c0f00-1f96-4ca9-8dce-e2ce3b71eddf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/ul/li[4]/a</value>
-      <webElementGuid>0ef3a66b-bac2-48d3-9a9c-b79dfbddf558</webElementGuid>
+      <webElementGuid>59798324-c85e-497e-9efe-5844c1edefb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/metrodata-mengajar' and (text() = 'Metrodata Mengajar' or . = 'Metrodata Mengajar')]</value>
-      <webElementGuid>724f2cc1-b315-4315-be0d-ea6777044f54</webElementGuid>
+      <webElementGuid>225cf0c2-0090-4850-b25f-7c662a98a383</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

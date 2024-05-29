@@ -6,12 +6,11 @@
    <elementGuidId>24bf1431-ca7e-4a72-8498-168656da19a6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>6918fad3-73ac-49b1-b43f-8bf0c69a8042</webElementGuid>
+      <webElementGuid>4128db8a-081b-4123-a5fe-850d206231eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bg-white p-8 lg:pb-[96px] lg:px-[96px] lg:pt-[76px]</value>
-      <webElementGuid>b20e7af1-e642-4e34-a094-b2080ccd5438</webElementGuid>
+      <webElementGuid>72a5adb6-3603-4cb7-8c35-e90a3df19d29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Nikmati keuntunganbersama Metrodata Academy01Solusi Lengkap EdukasiMetrodata Academy memberi beragam pilihan kebutuhan edukasi, mulai dari pelatihan dan sertifikasi profesional, program akademi kampus, penempatan kerja, magang, sampai dengan berbagai ilmu terkait Teknologi Informasi.02Pengajar HandalKami memiliki mentor atau pengajar yang sudah berpengalaman dan ahli di bidangnya untuk Anda.03Dapat Belajar di mana punMetrodata Academy dapat diakses di mana saja sehingga Anda dapat belajar dengan mentor handal di mana pun.</value>
-      <webElementGuid>c02c84ae-9f76-4fbc-b05c-89e5addbf6d1</webElementGuid>
+      <webElementGuid>58068b28-ed0b-47ac-adb0-94db280d34b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;bg-white p-8 lg:pb-[96px] lg:px-[96px] lg:pt-[76px]&quot;]</value>
-      <webElementGuid>c9478c18-d1e2-40d7-961d-53708626830e</webElementGuid>
+      <webElementGuid>3e67619a-c76a-4241-82df-f6d4f24d2bbc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[4]</value>
-      <webElementGuid>e3893052-8bd9-4cc0-b973-4480a79f2305</webElementGuid>
+      <webElementGuid>bb8cacc8-42a8-4bac-a623-1b27a11b3ae0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[4]/following::div[1]</value>
-      <webElementGuid>1d2bb061-2a9a-4fa2-94a2-9f6b616b6eb8</webElementGuid>
+      <webElementGuid>8ad138ef-47a3-4fcb-a830-db66e3f4df4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[3]/following::div[6]</value>
-      <webElementGuid>51ab736b-3508-4547-a2e1-38d388800019</webElementGuid>
+      <webElementGuid>3db37189-258d-4f91-a081-369256439c73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[4]</value>
-      <webElementGuid>bb9053db-5165-493a-b9cc-baedab0b1f1e</webElementGuid>
+      <webElementGuid>502af02c-89ee-4eb3-84c9-46902679d1ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Nikmati keuntunganbersama Metrodata Academy01Solusi Lengkap EdukasiMetrodata Academy memberi beragam pilihan kebutuhan edukasi, mulai dari pelatihan dan sertifikasi profesional, program akademi kampus, penempatan kerja, magang, sampai dengan berbagai ilmu terkait Teknologi Informasi.02Pengajar HandalKami memiliki mentor atau pengajar yang sudah berpengalaman dan ahli di bidangnya untuk Anda.03Dapat Belajar di mana punMetrodata Academy dapat diakses di mana saja sehingga Anda dapat belajar dengan mentor handal di mana pun.' or . = 'Nikmati keuntunganbersama Metrodata Academy01Solusi Lengkap EdukasiMetrodata Academy memberi beragam pilihan kebutuhan edukasi, mulai dari pelatihan dan sertifikasi profesional, program akademi kampus, penempatan kerja, magang, sampai dengan berbagai ilmu terkait Teknologi Informasi.02Pengajar HandalKami memiliki mentor atau pengajar yang sudah berpengalaman dan ahli di bidangnya untuk Anda.03Dapat Belajar di mana punMetrodata Academy dapat diakses di mana saja sehingga Anda dapat belajar dengan mentor handal di mana pun.')]</value>
-      <webElementGuid>085c1f71-f618-4104-91a2-00ea077b1000</webElementGuid>
+      <webElementGuid>c051b2c3-c5b0-4620-a2b6-bdbb5c1d8119</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
